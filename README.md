@@ -1,9 +1,9 @@
 # EC2 Instance Timeline
-A historical overview of EC2 instance releases, based on information shared by [@jeffbar](https://mobile.twitter.com/jeffbarr) and publicly available information on the [AWS website.](https://aws.amazon.com)
+A historical overview of EC2 instance releases, based on information shared by [@jeffbar](https://mobile.twitter.com/jeffbarr) and publicly available information on the [AWS website.](https://aws.amazon.com) Now accessible via - [https://instancetyp.es](https://instancetyp.es/)
 
 **Sources** :
 * [Amazon EC2 product pages](https://aws.amazon.com/ec2)
-* [EC2 Instance history](https://aws.amazon.com/blogs/aws/ec2-instance-history/) | blog post
+* [Blog post: EC2 Instance history](https://aws.amazon.com/blogs/aws/ec2-instance-history/)
 * [Recent and historical announcements from AWS](https://aws.amazon.com/new/)
 
 ## Timeline structure
