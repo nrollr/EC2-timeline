@@ -1,5 +1,5 @@
 # EC2 Instance Timeline
-A historical overview of EC2 instance releases, based on information shared by [@jeffbar](https://mobile.twitter.com/jeffbarr) and publicly available information on the [AWS website.](https://aws.amazon.com) Now accessible via - [https://instancetyp.es](https://instancetyp.es/)
+A historical overview of EC2 instance releases, based on information shared by [@jeffbarr](https://mobile.twitter.com/jeffbarr) and publicly available information on the [AWS website.](https://aws.amazon.com) Now accessible via - [https://instancetyp.es](https://instancetyp.es/)
 
 **Sources** :
 * [Amazon EC2 product pages](https://aws.amazon.com/ec2)
