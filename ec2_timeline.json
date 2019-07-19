@@ -1,0 +1,3931 @@
+{
+	"release": "v1.1.0",
+	"origin": "https://instancetyp.es/ec2_timeline.json",
+	"published": "Jul 19, 2019",
+	"instances": [
+		{
+			"_index": 1,
+			"uid": "451c1cd49a2f955d",
+			"instance_type": "m1.small",
+			"instance_category": "General Purpose",
+			"instance_generation": "Previous generation",
+			"release_month": "Augustus",
+			"release_year": 2006,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2006/08/24/announcing-amazon-elastic-compute-cloud-amazon-ec2---beta/",
+				"published": "Aug 24, 2006"
+			},
+			"blog_post": {
+				"url": "NULL",
+				"published": "NULL"
+			}
+		},
+		{
+			"_index": 2,
+			"uid": "85589f23e811f229",
+			"instance_type": "m1.large",
+			"instance_category": "General Purpose",
+			"instance_generation": "Previous generation",
+			"release_month": "October",
+			"release_year": 2007,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2007/10/22/amazon-ec2-now-in-unlimited-beta-and-launching-new-instance-types/",
+				"published": "Oct 22, 2007"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/amazon-ec2-gets/",
+				"published": "Oct 16, 2007"
+			}
+		},
+		{
+			"_index": 3,
+			"uid": "db881dc65b70a128",
+			"instance_type": "m1.xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Previous generation",
+			"release_month": "October",
+			"release_year": 2007,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2007/10/22/amazon-ec2-now-in-unlimited-beta-and-launching-new-instance-types/",
+				"published": "Oct 22, 2007"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/amazon-ec2-gets/",
+				"published": "Oct 16, 2007"
+			}
+		},
+		{
+			"_index": 4,
+			"uid": "719785bb62b69257",
+			"instance_type": "c1.medium",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "May",
+			"release_year": 2008,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "NULL",
+				"published": "NULL"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/more-ec2-power/",
+				"published": "May 29, 2008"
+			}
+		},
+		{
+			"_index": 5,
+			"uid": "14861a4162144a39",
+			"instance_type": "c1.xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "May",
+			"release_year": 2008,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "NULL",
+				"published": "NULL"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/more-ec2-power/",
+				"published": "May 29, 2008"
+			}
+		},
+		{
+			"_index": 6,
+			"uid": "0204afdbb01d1e39",
+			"instance_type": "m2.2xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "October",
+			"release_year": 2009,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2009/10/27/announcing-amazon-ec2-high-memory-instances/",
+				"published": "Oct 27, 2009"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-ec2-instance-type-m2xlarge/",
+				"published": "Oct 27, 2009"
+			}
+		},
+		{
+			"_index": 7,
+			"uid": "402230d55ac40b3d",
+			"instance_type": "m2.4xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "October",
+			"release_year": 2009,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2009/10/27/announcing-amazon-ec2-high-memory-instances/",
+				"published": "Oct 27, 2009"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-ec2-instance-type-m2xlarge/",
+				"published": "Oct 27, 2009"
+			}
+		},
+		{
+			"_index": 8,
+			"uid": "47d092273fc720af",
+			"instance_type": "m2.xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "February",
+			"release_year": 2010,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2010/02/23/Amazon-EC2-Now-Offers-Extra-Large-High-Memory-Instances/",
+				"published": "Feb 23, 2010"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-ec2-instance-type-m2xlarge/",
+				"published": "Feb 22, 2010"
+			}
+		},
+		{
+			"_index": 9,
+			"uid": "6fabd67a7645aa5b",
+			"instance_type": "cc1.4xlarge",
+			"instance_category": "Cluster Compute",
+			"instance_generation": "Previous generation",
+			"release_month": "July",
+			"release_year": 2010,
+			"product_page": "NULL",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2010/07/13/announcing-cluster-compute-instances-for-amazon-ec2/",
+				"published": "Jul 13, 2010"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/the-new-amazon-ec2-instance-type-the-cluster-compute-instance/",
+				"published": "Jul 13, 2010"
+			}
+		},
+		{
+			"_index": 10,
+			"uid": "a4004d9227d252bb",
+			"instance_type": "t1.micro",
+			"instance_category": "Micro",
+			"instance_generation": "Previous generation",
+			"release_month": "September",
+			"release_year": 2010,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2010/09/09/announcing-micro-instances-for-amazon-ec2/",
+				"published": "Sep 9, 2010"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-micro-instances/",
+				"published": "Sep 09, 2010"
+			}
+		},
+		{
+			"_index": 11,
+			"uid": "2b69ab23d8a2d382",
+			"instance_type": "cg1.4xlarge",
+			"instance_category": "Cluster GPU",
+			"instance_generation": "Previous generation",
+			"release_month": "November",
+			"release_year": 2010,
+			"product_page": "NULL",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2010/11/15/announcing-cluster-gpu-instances-for-amazon-ec2/",
+				"published": "Nov 15, 2010"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-ec2-instance-type-the-cluster-gpu-instance/",
+				"published": "Nov 15, 2010"
+			}
+		},
+		{
+			"_index": 12,
+			"uid": "580ffe5a7c96457f",
+			"instance_type": "cc2.8xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "November",
+			"release_year": 2011,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2011/11/14/announcing-new-ec2-cluster-compute-instance/",
+				"published": "Nov 14, 2011"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/next-generation-cluster-computing-on-amazon-ec2-the-cc2-instance-type/",
+				"published": "Nov 14, 2011"
+			}
+		},
+		{
+			"_index": 13,
+			"uid": "a8892c784bcd640a",
+			"instance_type": "m1.medium",
+			"instance_category": "General Purpose",
+			"instance_generation": "Previous generation",
+			"release_month": "March",
+			"release_year": 2012,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2012/03/07/three-new-Amazon-EC2-features/",
+				"published": "Mar 07, 2012"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-updates-new-instance-64-bit-bit-ubiquity-ssh-client/",
+				"published": "Mar 07, 2012"
+			}
+		},
+		{
+			"_index": 14,
+			"uid": "66cfb564aca0f5d6",
+			"instance_type": "hi1.4xlarge",
+			"instance_category": "High I/O",
+			"instance_generation": "Previous generation",
+			"release_month": "July",
+			"release_year": 2012,
+			"product_page": "NULL",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2012/07/18/announcing-high-io-instances-for-amazon-ec2/",
+				"published": "Jul 18, 2012"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-high-io-ec2-instance-type-hi14xlarge/",
+				"published": "Jul 18, 2012"
+			}
+		},
+		{
+			"_index": 15,
+			"uid": "cfa02b37b3714c6d",
+			"instance_type": "m3.xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Previous generation",
+			"release_month": "October",
+			"release_year": 2012,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2012/10/31/announcing-amazon-ec2-m3-instances-and-m1-price-drop/",
+				"published": "Oct 31, 2012"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-ec2-second-generation-standard-instances-and-price-reductions-1/",
+				"published": "Oct 31, 2012"
+			}
+		},
+		{
+			"_index": 16,
+			"uid": "118c83517a66e90a",
+			"instance_type": "m3.2xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Previous generation",
+			"release_month": "October",
+			"release_year": 2012,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2012/10/31/announcing-amazon-ec2-m3-instances-and-m1-price-drop/",
+				"published": "Oct 31, 2012"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-ec2-second-generation-standard-instances-and-price-reductions-1/",
+				"published": "Oct 31, 2012"
+			}
+		},
+		{
+			"_index": 17,
+			"uid": "35cf0920239d9ff4",
+			"instance_type": "hs1.8xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "December",
+			"release_year": 2012,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2012/12/21/announcing-high-storage-instances-for-amazon-ec2/",
+				"published": "Dec 21, 2012"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/the-new-ec2-high-storage-instance-family/",
+				"published": "Dec 21, 2012"
+			}
+		},
+		{
+			"_index": 18,
+			"uid": "05ed3e0c1b386b0d",
+			"instance_type": "cr1.8xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "January",
+			"release_year": 2013,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2013/01/21/announcing-high-mem-cluster-instances-for-amazon-ec2/",
+				"published": "Jan 21, 2013"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-for-in-memory-computing-the-high-memory-cluster-eight-extra-large/",
+				"published": "Jan 22, 2013"
+			}
+		},
+		{
+			"_index": 19,
+			"uid": "621c80075156ac27",
+			"instance_type": "g2.2xlarge",
+			"instance_category": "GPU Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "November",
+			"release_year": 2013,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2013/11/04/announcing-new-amazon-ec2-gpu-instance-type/",
+				"published": "Nov 4, 2013"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/build-3d-streaming-applications-with-ec2s-new-g2-instance-type/",
+				"published": "Nov 05, 2013"
+			}
+		},
+		{
+			"_index": 20,
+			"uid": "7dc28a83875204a4",
+			"instance_type": "c3.large",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "November",
+			"release_year": 2013,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2013/11/14/announcing-new-amazon-ec2-compute-optimized-instances/",
+				"published": "Nov 14, 2013"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/a-generation-of-ec2-instances-for-compute-intensive-workloads/",
+				"published": "Nov 14, 2013"
+			}
+		},
+		{
+			"_index": 21,
+			"uid": "42df84c86d437783",
+			"instance_type": "c3.xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "November",
+			"release_year": 2013,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2013/11/14/announcing-new-amazon-ec2-compute-optimized-instances/",
+				"published": "Nov 14, 2013"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/a-generation-of-ec2-instances-for-compute-intensive-workloads/",
+				"published": "Nov 14, 2013"
+			}
+		},
+		{
+			"_index": 22,
+			"uid": "c4cc93d60d028582",
+			"instance_type": "c3.2xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "November",
+			"release_year": 2013,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2013/11/14/announcing-new-amazon-ec2-compute-optimized-instances/",
+				"published": "Nov 14, 2013"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/a-generation-of-ec2-instances-for-compute-intensive-workloads/",
+				"published": "Nov 14, 2013"
+			}
+		},
+		{
+			"_index": 23,
+			"uid": "3fc49241f3649c3d",
+			"instance_type": "c3.4xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "November",
+			"release_year": 2013,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2013/11/14/announcing-new-amazon-ec2-compute-optimized-instances/",
+				"published": "Nov 14, 2013"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/a-generation-of-ec2-instances-for-compute-intensive-workloads/",
+				"published": "Nov 14, 2013"
+			}
+		},
+		{
+			"_index": 24,
+			"uid": "f52e77056d74e8cc",
+			"instance_type": "c3.8xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "November",
+			"release_year": 2013,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2013/11/14/announcing-new-amazon-ec2-compute-optimized-instances/",
+				"published": "Nov 14, 2013"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/a-generation-of-ec2-instances-for-compute-intensive-workloads/",
+				"published": "Nov 14, 2013"
+			}
+		},
+		{
+			"_index": 25,
+			"uid": "e4c250300f6fe81f",
+			"instance_type": "i2.xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "December",
+			"release_year": 2013,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2013/12/19/o-instance/",
+				"published": "Dec 19, 2013"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/amazon-ec2-new-i2-instance-type-available-now/",
+				"published": "Dec 20, 2013"
+			}
+		},
+		{
+			"_index": 26,
+			"uid": "6d9ad369cc981c64",
+			"instance_type": "i2.2xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "December",
+			"release_year": 2013,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2013/12/19/o-instance/",
+				"published": "Dec 19, 2013"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/amazon-ec2-new-i2-instance-type-available-now/",
+				"published": "Dec 20, 2013"
+			}
+		},
+		{
+			"_index": 27,
+			"uid": "815853229a46d010",
+			"instance_type": "i2.4xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "December",
+			"release_year": 2013,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2013/12/19/o-instance/",
+				"published": "Dec 19, 2013"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/amazon-ec2-new-i2-instance-type-available-now/",
+				"published": "Dec 20, 2013"
+			}
+		},
+		{
+			"_index": 28,
+			"uid": "f18eef012b009e9d",
+			"instance_type": "i2.8xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "December",
+			"release_year": 2013,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2013/12/19/o-instance/",
+				"published": "Dec 19, 2013"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/amazon-ec2-new-i2-instance-type-available-now/",
+				"published": "Dec 20, 2013"
+			}
+		},
+		{
+			"_index": 29,
+			"uid": "d709c0ad22b464da",
+			"instance_type": "m3.medium",
+			"instance_category": "General Purpose",
+			"instance_generation": "Previous generation",
+			"release_month": "January",
+			"release_year": 2014,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2014/01/21/announcing-new-amazon-ec2-m3-instance-sizes-and-lower-prices-for-amazon-s3-and-amazon-ebs/",
+				"published": "Jan 21, 2014"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/aws-update-new-m3-features-reduced-ebs-prices-reduced-s3-prices/",
+				"published": "Jan 21, 2014"
+			}
+		},
+		{
+			"_index": 30,
+			"uid": "52ef681c18f82948",
+			"instance_type": "m3.large",
+			"instance_category": "General Purpose",
+			"instance_generation": "Previous generation",
+			"release_month": "January",
+			"release_year": 2014,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2014/01/21/announcing-new-amazon-ec2-m3-instance-sizes-and-lower-prices-for-amazon-s3-and-amazon-ebs/",
+				"published": "Jan 21, 2014"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/aws-update-new-m3-features-reduced-ebs-prices-reduced-s3-prices/",
+				"published": "Jan 21, 2014"
+			}
+		},
+		{
+			"_index": 31,
+			"uid": "d547c9a2ec5e03d2",
+			"instance_type": "r3.large",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "April",
+			"release_year": 2014,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2014/04/10/r3-announcing-the-next-generation-of-amazon-ec2-memory-optimized-instances/",
+				"published": "Apr 10, 2014"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-new-memory-optimized-ec2-instances/",
+				"published": "Apr 10, 2014"
+			}
+		},
+		{
+			"_index": 32,
+			"uid": "bbb0ffe4c8237aae",
+			"instance_type": "r3.xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "April",
+			"release_year": 2014,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2014/04/10/r3-announcing-the-next-generation-of-amazon-ec2-memory-optimized-instances/",
+				"published": "Apr 10, 2014"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-new-memory-optimized-ec2-instances/",
+				"published": "Apr 10, 2014"
+			}
+		},
+		{
+			"_index": 33,
+			"uid": "07dd9e7b33ad18d0",
+			"instance_type": "r3.2xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "April",
+			"release_year": 2014,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2014/04/10/r3-announcing-the-next-generation-of-amazon-ec2-memory-optimized-instances/",
+				"published": "Apr 10, 2014"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-new-memory-optimized-ec2-instances/",
+				"published": "Apr 10, 2014"
+			}
+		},
+		{
+			"_index": 34,
+			"uid": "b631000a0f785b3f",
+			"instance_type": "r3.4xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "April",
+			"release_year": 2014,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2014/04/10/r3-announcing-the-next-generation-of-amazon-ec2-memory-optimized-instances/",
+				"published": "Apr 10, 2014"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-new-memory-optimized-ec2-instances/",
+				"published": "Apr 10, 2014"
+			}
+		},
+		{
+			"_index": 35,
+			"uid": "543a2a71d148a3c0",
+			"instance_type": "r3.8xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "April",
+			"release_year": 2014,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2014/04/10/r3-announcing-the-next-generation-of-amazon-ec2-memory-optimized-instances/",
+				"published": "Apr 10, 2014"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-new-memory-optimized-ec2-instances/",
+				"published": "Apr 10, 2014"
+			}
+		},
+		{
+			"_index": 36,
+			"uid": "8889b175288adf70",
+			"instance_type": "t2.micro",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current generation",
+			"release_month": "July",
+			"release_year": 2014,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t2/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2014/07/01/introducing-t2-the-new-low-cost-general-purpose-instance-type-for-amazon-ec2/",
+				"published": "Jul 1, 2014"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances/",
+				"published": "Jul 1, 2014"
+			}
+		},
+		{
+			"_index": 37,
+			"uid": "701698fbd216d481",
+			"instance_type": "t2.small",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current generation",
+			"release_month": "July",
+			"release_year": 2014,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t2/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2014/07/01/introducing-t2-the-new-low-cost-general-purpose-instance-type-for-amazon-ec2/",
+				"published": "Jul 1, 2014"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances/",
+				"published": "Jul 1, 2014"
+			}
+		},
+		{
+			"_index": 38,
+			"uid": "f4dec9de98a46129",
+			"instance_type": "t2.medium",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current generation",
+			"release_month": "July",
+			"release_year": 2014,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t2/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2014/07/01/introducing-t2-the-new-low-cost-general-purpose-instance-type-for-amazon-ec2/",
+				"published": "Jul 1, 2014"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances/",
+				"published": "Jul 1, 2014"
+			}
+		},
+		{
+			"_index": 39,
+			"uid": "55ee97c96a09683f",
+			"instance_type": "c4.large",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current generation",
+			"release_month": "January",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#Compute_Optimized",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/01/11/amazon-ec2-c4-instances-now-available/",
+				"published": "Jan 11, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-c4-instances/",
+				"published": "Nov 13, 2014"
+			}
+		},
+		{
+			"_index": 40,
+			"uid": "33b593d21dc0ac1c",
+			"instance_type": "c4.xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current generation",
+			"release_month": "January",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#Compute_Optimized",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/01/11/amazon-ec2-c4-instances-now-available/",
+				"published": "Jan 11, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-c4-instances/",
+				"published": "Nov 13, 2014"
+			}
+		},
+		{
+			"_index": 41,
+			"uid": "a91c924abdb12942",
+			"instance_type": "c4.2xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current generation",
+			"release_month": "January",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#Compute_Optimized",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/01/11/amazon-ec2-c4-instances-now-available/",
+				"published": "Jan 11, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-c4-instances/",
+				"published": "Nov 13, 2014"
+			}
+		},
+		{
+			"_index": 42,
+			"uid": "34c3df9fdc228196",
+			"instance_type": "c4.4xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current generation",
+			"release_month": "January",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#Compute_Optimized",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/01/11/amazon-ec2-c4-instances-now-available/",
+				"published": "Jan 11, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-c4-instances/",
+				"published": "Nov 13, 2014"
+			}
+		},
+		{
+			"_index": 43,
+			"uid": "4327717e5e9957f2",
+			"instance_type": "c4.8xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current generation",
+			"release_month": "January",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#Compute_Optimized",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/01/11/amazon-ec2-c4-instances-now-available/",
+				"published": "Jan 11, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-c4-instances/",
+				"published": "Nov 13, 2014"
+			}
+		},
+		{
+			"_index": 44,
+			"uid": "6a221f39dc187c2c",
+			"instance_type": "d2.xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current generation",
+			"release_month": "March",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#Storage_Optimized",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/03/now-available-d2-instances-the-latest-generation-of-amazon-ec2-dense-storage-instances/",
+				"published": "Mar 30, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/next-generation-of-dense-storage-instances-for-ec2/",
+				"published": "Mar 31, 2015"
+			}
+		},
+		{
+			"_index": 45,
+			"uid": "0ee1a9bc15f5e88a",
+			"instance_type": "d2.2xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current generation",
+			"release_month": "March",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#Storage_Optimized",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/03/now-available-d2-instances-the-latest-generation-of-amazon-ec2-dense-storage-instances/",
+				"published": "Mar 30, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/next-generation-of-dense-storage-instances-for-ec2/",
+				"published": "Mar 31, 2015"
+			}
+		},
+		{
+			"_index": 46,
+			"uid": "e1119a12798cca00",
+			"instance_type": "d2.4xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current generation",
+			"release_month": "March",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#Storage_Optimized",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/03/now-available-d2-instances-the-latest-generation-of-amazon-ec2-dense-storage-instances/",
+				"published": "Mar 30, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/next-generation-of-dense-storage-instances-for-ec2/",
+				"published": "Mar 31, 2015"
+			}
+		},
+		{
+			"_index": 47,
+			"uid": "f12c94399badeb2d",
+			"instance_type": "d2.8xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current generation",
+			"release_month": "March",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#Storage_Optimized",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/03/now-available-d2-instances-the-latest-generation-of-amazon-ec2-dense-storage-instances/",
+				"published": "Mar 30, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/next-generation-of-dense-storage-instances-for-ec2/",
+				"published": "Mar 31, 2015"
+			}
+		},
+		{
+			"_index": 48,
+			"uid": "b7dbd4041ea30d37",
+			"instance_type": "g2.8xlarge",
+			"instance_category": "GPU Optimized",
+			"instance_generation": "Previous generation",
+			"release_month": "April",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/04/introducing-a-new-g2-instance-size-the-g28xlarge/",
+				"published": "Apr 16, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-g2-instance-type-with-4x-more-gpu-power/",
+				"published": "Apr 17, 2015"
+			}
+		},
+		{
+			"_index": 49,
+			"uid": "3d912394ef72297a",
+			"instance_type": "m4.large",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current generation",
+			"release_month": "June",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#General_Purpose",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/06/introducing-m4-instances-and-lower-amazon-ec2-instance-prices/",
+				"published": "Jun 11, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/the-new-m4-instance-type-bonus-price-reduction-on-m3-c4/",
+				"published": "Jun 11, 2015"
+			}
+		},
+		{
+			"_index": 50,
+			"uid": "9760b91d27d21448",
+			"instance_type": "m4.xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current generation",
+			"release_month": "June",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#General_Purpose",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/06/introducing-m4-instances-and-lower-amazon-ec2-instance-prices/",
+				"published": "Jun 11, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/the-new-m4-instance-type-bonus-price-reduction-on-m3-c4/",
+				"published": "Jun 11, 2015"
+			}
+		},
+		{
+			"_index": 51,
+			"uid": "f6ebb689a1ea5c0d",
+			"instance_type": "m4.2xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current generation",
+			"release_month": "June",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#General_Purpose",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/06/introducing-m4-instances-and-lower-amazon-ec2-instance-prices/",
+				"published": "Jun 11, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/the-new-m4-instance-type-bonus-price-reduction-on-m3-c4/",
+				"published": "Jun 11, 2015"
+			}
+		},
+		{
+			"_index": 52,
+			"uid": "d46e6916e89fdba1",
+			"instance_type": "m4.4xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current generation",
+			"release_month": "June",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#General_Purpose",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/06/introducing-m4-instances-and-lower-amazon-ec2-instance-prices/",
+				"published": "Jun 11, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/the-new-m4-instance-type-bonus-price-reduction-on-m3-c4/",
+				"published": "Jun 11, 2015"
+			}
+		},
+		{
+			"_index": 53,
+			"uid": "5edea7851a817693",
+			"instance_type": "m4.10xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current generation",
+			"release_month": "June",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#General_Purpose",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/06/introducing-m4-instances-and-lower-amazon-ec2-instance-prices/",
+				"published": "Jun 11, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/the-new-m4-instance-type-bonus-price-reduction-on-m3-c4/",
+				"published": "Jun 11, 2015"
+			}
+		},
+		{
+			"_index": 54,
+			"uid": "3cfeac3053ae281b",
+			"instance_type": "t2.large",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current generation",
+			"release_month": "June",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t2/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/06/introducing-a-new-amazon-ec2-t2-instance-t2-large/",
+				"published": "Jun 16, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-t2-large-instances/",
+				"published": "Jun 17, 2015"
+			}
+		},
+		{
+			"_index": 55,
+			"uid": "f1cd4be04da6285b",
+			"instance_type": "t2.nano",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current generation",
+			"release_month": "December",
+			"release_year": 2015,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t2/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2015/12/introducing-t2-nano-the-smallest-lowest-cost-amazon-ec2-instance/",
+				"published": "Dec 15, 2015"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available/",
+				"published": "Dec 15, 2015"
+			}
+		},
+		{
+			"_index": 56,
+			"uid": "26f50bfb45fdce8e",
+			"instance_type": "x1.32xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "May",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/x1/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/05/now-available-x1-instances-the-largest-amazon-ec2-memory-optimized-instance-with-2-tb-of-memory/",
+				"published": "May 18, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/x1-instances-for-ec2-ready-for-your-memory-intensive-workloads/",
+				"published": "May 18, 2016"
+			}
+		},
+		{
+			"_index": 57,
+			"uid": "2e123bf9c15a31cd",
+			"instance_type": "m4.16xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "September",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#General_Purpose",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/09/introducing-new-m4-instance-size-m4-16xlarge-and-new-region-availability-of-m4-instances/",
+				"published": "Sep 27, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/expanding-the-m4-instance-type-new-m4-16xlarge/",
+				"published": "Sep 27, 2016"
+			}
+		},
+		{
+			"_index": 58,
+			"uid": "5814625a9f0bbae7",
+			"instance_type": "p2.xlarge",
+			"instance_category": "Accelererated Computing",
+			"instance_generation": "Current Generation",
+			"release_month": "September",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/p2/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/09/introducing-amazon-ec2-p2-instances-the-largest-gpu-powered-virtual-machine-in-the-cloud/",
+				"published": "Sep 29, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-p2-instance-type-for-amazon-ec2-up-to-16-gpus/",
+				"published": "Sep 27, 2016"
+			}
+		},
+		{
+			"_index": 59,
+			"uid": "3228ce5b326c49d8",
+			"instance_type": "p2.8xlarge",
+			"instance_category": "Accelererated Computing",
+			"instance_generation": "Current Generation",
+			"release_month": "September",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/p2/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/09/introducing-amazon-ec2-p2-instances-the-largest-gpu-powered-virtual-machine-in-the-cloud/",
+				"published": "Sep 29, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-p2-instance-type-for-amazon-ec2-up-to-16-gpus/",
+				"published": "Sep 27, 2016"
+			}
+		},
+		{
+			"_index": 60,
+			"uid": "fef30902a8ab2544",
+			"instance_type": "p2.16xlarge",
+			"instance_category": "accelererated Computing",
+			"instance_generation": "Current Generation",
+			"release_month": "September",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/p2/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/09/introducing-amazon-ec2-p2-instances-the-largest-gpu-powered-virtual-machine-in-the-cloud/",
+				"published": "Sep 29, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-p2-instance-type-for-amazon-ec2-up-to-16-gpus/",
+				"published": "Sep 27, 2016"
+			}
+		},
+		{
+			"_index": 61,
+			"uid": "b6d709b6322da53b",
+			"instance_type": "x1.16xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "October",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/x1/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/10/introducing-new-amazon-ec2-c1-instance-size-x1-16xlarge-and-expansion-of-x1-instances-to-new-regions/",
+				"published": "Oct 10, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/x1-instance-update-x1-16xlarge-more-regions/",
+				"published": "Oct 10, 2016"
+			}
+		},
+		{
+			"_index": 62,
+			"uid": "652f383b861de418",
+			"instance_type": "c5.large",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-c5-instances-the-next-generation-of-compute-optimized-instances/",
+				"published": "Nov 06, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-compute-intensive-c5-instances-for-amazon-ec2/",
+				"published": "Nov 06, 2016"
+			}
+		},
+		{
+			"_index": 63,
+			"uid": "09a369df03a416bf",
+			"instance_type": "c5.xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-c5-instances-the-next-generation-of-compute-optimized-instances/",
+				"published": "Nov 06, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-compute-intensive-c5-instances-for-amazon-ec2/",
+				"published": "Nov 06, 2016"
+			}
+		},
+		{
+			"_index": 64,
+			"uid": "bf6b93e5295a6029",
+			"instance_type": "c5.2xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-c5-instances-the-next-generation-of-compute-optimized-instances/",
+				"published": "Nov 06, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-compute-intensive-c5-instances-for-amazon-ec2/",
+				"published": "Nov 06, 2016"
+			}
+		},
+		{
+			"_index": 65,
+			"uid": "37b8723bd0cb65a8",
+			"instance_type": "c5.4xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-c5-instances-the-next-generation-of-compute-optimized-instances/",
+				"published": "Nov 06, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-compute-intensive-c5-instances-for-amazon-ec2/",
+				"published": "Nov 06, 2016"
+			}
+		},
+		{
+			"_index": 66,
+			"uid": "54c223e8fbfafa85",
+			"instance_type": "c5.9xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-c5-instances-the-next-generation-of-compute-optimized-instances/",
+				"published": "Nov 06, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-compute-intensive-c5-instances-for-amazon-ec2/",
+				"published": "Nov 06, 2016"
+			}
+		},
+		{
+			"_index": 67,
+			"uid": "3eb542308a51ab4e",
+			"instance_type": "c5.18xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-c5-instances-the-next-generation-of-compute-optimized-instances/",
+				"published": "Nov 06, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-compute-intensive-c5-instances-for-amazon-ec2/",
+				"published": "Nov 06, 2016"
+			}
+		},
+		{
+			"_index": 68,
+			"uid": "d821f375cbd16aee",
+			"instance_type": "f1.2xlarge",
+			"instance_category": "Accelererated Computing",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/f1/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/11/available-for-preview-amazon-ec2-f1-instances-custom-fpgas-for-hardware-acceleration/",
+				"published": "Nov 30, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/developer-preview-ec2-instances-f1-with-programmable-hardware/",
+				"published": "Nov 30, 2016"
+			}
+		},
+		{
+			"_index": 69,
+			"uid": "1c07427ea1823aea",
+			"instance_type": "f1.16xlarge",
+			"instance_category": "Accelererated Computing",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/f1/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/11/available-for-preview-amazon-ec2-f1-instances-custom-fpgas-for-hardware-acceleration/",
+				"published": "Nov 30, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/developer-preview-ec2-instances-f1-with-programmable-hardware/",
+				"published": "Nov 30, 2016"
+			}
+		},
+		{
+			"_index": 70,
+			"uid": "200d7ac4830d3849",
+			"instance_type": "i3.large",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/i3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/11/coming-soon-amazon-ec2-i3-instances-next-generation-storage-optimized-high-io-instances/",
+				"published": "Nov 30, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-i3-instances-for-demanding-io-intensive-applications/",
+				"published": "Feb 23, 2017"
+			}
+		},
+		{
+			"_index": 71,
+			"uid": "bbca9951fd0320c9",
+			"instance_type": "i3.xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/i3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/11/coming-soon-amazon-ec2-i3-instances-next-generation-storage-optimized-high-io-instances/",
+				"published": "Nov 30, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-i3-instances-for-demanding-io-intensive-applications/",
+				"published": "Feb 23, 2017"
+			}
+		},
+		{
+			"_index": 72,
+			"uid": "34817e1fc0be25d0",
+			"instance_type": "i3.2xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/i3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/11/coming-soon-amazon-ec2-i3-instances-next-generation-storage-optimized-high-io-instances/",
+				"published": "Nov 30, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-i3-instances-for-demanding-io-intensive-applications/",
+				"published": "Feb 23, 2017"
+			}
+		},
+		{
+			"_index": 73,
+			"uid": "40e7afb86f0bc152",
+			"instance_type": "i3.4xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/i3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/11/coming-soon-amazon-ec2-i3-instances-next-generation-storage-optimized-high-io-instances/",
+				"published": "Nov 30, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-i3-instances-for-demanding-io-intensive-applications/",
+				"published": "Feb 23, 2017"
+			}
+		},
+		{
+			"_index": 74,
+			"uid": "8ec4ff52288a7c5f",
+			"instance_type": "i3.8xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/i3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/11/coming-soon-amazon-ec2-i3-instances-next-generation-storage-optimized-high-io-instances/",
+				"published": "Nov 30, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-i3-instances-for-demanding-io-intensive-applications/",
+				"published": "Feb 23, 2017"
+			}
+		},
+		{
+			"_index": 75,
+			"uid": "a50e2b8f7b717005",
+			"instance_type": "i3.16xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/i3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/11/coming-soon-amazon-ec2-i3-instances-next-generation-storage-optimized-high-io-instances/",
+				"published": "Nov 30, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-i3-instances-for-demanding-io-intensive-applications/",
+				"published": "Feb 23, 2017"
+			}
+		},
+		{
+			"_index": 76,
+			"uid": "5c293db37c8b7a4b",
+			"instance_type": "r4.large",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#Memory_Optimized",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-amazon-ec2-r4-instances-the-next-generation-of-memory-optimized-instances/",
+				"published": "Nov 30, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-next-generation-r4-memory-optimized-ec2-instances/",
+				"published": "Nov 30, 2016"
+			}
+		},
+		{
+			"_index": 77,
+			"uid": "104da1289de12615",
+			"instance_type": "r4.xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#Memory_Optimized",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-amazon-ec2-r4-instances-the-next-generation-of-memory-optimized-instances/",
+				"published": "Nov 30, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-next-generation-r4-memory-optimized-ec2-instances/",
+				"published": "Nov 30, 2016"
+			}
+		},
+		{
+			"_index": 78,
+			"uid": "476cbc05e5fd8328",
+			"instance_type": "r4.2xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#Memory_Optimized",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-amazon-ec2-r4-instances-the-next-generation-of-memory-optimized-instances/",
+				"published": "Nov 30, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-next-generation-r4-memory-optimized-ec2-instances/",
+				"published": "Nov 30, 2016"
+			}
+		},
+		{
+			"_index": 79,
+			"uid": "7e534c8f5b14d060",
+			"instance_type": "r4.4xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#Memory_Optimized",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-amazon-ec2-r4-instances-the-next-generation-of-memory-optimized-instances/",
+				"published": "Nov 30, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-next-generation-r4-memory-optimized-ec2-instances/",
+				"published": "Nov 30, 2016"
+			}
+		},
+		{
+			"_index": 80,
+			"uid": "951ca0bfcebcbc6c",
+			"instance_type": "r4.8xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#Memory_Optimized",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-amazon-ec2-r4-instances-the-next-generation-of-memory-optimized-instances/",
+				"published": "Nov 30, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-next-generation-r4-memory-optimized-ec2-instances/",
+				"published": "Nov 30, 2016"
+			}
+		},
+		{
+			"_index": 81,
+			"uid": "e86df16876363592",
+			"instance_type": "r4.16xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/#Memory_Optimized",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-amazon-ec2-r4-instances-the-next-generation-of-memory-optimized-instances/",
+				"published": "Nov 30, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-next-generation-r4-memory-optimized-ec2-instances/",
+				"published": "Nov 30, 2016"
+			}
+		},
+		{
+			"_index": 82,
+			"uid": "4c7b31a7407305f7",
+			"instance_type": "t2.xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t2/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-t2-xlarge-and-t2-2xlarge-two-new-larger-burstable-amazon-ec2-instances/",
+				"published": "Nov 30, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-t2-xlarge-and-t2-2xlarge-instances/",
+				"published": "Nov 30, 2016"
+			}
+		},
+		{
+			"_index": 83,
+			"uid": "0e47d6055937cbfa",
+			"instance_type": "t2.2xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2016,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t2/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-t2-xlarge-and-t2-2xlarge-two-new-larger-burstable-amazon-ec2-instances/",
+				"published": "Nov 30, 2016"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-t2-xlarge-and-t2-2xlarge-instances/",
+				"published": "Nov 30, 2016"
+			}
+		},
+		{
+			"_index": 84,
+			"uid": "83536faa73c3d995",
+			"instance_type": "g3.4xlarge",
+			"instance_category": "Accelererated Computing",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/g3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/07/introducing-amazon-ec2-g3-instances-the-next-generation-of-gpu-powered-instances-for-graphics-intensive-applications/",
+				"published": "Jul 13, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-next-generation-gpu-powered-ec2-instances-g3/",
+				"published": "Jul 13, 2017"
+			}
+		},
+		{
+			"_index": 85,
+			"uid": "d0587cdfcbfc0e26",
+			"instance_type": "g3.8xlarge",
+			"instance_category": "Accelererated Computing",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/g3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/07/introducing-amazon-ec2-g3-instances-the-next-generation-of-gpu-powered-instances-for-graphics-intensive-applications/",
+				"published": "Jul 13, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-next-generation-gpu-powered-ec2-instances-g3/",
+				"published": "Jul 13, 2017"
+			}
+		},
+		{
+			"_index": 86,
+			"uid": "4daeb6c1cd154adf",
+			"instance_type": "g3.16xlarge",
+			"instance_category": "Accelererated Computing",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/g3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/07/introducing-amazon-ec2-g3-instances-the-next-generation-of-gpu-powered-instances-for-graphics-intensive-applications/",
+				"published": "Jul 13, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-next-generation-gpu-powered-ec2-instances-g3/",
+				"published": "Jul 13, 2017"
+			}
+		},
+		{
+			"_index": 87,
+			"uid": "e48c3e646a66f11e",
+			"instance_type": "x1e.32xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "September",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/x1e/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/09/general-availability-a-new-addition-to-the-largest-amazon-ec2-memory-optimized-x1-instance-family-x1e32xlarge/",
+				"published": "Sep 13, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-ec2-instances-with-4-tb-of-memory/",
+				"published": "Sep 13, 2017"
+			}
+		},
+		{
+			"_index": 88,
+			"uid": "abdae992e9ffdb12",
+			"instance_type": "p3.2xlarge",
+			"instance_category": "Accelererated Computing",
+			"instance_generation": "Current Generation",
+			"release_month": "October",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/p3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/10/introducing-amazon-ec2-p3-instances/",
+				"published": "Oct 25, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-with-up-to-8-nvidia-tesla-v100-gpus-p3/",
+				"published": "Oct 25, 2017"
+			}
+		},
+		{
+			"_index": 89,
+			"uid": "575ebff884e79a37",
+			"instance_type": "p3.8xlarge",
+			"instance_category": "Accelererated Computing",
+			"instance_generation": "Current Generation",
+			"release_month": "October",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/p3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/10/introducing-amazon-ec2-p3-instances/",
+				"published": "Oct 25, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-with-up-to-8-nvidia-tesla-v100-gpus-p3/",
+				"published": "Oct 25, 2017"
+			}
+		},
+		{
+			"_index": 90,
+			"uid": "514111d9f4ef431d",
+			"instance_type": "p3.16xlarge",
+			"instance_category": "Accelererated Computing",
+			"instance_generation": "Current Generation",
+			"release_month": "October",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/p3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/10/introducing-amazon-ec2-p3-instances/",
+				"published": "Oct 25, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-with-up-to-8-nvidia-tesla-v100-gpus-p3/",
+				"published": "Oct 25, 2017"
+			}
+		},
+		{
+			"_index": 91,
+			"uid": "b6840211caf486a0",
+			"instance_type": "x1e.xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/x1e/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-new-instance-sizes-to-the-amazon-ec2-x1e-memory-optimized-instance-family/",
+				"published": "Nov 16, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/amazon-ec2-update-x1e-instances-in-five-more-sizes-and-a-stronger-sla/",
+				"published": "Nov 16, 2017"
+			}
+		},
+		{
+			"_index": 92,
+			"uid": "9bacec6f22ea91e0",
+			"instance_type": "x1e.2xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/x1e/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-new-instance-sizes-to-the-amazon-ec2-x1e-memory-optimized-instance-family/",
+				"published": "Nov 16, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/amazon-ec2-update-x1e-instances-in-five-more-sizes-and-a-stronger-sla/",
+				"published": "Nov 16, 2017"
+			}
+		},
+		{
+			"_index": 93,
+			"uid": "111a6578a5906c42",
+			"instance_type": "x1e.4xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/x1e/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-new-instance-sizes-to-the-amazon-ec2-x1e-memory-optimized-instance-family/",
+				"published": "Nov 16, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/amazon-ec2-update-x1e-instances-in-five-more-sizes-and-a-stronger-sla/",
+				"published": "Nov 16, 2017"
+			}
+		},
+		{
+			"_index": 94,
+			"uid": "de13941d3aa3ab37",
+			"instance_type": "x1e.8xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/x1e/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-new-instance-sizes-to-the-amazon-ec2-x1e-memory-optimized-instance-family/",
+				"published": "Nov 16, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/amazon-ec2-update-x1e-instances-in-five-more-sizes-and-a-stronger-sla/",
+				"published": "Nov 16, 2017"
+			}
+		},
+		{
+			"_index": 95,
+			"uid": "12151d6bab1aaa0b",
+			"instance_type": "x1e.16xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/x1e/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-new-instance-sizes-to-the-amazon-ec2-x1e-memory-optimized-instance-family/",
+				"published": "Nov 16, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/amazon-ec2-update-x1e-instances-in-five-more-sizes-and-a-stronger-sla/",
+				"published": "Nov 16, 2017"
+			}
+		},
+		{
+			"_index": 96,
+			"uid": "494e90e4c3729f9e",
+			"instance_type": "h1.2xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/h1/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-h1-instances-the-latest-generation-of-storage-optimized-instances-for-high-performance-big-data-workloads/",
+				"published": "Nov 28, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-h1-instances-fast-dense-storage-for-big-data-applications/",
+				"published": "Nov 28, 2017"
+			}
+		},
+		{
+			"_index": 97,
+			"uid": "1ab38046b6413888",
+			"instance_type": "h1.4xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/h1/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-h1-instances-the-latest-generation-of-storage-optimized-instances-for-high-performance-big-data-workloads/",
+				"published": "Nov 28, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-h1-instances-fast-dense-storage-for-big-data-applications/",
+				"published": "Nov 28, 2017"
+			}
+		},
+		{
+			"_index": 98,
+			"uid": "7422acdeb5313672",
+			"instance_type": "h1.8xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/h1/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-h1-instances-the-latest-generation-of-storage-optimized-instances-for-high-performance-big-data-workloads/",
+				"published": "Nov 28, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-h1-instances-fast-dense-storage-for-big-data-applications/",
+				"published": "Nov 28, 2017"
+			}
+		},
+		{
+			"_index": 99,
+			"uid": "3212392751861b63",
+			"instance_type": "h1.16xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/h1/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-h1-instances-the-latest-generation-of-storage-optimized-instances-for-high-performance-big-data-workloads/",
+				"published": "Nov 28, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-h1-instances-fast-dense-storage-for-big-data-applications/",
+				"published": "Nov 28, 2017"
+			}
+		},
+		{
+			"_index": 100,
+			"uid": "7cf2575e26412798",
+			"instance_type": "i3.metal",
+			"instance_category": "Storage Optimized (bare metal)",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/i3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/announcing-amazon-ec2-bare-metal-instances-preview/",
+				"published": "Nov 28, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-bare-metal-instances-with-direct-access-to-hardware/",
+				"published": "Nov 28, 2017"
+			}
+		},
+		{
+			"_index": 101,
+			"uid": "40db125abb55292a",
+			"instance_type": "m5.large",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-m5-instances/",
+				"published": "Nov 28, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/m5-the-next-generation-of-general-purpose-ec2-instances/",
+				"published": "Nov 28, 2017"
+			}
+		},
+		{
+			"_index": 102,
+			"uid": "d8ebf707e7237b0d",
+			"instance_type": "m5.xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-m5-instances/",
+				"published": "Nov 28, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/m5-the-next-generation-of-general-purpose-ec2-instances/",
+				"published": "Nov 28, 2017"
+			}
+		},
+		{
+			"_index": 103,
+			"uid": "912a2c5485554af2",
+			"instance_type": "m5.2xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-m5-instances/",
+				"published": "Nov 28, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/m5-the-next-generation-of-general-purpose-ec2-instances/",
+				"published": "Nov 28, 2017"
+			}
+		},
+		{
+			"_index": 104,
+			"uid": "474ac04a8ca8dd64",
+			"instance_type": "m5.4xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-m5-instances/",
+				"published": "Nov 28, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/m5-the-next-generation-of-general-purpose-ec2-instances/",
+				"published": "Nov 28, 2017"
+			}
+		},
+		{
+			"_index": 105,
+			"uid": "890be86b4072409a",
+			"instance_type": "m5.12xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-m5-instances/",
+				"published": "Nov 28, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/m5-the-next-generation-of-general-purpose-ec2-instances/",
+				"published": "Nov 28, 2017"
+			}
+		},
+		{
+			"_index": 106,
+			"uid": "eb07869e6f0d70df",
+			"instance_type": "m5.24xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2017,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-m5-instances/",
+				"published": "Nov 28, 2017"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/m5-the-next-generation-of-general-purpose-ec2-instances/",
+				"published": "Nov 28, 2017"
+			}
+		},
+		{
+			"_index": 107,
+			"uid": "9db473d4d5d3aee5",
+			"instance_type": "c5d.large",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "May",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/05/introducing-amazon-ec2-c5d-instances/",
+				"published": "May 17, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-c5-instances-with-local-nvme-storage-c5d/",
+				"published": "May 17, 2018"
+			}
+		},
+		{
+			"_index": 108,
+			"uid": "d09264cf3421df6c",
+			"instance_type": "c5d.xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "May",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/05/introducing-amazon-ec2-c5d-instances/",
+				"published": "May 17, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-c5-instances-with-local-nvme-storage-c5d/",
+				"published": "May 17, 2018"
+			}
+		},
+		{
+			"_index": 109,
+			"uid": "2214bd212e798155",
+			"instance_type": "c5d.2xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "May",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/05/introducing-amazon-ec2-c5d-instances/",
+				"published": "May 17, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-c5-instances-with-local-nvme-storage-c5d/",
+				"published": "May 17, 2018"
+			}
+		},
+		{
+			"_index": 110,
+			"uid": "8184d8abec6256f8",
+			"instance_type": "c5d.4xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "May",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/05/introducing-amazon-ec2-c5d-instances/",
+				"published": "May 17, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-c5-instances-with-local-nvme-storage-c5d/",
+				"published": "May 17, 2018"
+			}
+		},
+		{
+			"_index": 111,
+			"uid": "321644250c311e7f",
+			"instance_type": "c5d.9xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "May",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/05/introducing-amazon-ec2-c5d-instances/",
+				"published": "May 17, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-c5-instances-with-local-nvme-storage-c5d/",
+				"published": "May 17, 2018"
+			}
+		},
+		{
+			"_index": 112,
+			"uid": "6e13fffab0b9b5a7",
+			"instance_type": "c5d.18xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "May",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/05/introducing-amazon-ec2-c5d-instances/",
+				"published": "May 17, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-c5-instances-with-local-nvme-storage-c5d/",
+				"published": "May 17, 2018"
+			}
+		},
+		{
+			"_index": 113,
+			"uid": "a5a6b002142ee1fc",
+			"instance_type": "m5d.large",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/06/introducing-amazon-ec2-m5d-instances/",
+				"published": "Jun 4, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-m5-instances-with-local-nvme-storage-m5d/",
+				"published": "Jun 4, 2018"
+			}
+		},
+		{
+			"_index": 114,
+			"uid": "788baf82640d3619",
+			"instance_type": "m5d.xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/06/introducing-amazon-ec2-m5d-instances/",
+				"published": "Jun 4, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-m5-instances-with-local-nvme-storage-m5d/",
+				"published": "Jun 4, 2018"
+			}
+		},
+		{
+			"_index": 115,
+			"uid": "e7b67d5f91b566fc",
+			"instance_type": "m5d.2xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/06/introducing-amazon-ec2-m5d-instances/",
+				"published": "Jun 4, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-m5-instances-with-local-nvme-storage-m5d/",
+				"published": "Jun 4, 2018"
+			}
+		},
+		{
+			"_index": 116,
+			"uid": "73792c5cd78a2971",
+			"instance_type": "m5d.4xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/06/introducing-amazon-ec2-m5d-instances/",
+				"published": "Jun 4, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-m5-instances-with-local-nvme-storage-m5d/",
+				"published": "Jun 4, 2018"
+			}
+		},
+		{
+			"_index": 117,
+			"uid": "268e043642f1ff45",
+			"instance_type": "m5d.12xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/06/introducing-amazon-ec2-m5d-instances/",
+				"published": "Jun 4, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-m5-instances-with-local-nvme-storage-m5d/",
+				"published": "Jun 4, 2018"
+			}
+		},
+		{
+			"_index": 118,
+			"uid": "a812765e2ac5d5f5",
+			"instance_type": "m5d.24xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/06/introducing-amazon-ec2-m5d-instances/",
+				"published": "Jun 4, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-m5-instances-with-local-nvme-storage-m5d/",
+				"published": "Jun 4, 2018"
+			}
+		},
+		{
+			"_index": 119,
+			"uid": "da0e7b8af4e8eb9e",
+			"instance_type": "r5.large",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-r5-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 120,
+			"uid": "ba333447e880b376",
+			"instance_type": "r5.xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-r5-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 121,
+			"uid": "1498c30e6af4458a",
+			"instance_type": "r5.2xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-r5-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 122,
+			"uid": "529dca3892928d9e",
+			"instance_type": "r5.4xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-r5-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 123,
+			"uid": "4b42d32fe2ace285",
+			"instance_type": "r5.12xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-r5-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 124,
+			"uid": "3af0dcd7b4857b9f",
+			"instance_type": "r5.24xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-r5-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 125,
+			"uid": "5ae2dbbb5ce044da",
+			"instance_type": "r5d.large",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-r5-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 126,
+			"uid": "53c04f94d506e07c",
+			"instance_type": "r5d.xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-r5-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 127,
+			"uid": "9c60f6e749005094",
+			"instance_type": "r5d.2xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-r5-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 128,
+			"uid": "67161b2451a0ccfb",
+			"instance_type": "r5d.4xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-r5-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 129,
+			"uid": "a57a627de2aa8389",
+			"instance_type": "r5d.12xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-r5-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 130,
+			"uid": "6e552dc2d1859cb2",
+			"instance_type": "r5d.24xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-r5-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 131,
+			"uid": "a0703bb3a7906e24",
+			"instance_type": "z1d.large",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/z1d/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-z1d-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 132,
+			"uid": "abc575bb183c19ab",
+			"instance_type": "z1d.xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/z1d/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-z1d-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 133,
+			"uid": "89e7c40f3195a2d2",
+			"instance_type": "z1d.2xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/z1d/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-z1d-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 134,
+			"uid": "ea2193124cfb728e",
+			"instance_type": "z1d.3xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/z1d/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-z1d-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 135,
+			"uid": "a82f8a4e80bb5c37",
+			"instance_type": "z1d.6xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/z1d/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-z1d-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 136,
+			"uid": "9e5941ed43d7fc0d",
+			"instance_type": "z1d.12xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "July",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/z1d/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-ec2-z1d-instances/",
+				"published": "Jul 25, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-r5-r5d-and-z1d-instances/",
+				"published": "Jul 25, 2018"
+			}
+		},
+		{
+			"_index": 137,
+			"uid": "0f1a77dc1158cf1c",
+			"instance_type": "t3.nano",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "August",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/08/introducing-amazon-ec2-t3-instances/",
+				"published": "Aug 21, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-t3-instances-burstable-cost-effective-performance/",
+				"published": "Aug 21, 2018"
+			}
+		},
+		{
+			"_index": 138,
+			"uid": "3708be03bf4c1585",
+			"instance_type": "t3.micro",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "August",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/08/introducing-amazon-ec2-t3-instances/",
+				"published": "Aug 21, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-t3-instances-burstable-cost-effective-performance/",
+				"published": "Aug 21, 2018"
+			}
+		},
+		{
+			"_index": 139,
+			"uid": "e51920bbf7f5a552",
+			"instance_type": "t3.small",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "August",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/08/introducing-amazon-ec2-t3-instances/",
+				"published": "Aug 21, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-t3-instances-burstable-cost-effective-performance/",
+				"published": "Aug 21, 2018"
+			}
+		},
+		{
+			"_index": 140,
+			"uid": "6cd3e5e755eb1643",
+			"instance_type": "t3.medium",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "August",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/08/introducing-amazon-ec2-t3-instances/",
+				"published": "Aug 21, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-t3-instances-burstable-cost-effective-performance/",
+				"published": "Aug 21, 2018"
+			}
+		},
+		{
+			"_index": 141,
+			"uid": "6e9283de63eff5df",
+			"instance_type": "t3.large",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "August",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/08/introducing-amazon-ec2-t3-instances/",
+				"published": "Aug 21, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-t3-instances-burstable-cost-effective-performance/",
+				"published": "Aug 21, 2018"
+			}
+		},
+		{
+			"_index": 142,
+			"uid": "f97b821002accc14",
+			"instance_type": "t3.xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "August",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/08/introducing-amazon-ec2-t3-instances/",
+				"published": "Aug 21, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-t3-instances-burstable-cost-effective-performance/",
+				"published": "Aug 21, 2018"
+			}
+		},
+		{
+			"_index": 143,
+			"uid": "d2f466175a58e5c7",
+			"instance_type": "t3.2xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "August",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/08/introducing-amazon-ec2-t3-instances/",
+				"published": "Aug 21, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-t3-instances-burstable-cost-effective-performance/",
+				"published": "Aug 21, 2018"
+			}
+		},
+		{
+			"_index": 144,
+			"uid": "8d0accd5d01b2263",
+			"instance_type": "f1.4xlarge",
+			"instance_category": "Accelererated Computing",
+			"instance_generation": "Current Generation",
+			"release_month": "September",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/f1/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/09/amazon-ec2-f1-instances-now-available-in-an-additional-size/",
+				"published": "Sep 25, 2018"
+			},
+			"blog_post": {
+				"url": "NULL",
+				"published": "NULL"
+			}
+		},
+		{
+			"_index": 145,
+			"uid": "02d2ca9ba4483682",
+			"instance_type": "u-6tb1.metal",
+			"instance_category": "High Memory (bare metal)",
+			"instance_generation": "Current Generation",
+			"release_month": "September",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/high-memory/",
+			"announcement": {
+				"url": "NULL",
+				"published": "NULL"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-high-memory-instances-with-6-9-and-12-tb-of-memory-perfect-for-sap-hana/",
+				"published": "Sep 27, 2018"
+			}
+		},
+		{
+			"_index": 146,
+			"uid": "ce9cf0145fe7e1c9",
+			"instance_type": "u-9tb1.metal",
+			"instance_category": "High Memory (bare metal)",
+			"instance_generation": "Current Generation",
+			"release_month": "September",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/high-memory/",
+			"announcement": {
+				"url": "NULL",
+				"published": "NULL"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-high-memory-instances-with-6-9-and-12-tb-of-memory-perfect-for-sap-hana/",
+				"published": "Sep 27, 2018"
+			}
+		},
+		{
+			"_index": 147,
+			"uid": "7d871f033f2f9aed",
+			"instance_type": "u-12tb1.metal",
+			"instance_category": "High Memory (bare metal)",
+			"instance_generation": "Current Generation",
+			"release_month": "September",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/high-memory/",
+			"announcement": {
+				"url": "NULL",
+				"published": "NULL"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-high-memory-instances-with-6-9-and-12-tb-of-memory-perfect-for-sap-hana/",
+				"published": "Sep 27, 2018"
+			}
+		},
+		{
+			"_index": 148,
+			"uid": "5520c3bd6d56dbb8",
+			"instance_type": "g3s.xlarge",
+			"instance_category": "Accelererated Computing",
+			"instance_generation": "Current Generation",
+			"release_month": "October",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/g3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/10/introducing-a-new-size-for-amazon-ec2-g3-graphics-accelerated-instances/",
+				"published": "Oct 11, 2018"
+			},
+			"blog_post": {
+				"url": "NULL",
+				"published": "NULL"
+			}
+		},
+		{
+			"_index": 149,
+			"uid": "862377e1697ee32a",
+			"instance_type": "m5a.large",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing_amazon_ec2_instances_featuring_amd_epyc_processors/",
+				"published": "Nov 6, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-lower-cost-amd-powered-ec2-instances/",
+				"published": "Nov 6, 2018"
+			}
+		},
+		{
+			"_index": 150,
+			"uid": "d9492a8b2c17b251",
+			"instance_type": "m5a.xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing_amazon_ec2_instances_featuring_amd_epyc_processors/",
+				"published": "Nov 6, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-lower-cost-amd-powered-ec2-instances/",
+				"published": "Nov 6, 2018"
+			}
+		},
+		{
+			"_index": 151,
+			"uid": "36cb51bd79707096",
+			"instance_type": "m5a.2xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing_amazon_ec2_instances_featuring_amd_epyc_processors/",
+				"published": "Nov 6, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-lower-cost-amd-powered-ec2-instances/",
+				"published": "Nov 6, 2018"
+			}
+		},
+		{
+			"_index": 152,
+			"uid": "75c489dee151789a",
+			"instance_type": "m5a.4xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing_amazon_ec2_instances_featuring_amd_epyc_processors/",
+				"published": "Nov 6, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-lower-cost-amd-powered-ec2-instances/",
+				"published": "Nov 6, 2018"
+			}
+		},
+		{
+			"_index": 153,
+			"uid": "7280462fd47a575a",
+			"instance_type": "m5a.12xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing_amazon_ec2_instances_featuring_amd_epyc_processors/",
+				"published": "Nov 6, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-lower-cost-amd-powered-ec2-instances/",
+				"published": "Nov 6, 2018"
+			}
+		},
+		{
+			"_index": 154,
+			"uid": "dfc0455e29d248c6",
+			"instance_type": "m5a.24xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing_amazon_ec2_instances_featuring_amd_epyc_processors/",
+				"published": "Nov 6, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-lower-cost-amd-powered-ec2-instances/",
+				"published": "Nov 6, 2018"
+			}
+		},
+		{
+			"_index": 155,
+			"uid": "3d40c82a633f32b3",
+			"instance_type": "r5a.large",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing_amazon_ec2_instances_featuring_amd_epyc_processors/",
+				"published": "Nov 6, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-lower-cost-amd-powered-ec2-instances/",
+				"published": "Nov 6, 2018"
+			}
+		},
+		{
+			"_index": 156,
+			"uid": "d1a144145b4a81c7",
+			"instance_type": "r5a.xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing_amazon_ec2_instances_featuring_amd_epyc_processors/",
+				"published": "Nov 6, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-lower-cost-amd-powered-ec2-instances/",
+				"published": "Nov 6, 2018"
+			}
+		},
+		{
+			"_index": 157,
+			"uid": "30acd7bf5f6315fe",
+			"instance_type": "r5a.2xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing_amazon_ec2_instances_featuring_amd_epyc_processors/",
+				"published": "Nov 6, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-lower-cost-amd-powered-ec2-instances/",
+				"published": "Nov 6, 2018"
+			}
+		},
+		{
+			"_index": 158,
+			"uid": "529b5476c2dd5c4c",
+			"instance_type": "r5a.4xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing_amazon_ec2_instances_featuring_amd_epyc_processors/",
+				"published": "Nov 6, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-lower-cost-amd-powered-ec2-instances/",
+				"published": "Nov 6, 2018"
+			}
+		},
+		{
+			"_index": 159,
+			"uid": "72696b710f09133a",
+			"instance_type": "r5a.12xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing_amazon_ec2_instances_featuring_amd_epyc_processors/",
+				"published": "Nov 6, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-lower-cost-amd-powered-ec2-instances/",
+				"published": "Nov 6, 2018"
+			}
+		},
+		{
+			"_index": 160,
+			"uid": "59c53338976034a8",
+			"instance_type": "r5a.24xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing_amazon_ec2_instances_featuring_amd_epyc_processors/",
+				"published": "Nov 6, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-lower-cost-amd-powered-ec2-instances/",
+				"published": "Nov 6, 2018"
+			}
+		},
+		{
+			"_index": 161,
+			"uid": "87acf012f70fe2ca",
+			"instance_type": "a1.medium",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/a1/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-ec2-a1-instances/",
+				"published": "Nov 26, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-ec2-instances-a1-powered-by-arm-based-aws-graviton-processors/",
+				"published": "Nov 26, 2018"
+			}
+		},
+		{
+			"_index": 162,
+			"uid": "9af160bf521c7467",
+			"instance_type": "a1.large",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/a1/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-ec2-a1-instances/",
+				"published": "Nov 26, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-ec2-instances-a1-powered-by-arm-based-aws-graviton-processors/",
+				"published": "Nov 26, 2018"
+			}
+		},
+		{
+			"_index": 163,
+			"uid": "953c5a6e7a4240d3",
+			"instance_type": "a1.xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/a1/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-ec2-a1-instances/",
+				"published": "Nov 26, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-ec2-instances-a1-powered-by-arm-based-aws-graviton-processors/",
+				"published": "Nov 26, 2018"
+			}
+		},
+		{
+			"_index": 164,
+			"uid": "5852eb05112d8cae",
+			"instance_type": "a1.2xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/a1/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-ec2-a1-instances/",
+				"published": "Nov 26, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-ec2-instances-a1-powered-by-arm-based-aws-graviton-processors/",
+				"published": "Nov 26, 2018"
+			}
+		},
+		{
+			"_index": 165,
+			"uid": "b7e5f578e131eb3b",
+			"instance_type": "a1.4xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/a1/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-ec2-a1-instances/",
+				"published": "Nov 26, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-ec2-instances-a1-powered-by-arm-based-aws-graviton-processors/",
+				"published": "Nov 26, 2018"
+			}
+		},
+		{
+			"_index": 166,
+			"uid": "8e7116f5d34a5151",
+			"instance_type": "c5n.large",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-ec2-c5n-instances/",
+				"published": "Nov 26, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-c5n-instances-with-100-gbps-networking/",
+				"published": "Nov 26, 2018"
+			}
+		},
+		{
+			"_index": 167,
+			"uid": "cce3b385e6165e6a",
+			"instance_type": "c5n.xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-ec2-c5n-instances/",
+				"published": "Nov 26, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-c5n-instances-with-100-gbps-networking/",
+				"published": "Nov 26, 2018"
+			}
+		},
+		{
+			"_index": 168,
+			"uid": "a795e8617cc80ab1",
+			"instance_type": "c5n.2xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-ec2-c5n-instances/",
+				"published": "Nov 26, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-c5n-instances-with-100-gbps-networking/",
+				"published": "Nov 26, 2018"
+			}
+		},
+		{
+			"_index": 169,
+			"uid": "3ab46ce08dd3bb16",
+			"instance_type": "c5n.4xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-ec2-c5n-instances/",
+				"published": "Nov 26, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-c5n-instances-with-100-gbps-networking/",
+				"published": "Nov 26, 2018"
+			}
+		},
+		{
+			"_index": 170,
+			"uid": "9a945e75214b9115",
+			"instance_type": "c5n.9xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-ec2-c5n-instances/",
+				"published": "Nov 26, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-c5n-instances-with-100-gbps-networking/",
+				"published": "Nov 26, 2018"
+			}
+		},
+		{
+			"_index": 171,
+			"uid": "5b9aa527cc01ea79",
+			"instance_type": "c5n.18xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "November",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-ec2-c5n-instances/",
+				"published": "Nov 26, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-c5n-instances-with-100-gbps-networking/",
+				"published": "Nov 26, 2018"
+			}
+		},
+		{
+			"_index": 172,
+			"uid": "2d685e9e567763be",
+			"instance_type": "p3dn.24xlarge",
+			"instance_category": "Accelererated Computing",
+			"instance_generation": "Current Generation",
+			"release_month": "December",
+			"release_year": 2018,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/p3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2018/12/introducing-amazon-ec2-p3dn-instances-our-most-powerful-gpu-instance-yet/",
+				"published": "Dec 7, 2018"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-ec2-p3dn-gpu-instances-with-100-gbps-networking-local-nvme-storage-for-faster-machine-learning-p3-price-reduction/",
+				"published": "Dec 7, 2018"
+			}
+		},
+		{
+			"_index": 173,
+			"uid": "546ef940e0c79737",
+			"instance_type": "m5.metal",
+			"instance_category": "General Purpose (bare metal)",
+			"instance_generation": "Current Generation",
+			"release_month": "February",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/02/introducing-five-new-amazon-ec2-bare-metal-instances/",
+				"published": "Feb 13, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-five-new-amazon-ec2-bare-metal-instances-m5-m5d-r5-r5d-and-z1d/",
+				"published": "Feb 14, 2019"
+			}
+		},
+		{
+			"_index": 174,
+			"uid": "53ecd7a25e840259",
+			"instance_type": "m5d.metal",
+			"instance_category": "General Purpose (bare metal)",
+			"instance_generation": "Current Generation",
+			"release_month": "February",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/02/introducing-five-new-amazon-ec2-bare-metal-instances/",
+				"published": "Feb 13, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-five-new-amazon-ec2-bare-metal-instances-m5-m5d-r5-r5d-and-z1d/",
+				"published": "Feb 14, 2019"
+			}
+		},
+		{
+			"_index": 175,
+			"uid": "7ec33ce1e4880e4c",
+			"instance_type": "r5.metal",
+			"instance_category": "Memory Optimized (bare metal)",
+			"instance_generation": "Current Generation",
+			"release_month": "February",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/02/introducing-five-new-amazon-ec2-bare-metal-instances/",
+				"published": "Feb 13, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-five-new-amazon-ec2-bare-metal-instances-m5-m5d-r5-r5d-and-z1d/",
+				"published": "Feb 14, 2019"
+			}
+		},
+		{
+			"_index": 176,
+			"uid": "cfdab6424b9eb3b0",
+			"instance_type": "r5d.metal",
+			"instance_category": "Memory Optimized (bare metal)",
+			"instance_generation": "Current Generation",
+			"release_month": "February",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/02/introducing-five-new-amazon-ec2-bare-metal-instances/",
+				"published": "Feb 13, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-five-new-amazon-ec2-bare-metal-instances-m5-m5d-r5-r5d-and-z1d/",
+				"published": "Feb 14, 2019"
+			}
+		},
+		{
+			"_index": 177,
+			"uid": "37e58b1faeaa0d0f",
+			"instance_type": "z1d.metal",
+			"instance_category": "Memory Optimized (bare metal)",
+			"instance_generation": "Current Generation",
+			"release_month": "February",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/z1d/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/02/introducing-five-new-amazon-ec2-bare-metal-instances/",
+				"published": "Feb 13, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-five-new-amazon-ec2-bare-metal-instances-m5-m5d-r5-r5d-and-z1d/",
+				"published": "Feb 14, 2019"
+			}
+		},
+		{
+			"_index": 178,
+			"uid": "eaee701907a861ff",
+			"instance_type": "m5ad.large",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "March",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/03/new-amazon-ec2-m5ad-and-r5ad-featuring-amd-epyc-processors-are-now-available/",
+				"published": "Mar 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amd-epyc-powered-amazon-ec2-m5ad-and-r5ad-instances/",
+				"published": "Mar 27, 2019"
+			}
+		},
+		{
+			"_index": 179,
+			"uid": "27e9760621e5296f",
+			"instance_type": "m5ad.xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "March",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/03/new-amazon-ec2-m5ad-and-r5ad-featuring-amd-epyc-processors-are-now-available/",
+				"published": "Mar 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amd-epyc-powered-amazon-ec2-m5ad-and-r5ad-instances/",
+				"published": "Mar 27, 2019"
+			}
+		},
+		{
+			"_index": 180,
+			"uid": "f4d6963f20bbe9c1",
+			"instance_type": "m5ad.2xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "March",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/03/new-amazon-ec2-m5ad-and-r5ad-featuring-amd-epyc-processors-are-now-available/",
+				"published": "Mar 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amd-epyc-powered-amazon-ec2-m5ad-and-r5ad-instances/",
+				"published": "Mar 27, 2019"
+			}
+		},
+		{
+			"_index": 181,
+			"uid": "1280209134485550",
+			"instance_type": "m5ad.4xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "March",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/03/new-amazon-ec2-m5ad-and-r5ad-featuring-amd-epyc-processors-are-now-available/",
+				"published": "Mar 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amd-epyc-powered-amazon-ec2-m5ad-and-r5ad-instances/",
+				"published": "Mar 27, 2019"
+			}
+		},
+		{
+			"_index": 182,
+			"uid": "8c91f06c71d6194e",
+			"instance_type": "m5ad.12xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "March",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/03/new-amazon-ec2-m5ad-and-r5ad-featuring-amd-epyc-processors-are-now-available/",
+				"published": "Mar 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amd-epyc-powered-amazon-ec2-m5ad-and-r5ad-instances/",
+				"published": "Mar 27, 2019"
+			}
+		},
+		{
+			"_index": 183,
+			"uid": "cac8e369e35621b7",
+			"instance_type": "m5ad.24xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "March",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/03/new-amazon-ec2-m5ad-and-r5ad-featuring-amd-epyc-processors-are-now-available/",
+				"published": "Mar 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amd-epyc-powered-amazon-ec2-m5ad-and-r5ad-instances/",
+				"published": "Mar 27, 2019"
+			}
+		},
+		{
+			"_index": 184,
+			"uid": "e98d222439fd1342",
+			"instance_type": "r5ad.large",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "March",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/03/new-amazon-ec2-m5ad-and-r5ad-featuring-amd-epyc-processors-are-now-available/",
+				"published": "Mar 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amd-epyc-powered-amazon-ec2-m5ad-and-r5ad-instances/",
+				"published": "Mar 27, 2019"
+			}
+		},
+		{
+			"_index": 185,
+			"uid": "f48443c241d07b44",
+			"instance_type": "r5ad.xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "March",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/03/new-amazon-ec2-m5ad-and-r5ad-featuring-amd-epyc-processors-are-now-available/",
+				"published": "Mar 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amd-epyc-powered-amazon-ec2-m5ad-and-r5ad-instances/",
+				"published": "Mar 27, 2019"
+			}
+		},
+		{
+			"_index": 186,
+			"uid": "b87d05274bb409a4",
+			"instance_type": "r5ad.2xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "March",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/03/new-amazon-ec2-m5ad-and-r5ad-featuring-amd-epyc-processors-are-now-available/",
+				"published": "Mar 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amd-epyc-powered-amazon-ec2-m5ad-and-r5ad-instances/",
+				"published": "Mar 27, 2019"
+			}
+		},
+		{
+			"_index": 187,
+			"uid": "e80b9df0cbc702b6",
+			"instance_type": "r5ad.4xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "March",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/03/new-amazon-ec2-m5ad-and-r5ad-featuring-amd-epyc-processors-are-now-available/",
+				"published": "Mar 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amd-epyc-powered-amazon-ec2-m5ad-and-r5ad-instances/",
+				"published": "Mar 27, 2019"
+			}
+		},
+		{
+			"_index": 188,
+			"uid": "30038f7afda072c6",
+			"instance_type": "r5ad.12xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "March",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/03/new-amazon-ec2-m5ad-and-r5ad-featuring-amd-epyc-processors-are-now-available/",
+				"published": "Mar 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amd-epyc-powered-amazon-ec2-m5ad-and-r5ad-instances/",
+				"published": "Mar 27, 2019"
+			}
+		},
+		{
+			"_index": 189,
+			"uid": "3d74ea5c76532e0d",
+			"instance_type": "r5ad.24xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "March",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/03/new-amazon-ec2-m5ad-and-r5ad-featuring-amd-epyc-processors-are-now-available/",
+				"published": "Mar 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-amd-epyc-powered-amazon-ec2-m5ad-and-r5ad-instances/",
+				"published": "Mar 27, 2019"
+			}
+		},
+		{
+			"_index": 190,
+			"uid": "4d49bde029432989",
+			"instance_type": "t3a.nano",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "April",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/04/amazon-ec2-t3a-instances-are-now-generally-available/",
+				"published": "Apr 24, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-amd-epyc-powered-amazon-ec2-t3a-instances/",
+				"published": "Apr 24, 2019"
+			}
+		},
+		{
+			"_index": 191,
+			"uid": "e0a4cfc6f10d9674",
+			"instance_type": "t3a.micro",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "April",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/04/amazon-ec2-t3a-instances-are-now-generally-available/",
+				"published": "Apr 24, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-amd-epyc-powered-amazon-ec2-t3a-instances/",
+				"published": "Apr 24, 2019"
+			}
+		},
+		{
+			"_index": 192,
+			"uid": "f26042a7546a8eee",
+			"instance_type": "t3a.small",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "April",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/04/amazon-ec2-t3a-instances-are-now-generally-available/",
+				"published": "Apr 24, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-amd-epyc-powered-amazon-ec2-t3a-instances/",
+				"published": "Apr 24, 2019"
+			}
+		},
+		{
+			"_index": 193,
+			"uid": "d48291f51d997bfd",
+			"instance_type": "t3a.medium",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "April",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/04/amazon-ec2-t3a-instances-are-now-generally-available/",
+				"published": "Apr 24, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-amd-epyc-powered-amazon-ec2-t3a-instances/",
+				"published": "Apr 24, 2019"
+			}
+		},
+		{
+			"_index": 194,
+			"uid": "65c268e07fd35674",
+			"instance_type": "t3a.large",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "April",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/04/amazon-ec2-t3a-instances-are-now-generally-available/",
+				"published": "Apr 24, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-amd-epyc-powered-amazon-ec2-t3a-instances/",
+				"published": "Apr 24, 2019"
+			}
+		},
+		{
+			"_index": 195,
+			"uid": "8775f1a83efb41cb",
+			"instance_type": "t3a.xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "April",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/04/amazon-ec2-t3a-instances-are-now-generally-available/",
+				"published": "Apr 24, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-amd-epyc-powered-amazon-ec2-t3a-instances/",
+				"published": "Apr 24, 2019"
+			}
+		},
+		{
+			"_index": 196,
+			"uid": "5ceb2b828c40be04",
+			"instance_type": "t3a.2xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "April",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/t3/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/04/amazon-ec2-t3a-instances-are-now-generally-available/",
+				"published": "Apr 24, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-amd-epyc-powered-amazon-ec2-t3a-instances/",
+				"published": "Apr 24, 2019"
+			}
+		},
+		{
+			"_index": 197,
+			"uid": "03f45e7133e9e34c",
+			"instance_type": "i3en.large",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "May",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/i3en/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/05/amazon-ec2-i3en-instances-are-now-generally-available/",
+				"published": "May 8, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-the-next-generation-i3en-of-i-o-optimized-ec2-instances/",
+				"published": "May 8, 2019"
+			}
+		},
+		{
+			"_index": 198,
+			"uid": "e75e5dd41c5c4b77",
+			"instance_type": "i3en.xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "May",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/i3en/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/05/amazon-ec2-i3en-instances-are-now-generally-available/",
+				"published": "May 8, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-the-next-generation-i3en-of-i-o-optimized-ec2-instances/",
+				"published": "May 8, 2019"
+			}
+		},
+		{
+			"_index": 199,
+			"uid": "d4648095b65cc0f2",
+			"instance_type": "i3en.2xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "May",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/i3en/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/05/amazon-ec2-i3en-instances-are-now-generally-available/",
+				"published": "May 8, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-the-next-generation-i3en-of-i-o-optimized-ec2-instances/",
+				"published": "May 8, 2019"
+			}
+		},
+		{
+			"_index": 200,
+			"uid": "b835b1d892717e85",
+			"instance_type": "i3en.3xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "May",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/i3en/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/05/amazon-ec2-i3en-instances-are-now-generally-available/",
+				"published": "May 8, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-the-next-generation-i3en-of-i-o-optimized-ec2-instances/",
+				"published": "May 8, 2019"
+			}
+		},
+		{
+			"_index": 201,
+			"uid": "c4d7be6e65ea70a7",
+			"instance_type": "i3en.6xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "May",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/i3en/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/05/amazon-ec2-i3en-instances-are-now-generally-available/",
+				"published": "May 8, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-the-next-generation-i3en-of-i-o-optimized-ec2-instances/",
+				"published": "May 8, 2019"
+			}
+		},
+		{
+			"_index": 202,
+			"uid": "6c6a2739127734ba",
+			"instance_type": "i3en.12xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "May",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/i3en/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/05/amazon-ec2-i3en-instances-are-now-generally-available/",
+				"published": "May 8, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-the-next-generation-i3en-of-i-o-optimized-ec2-instances/",
+				"published": "May 8, 2019"
+			}
+		},
+		{
+			"_index": 203,
+			"uid": "bd67f28b58b74e7e",
+			"instance_type": "i3en.24xlarge",
+			"instance_category": "Storage Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "May",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/i3en/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/05/amazon-ec2-i3en-instances-are-now-generally-available/",
+				"published": "May 8, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/new-the-next-generation-i3en-of-i-o-optimized-ec2-instances/",
+				"published": "May 8, 2019"
+			}
+		},
+		{
+			"_index": 204,
+			"uid": "fe5ec7754306addf",
+			"instance_type": "c5.metal",
+			"instance_category": "Compute Optimized (bare metal)",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/06/introducing-new-instance-sizes-for-amazon-ec2-c5-instances/",
+				"published": "Jun 18, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-new-c5-instance-sizes-and-bare-metal-instances/",
+				"published": "Jun 18, 2019"
+			}
+		},
+		{
+			"_index": 205,
+			"uid": "c8240503bb96959e",
+			"instance_type": "c5.12xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/06/introducing-new-instance-sizes-for-amazon-ec2-c5-instances/",
+				"published": "Jun 18, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-new-c5-instance-sizes-and-bare-metal-instances/",
+				"published": "Jun 18, 2019"
+			}
+		},
+		{
+			"_index": 206,
+			"uid": "eab4fac6a86bc985",
+			"instance_type": "c5.24xlarge",
+			"instance_category": "Compute Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/06/introducing-new-instance-sizes-for-amazon-ec2-c5-instances/",
+				"published": "Jun 18, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/now-available-new-c5-instance-sizes-and-bare-metal-instances/",
+				"published": "Jun 18, 2019"
+			}
+		},
+		{
+			"_index": 207,
+			"uid": "0b106bf0f6cb33ab",
+			"instance_type": "m5.8xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/06/introducing-new-instances-sizes-for-amazon-ec2-m5-and-r5-instances/",
+				"published": "Jun 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-two-more-sizes-of-m5-r5-instances/",
+				"published": "Jun 27, 2019"
+			}
+		},
+		{
+			"_index": 208,
+			"uid": "698867657fdf1763",
+			"instance_type": "m5.16xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/06/introducing-new-instances-sizes-for-amazon-ec2-m5-and-r5-instances/",
+				"published": "Jun 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-two-more-sizes-of-m5-r5-instances/",
+				"published": "Jun 27, 2019"
+			}
+		},
+		{
+			"_index": 209,
+			"uid": "72e8ba239b684cf3",
+			"instance_type": "m5a.8xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/06/introducing-new-instances-sizes-for-amazon-ec2-m5-and-r5-instances/",
+				"published": "Jun 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-two-more-sizes-of-m5-r5-instances/",
+				"published": "Jun 27, 2019"
+			}
+		},
+		{
+			"_index": 210,
+			"uid": "24055d04325f1755",
+			"instance_type": "m5a.16xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/06/introducing-new-instances-sizes-for-amazon-ec2-m5-and-r5-instances/",
+				"published": "Jun 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-two-more-sizes-of-m5-r5-instances/",
+				"published": "Jun 27, 2019"
+			}
+		},
+		{
+			"_index": 211,
+			"uid": "a064bf626ade0037",
+			"instance_type": "m5d.8xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/06/introducing-new-instances-sizes-for-amazon-ec2-m5-and-r5-instances/",
+				"published": "Jun 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-two-more-sizes-of-m5-r5-instances/",
+				"published": "Jun 27, 2019"
+			}
+		},
+		{
+			"_index": 212,
+			"uid": "2fa8fdc1988ba4fe",
+			"instance_type": "m5d.16xlarge",
+			"instance_category": "General Purpose",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/06/introducing-new-instances-sizes-for-amazon-ec2-m5-and-r5-instances/",
+				"published": "Jun 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-two-more-sizes-of-m5-r5-instances/",
+				"published": "Jun 27, 2019"
+			}
+		},
+		{
+			"_index": 213,
+			"uid": "f29ff6955d4496e9",
+			"instance_type": "r5.8xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/06/introducing-new-instances-sizes-for-amazon-ec2-m5-and-r5-instances/",
+				"published": "Jun 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-two-more-sizes-of-m5-r5-instances/",
+				"published": "Jun 27, 2019"
+			}
+		},
+		{
+			"_index": 214,
+			"uid": "9139d0fe71b0fa7d",
+			"instance_type": "r5.16xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/06/introducing-new-instances-sizes-for-amazon-ec2-m5-and-r5-instances/",
+				"published": "Jun 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-two-more-sizes-of-m5-r5-instances/",
+				"published": "Jun 27, 2019"
+			}
+		},
+		{
+			"_index": 215,
+			"uid": "95ada0015fc902ec",
+			"instance_type": "r5a.8xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/06/introducing-new-instances-sizes-for-amazon-ec2-m5-and-r5-instances/",
+				"published": "Jun 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-two-more-sizes-of-m5-r5-instances/",
+				"published": "Jun 27, 2019"
+			}
+		},
+		{
+			"_index": 216,
+			"uid": "ebb010c330f3f81f",
+			"instance_type": "r5a.16xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/06/introducing-new-instances-sizes-for-amazon-ec2-m5-and-r5-instances/",
+				"published": "Jun 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-two-more-sizes-of-m5-r5-instances/",
+				"published": "Jun 27, 2019"
+			}
+		},
+		{
+			"_index": 217,
+			"uid": "1f5c21baec1c4a57",
+			"instance_type": "r5d.8xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/06/introducing-new-instances-sizes-for-amazon-ec2-m5-and-r5-instances/",
+				"published": "Jun 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-two-more-sizes-of-m5-r5-instances/",
+				"published": "Jun 27, 2019"
+			}
+		},
+		{
+			"_index": 218,
+			"uid": "a51d983ba556a20f",
+			"instance_type": "r5d.16xlarge",
+			"instance_category": "Memory Optimized",
+			"instance_generation": "Current Generation",
+			"release_month": "June",
+			"release_year": 2019,
+			"product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+			"announcement": {
+				"url": "https://aws.amazon.com/about-aws/whats-new/2019/06/introducing-new-instances-sizes-for-amazon-ec2-m5-and-r5-instances/",
+				"published": "Jun 27, 2019"
+			},
+			"blog_post": {
+				"url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-two-more-sizes-of-m5-r5-instances/",
+				"published": "Jun 27, 2019"
+			}
+		}
+	]
+}
