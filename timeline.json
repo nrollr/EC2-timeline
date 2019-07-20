@@ -9,7 +9,7 @@
 			"instance_type": "m1.small",
 			"instance_category": "General Purpose",
 			"instance_generation": "Previous generation",
-			"release_month": "Augustus",
+			"release_month": "August",
 			"release_year": 2006,
 			"product_page": "https://aws.amazon.com/ec2/previous-generation/",
 			"announcement": {
