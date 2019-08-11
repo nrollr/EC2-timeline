@@ -1,7 +1,7 @@
 {
-    "release": "v1.1.1",
+    "release": "v1.1.2",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "Jul 21, 2019",
+    "published": "August 11, 2019",
     "instances": [
         {
             "_index": 1,
@@ -3925,6 +3925,42 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/ec2-instance-update-two-more-sizes-of-m5-r5-instances/",
                 "published": "Jun 27, 2019"
+            }
+        },
+        {
+            "_index": 219,
+            "uid": "c7653042b7802a78",
+            "instance_type": "c5n.metal",
+            "instance_category": "Compute Optimized (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/08/introducing-amazon-ec2-i3en-and-c5n-bare-metal-instances/",
+                "published": "Aug 9, 2019"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 220,
+            "uid": "47bb67a008af28d7",
+            "instance_type": "i3en.metal",
+            "instance_category": "Storage Optimized (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i3en/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/08/introducing-amazon-ec2-i3en-and-c5n-bare-metal-instances/",
+                "published": "Aug 9, 2019"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
