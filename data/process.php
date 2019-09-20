@@ -40,9 +40,9 @@ foreach ($resultset as $row) {
 	}
 
 $result = array(
-	"release" => "v1.1.2",
+	"release" => "v1.1.3",
 	 "origin" => "https://instancetyp.es/timeline.json",
-  "published" => "Aug 11, 2019",
+  "published" => "Sep 20, 2019",
   "instances" => array_values($result)
 );
 
