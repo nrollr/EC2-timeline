@@ -11,8 +11,3 @@ Additionally `.csv` and `.sql` file formats are available within this directory:
 * [timeline.csv](https://github.com/nrollr/ec2-timeline/blob/master/data/timeline.csv)
 * [timeline.sql](https://github.com/nrollr/ec2-timeline/blob/master/data/timeline.sql)
 
-Get a [quick preview](https://airtable.com/shrD2R7TFqOAvevfs) of the data via [Airtable](https://airtable.com).
-
-
-#### JSON format
-In order to generate the `JSON`-[file](https://instancetyp.es/timeline.json) `process.php` is used. It fetches the data from a MySQL-db and generates the file. To use the script, make sure to have a MySQL-db with the contents of [timeline.sql](https://github.com/nrollr/ec2-timeline/blob/master/data/timeline.sql) + adapt the database connection parameters to reflect your own environment.
