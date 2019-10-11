@@ -1,7 +1,7 @@
 {
-    "release": "v1.1.4",
+    "release": "v1.1.5",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "Oct 8, 2019",
+    "published": "Oct 11, 2019",
     "instances": [
         {
             "_index": 1,
@@ -4105,6 +4105,600 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/ec2-high-memory-update-new-18-tb-and-24-tb-instances/",
                 "published": "Oct 8, 2019"
+            }
+        },
+        {
+            "_index": 229,
+            "uid": "cb7d3249be0c9fec",
+            "instance_type": "a1.metal",
+            "instance_category": "General Purpose (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/a1/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-availability-of-amazon-ec2-a1-bare-metal-instances/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-bare-metal-arm-based-ec2-instances/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 230,
+            "uid": "30c63c622f9ccda0",
+            "instance_type": "m5n.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 231,
+            "uid": "b8ff3e0fce618545",
+            "instance_type": "m5n.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 232,
+            "uid": "d7fcb2d2b1b8ee6d",
+            "instance_type": "m5n.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 233,
+            "uid": "6e97e90a2dd04b05",
+            "instance_type": "m5n.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 234,
+            "uid": "2c0df2491bc9817a",
+            "instance_type": "m5n.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 235,
+            "uid": "b011602f50f412ad",
+            "instance_type": "m5n.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 236,
+            "uid": "8938d82995a2e59a",
+            "instance_type": "m5n.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 237,
+            "uid": "f405717ccbb0848d",
+            "instance_type": "m5n.metal",
+            "instance_category": "Memory Optimized (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 238,
+            "uid": "49dfd84fa71f8720",
+            "instance_type": "m5dn.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 239,
+            "uid": "24aaa4e8be1590e9",
+            "instance_type": "m5dn.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 240,
+            "uid": "75d105b70f26ddfd",
+            "instance_type": "m5dn.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 241,
+            "uid": "9052a69bb4fbd260",
+            "instance_type": "m5dn.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 242,
+            "uid": "0deb3567f27f18c5",
+            "instance_type": "m5dn.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 243,
+            "uid": "2868140289580aae",
+            "instance_type": "m5dn.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 244,
+            "uid": "4afa6c283bbfacff",
+            "instance_type": "m5dn.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 245,
+            "uid": "53e21af03f1de338",
+            "instance_type": "m5dn.metal",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 246,
+            "uid": "90f1d82e843b343c",
+            "instance_type": "r5n.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 247,
+            "uid": "363dbf5752f98a0b",
+            "instance_type": "r5n.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 248,
+            "uid": "d5070dfd9e9d0c09",
+            "instance_type": "r5n.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 249,
+            "uid": "b6fc9590d930e74a",
+            "instance_type": "r5n.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 250,
+            "uid": "47cd5dc40290d7a6",
+            "instance_type": "r5n.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 251,
+            "uid": "4bcb2b7da9a7afba",
+            "instance_type": "r5n.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 252,
+            "uid": "2488d57b66ff9045",
+            "instance_type": "r5n.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 253,
+            "uid": "f1f1f0283fdabef9",
+            "instance_type": "r5n.metal",
+            "instance_category": "General Purpose (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 254,
+            "uid": "066bb9088b6e4413",
+            "instance_type": "r5dn.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 255,
+            "uid": "4ec9f24352ae2234",
+            "instance_type": "r5dn.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 256,
+            "uid": "cec06ccfb02213f1",
+            "instance_type": "r5dn.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 257,
+            "uid": "7d2c832919e7bd9c",
+            "instance_type": "r5dn.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 258,
+            "uid": "347ff61cfcd6345f",
+            "instance_type": "r5dn.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 259,
+            "uid": "f9f4c01abc5a7603",
+            "instance_type": "r5dn.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 260,
+            "uid": "d201bb1b5ccef36a",
+            "instance_type": "r5dn.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 261,
+            "uid": "5d2532082d46e9bc",
+            "instance_type": "r5dn.metal",
+            "instance_category": "General Purpose (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
             }
         }
     ]
