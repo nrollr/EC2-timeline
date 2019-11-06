@@ -1,4 +1,10 @@
 # EC2 Instance Timeline
+
+
+![Netlify](https://img.shields.io/netlify/8c48f705-c7c8-4a68-a370-2563f98d2306?color=green&logo=Netlify&logoColor=white&style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/nrollr/ec2-timeline?color=informational&logo=GitHub&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/github/license/nrollr/ec2-timeline?color=green&logoColor=white&style=flat-square)
+
 A historical overview of EC2 instance releases, based on information shared by [@jeffbarr](https://mobile.twitter.com/jeffbarr) and publicly available information on the [AWS website.](https://aws.amazon.com) Accessible via - [https://instancetyp.es](https://instancetyp.es/)
 
 You can also fetch all related content in a single `JSON`-file via [https://instancetyp.es/timeline.json](https://instancetyp.es/timeline.json)
