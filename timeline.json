@@ -1,7 +1,7 @@
 {
-    "release": "v1.1.6",
+    "release": "v1.1.7",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "Oct 15, 2019",
+    "published": "Nov 06, 2019",
     "instances": [
         {
             "_index": 1,
@@ -4627,6 +4627,60 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
                 "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 258,
+            "uid": "415ad2f749b18501",
+            "instance_type": "c5d.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/11/introducing-new-instance-sizes-amazon-ec2-c5d-instances/",
+                "published": "Nov 5, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-new-c5d-instance-sizes-and-bare-metal-instances/",
+                "published": "Nov 5, 2019"
+            }
+        },
+        {
+            "_index": 259,
+            "uid": "453363a2486007ac",
+            "instance_type": "c5d.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/11/introducing-new-instance-sizes-amazon-ec2-c5d-instances/",
+                "published": "Nov 5, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-new-c5d-instance-sizes-and-bare-metal-instances/",
+                "published": "Nov 5, 2019"
+            }
+        },
+        {
+            "_index": 260,
+            "uid": "a48a1529dc9ee7b4",
+            "instance_type": "c5d.metal",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/11/introducing-new-instance-sizes-amazon-ec2-c5d-instances/",
+                "published": "Nov 5, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-new-c5d-instance-sizes-and-bare-metal-instances/",
+                "published": "Nov 5, 2019"
             }
         }
     ]
