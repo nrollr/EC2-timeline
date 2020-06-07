@@ -1,7 +1,7 @@
 {
-    "release": "v1.2.0",
+    "release": "v1.2.1",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "June 5, 2020",
+    "published": "June 7, 2020",
     "instances": [
         {
             "_index": 1,
@@ -3245,7 +3245,7 @@
         },
         {
             "_index": 181,
-            "uid": "1280209134485550",
+            "uid": 1280209134485550,
             "instance_type": "m5ad.4xlarge",
             "instance_category": "General Purpose",
             "instance_generation": "Current generation",
@@ -5059,6 +5059,24 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c5a-instances-powered-by-2nd-gen-amd-epyc-processors/",
                 "published": "Jun 4, 2020"
+            }
+        },
+        {
+            "_index": 282,
+            "uid": "9bf19ac5ce0c2e06",
+            "instance_type": "g4dn.metal",
+            "instance_category": "Accelerated Computing (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g4/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/announcing-general-availability-amazon-ec2-g4dn-bare-metal-instances/",
+                "published": "Jun 5, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
