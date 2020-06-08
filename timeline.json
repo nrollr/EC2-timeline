@@ -1,7 +1,7 @@
 {
-    "release": "v1.2.1",
+    "release": "v1.2.2",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "June 7, 2020",
+    "published": "June 8, 2020",
     "instances": [
         {
             "_index": 1,
@@ -1108,15 +1108,15 @@
             "instance_category": "Compute Optimized",
             "instance_generation": "Current generation",
             "release_month": "November",
-            "release_year": 2016,
+            "release_year": 2017,
             "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-c5-instances-the-next-generation-of-compute-optimized-instances/",
-                "published": "Nov 06, 2016"
+                "published": "Nov 06, 2017"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/now-available-compute-intensive-c5-instances-for-amazon-ec2/",
-                "published": "Nov 06, 2016"
+                "published": "Nov 06, 2017"
             }
         },
         {
@@ -1126,15 +1126,15 @@
             "instance_category": "Compute Optimized",
             "instance_generation": "Current generation",
             "release_month": "November",
-            "release_year": 2016,
+            "release_year": 2017,
             "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-c5-instances-the-next-generation-of-compute-optimized-instances/",
-                "published": "Nov 06, 2016"
+                "published": "Nov 06, 2017"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/now-available-compute-intensive-c5-instances-for-amazon-ec2/",
-                "published": "Nov 06, 2016"
+                "published": "Nov 06, 2017"
             }
         },
         {
@@ -1144,15 +1144,15 @@
             "instance_category": "Compute Optimized",
             "instance_generation": "Current generation",
             "release_month": "November",
-            "release_year": 2016,
+            "release_year": 2017,
             "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-c5-instances-the-next-generation-of-compute-optimized-instances/",
-                "published": "Nov 06, 2016"
+                "published": "Nov 06, 2017"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/now-available-compute-intensive-c5-instances-for-amazon-ec2/",
-                "published": "Nov 06, 2016"
+                "published": "Nov 06, 2017"
             }
         },
         {
@@ -1162,15 +1162,15 @@
             "instance_category": "Compute Optimized",
             "instance_generation": "Current generation",
             "release_month": "November",
-            "release_year": 2016,
+            "release_year": 2017,
             "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-c5-instances-the-next-generation-of-compute-optimized-instances/",
-                "published": "Nov 06, 2016"
+                "published": "Nov 06, 2017"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/now-available-compute-intensive-c5-instances-for-amazon-ec2/",
-                "published": "Nov 06, 2016"
+                "published": "Nov 06, 2017"
             }
         },
         {
@@ -1180,15 +1180,15 @@
             "instance_category": "Compute Optimized",
             "instance_generation": "Current generation",
             "release_month": "November",
-            "release_year": 2016,
+            "release_year": 2017,
             "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-c5-instances-the-next-generation-of-compute-optimized-instances/",
-                "published": "Nov 06, 2016"
+                "published": "Nov 06, 2017"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/now-available-compute-intensive-c5-instances-for-amazon-ec2/",
-                "published": "Nov 06, 2016"
+                "published": "Nov 06, 2017"
             }
         },
         {
@@ -1198,15 +1198,15 @@
             "instance_category": "Compute Optimized",
             "instance_generation": "Current generation",
             "release_month": "November",
-            "release_year": 2016,
+            "release_year": 2017,
             "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-c5-instances-the-next-generation-of-compute-optimized-instances/",
-                "published": "Nov 06, 2016"
+                "published": "Nov 06, 2017"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/now-available-compute-intensive-c5-instances-for-amazon-ec2/",
-                "published": "Nov 06, 2016"
+                "published": "Nov 06, 2017"
             }
         },
         {
@@ -3245,7 +3245,7 @@
         },
         {
             "_index": 181,
-            "uid": 1280209134485550,
+            "uid": "1280209134485550",
             "instance_type": "m5ad.4xlarge",
             "instance_category": "General Purpose",
             "instance_generation": "Current generation",
