@@ -1,7 +1,7 @@
 {
-    "release": "v1.2.2",
+    "release": "v1.2.3",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "June 8, 2020",
+    "published": "June 20, 2020",
     "instances": [
         {
             "_index": 1,
@@ -5073,6 +5073,330 @@
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/announcing-general-availability-amazon-ec2-g4dn-bare-metal-instances/",
                 "published": "Jun 5, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 283,
+            "uid": "a9d882ca76d69f72",
+            "instance_type": "c6g.medium",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 284,
+            "uid": "b740be3076a87696",
+            "instance_type": "c6g.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 285,
+            "uid": "9b10bd9cd94395b2",
+            "instance_type": "c6g.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 286,
+            "uid": "1965561e4bd04ca0",
+            "instance_type": "c6g.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 287,
+            "uid": "946778e1a65351ac",
+            "instance_type": "c6g.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 288,
+            "uid": "5c9b0869161bef30",
+            "instance_type": "c6g.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 289,
+            "uid": "df82aa351271b202",
+            "instance_type": "c6g.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 290,
+            "uid": "734038d7594de57f",
+            "instance_type": "c6g.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 291,
+            "uid": "4d22b1baa20fb4ed",
+            "instance_type": "c6g.metal",
+            "instance_category": "Compute Optimized (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 292,
+            "uid": "245c83bb82fb269e",
+            "instance_type": "r6g.medium",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 293,
+            "uid": "c9660ba510614747",
+            "instance_type": "r6g.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 294,
+            "uid": "d744548a5e65bddb",
+            "instance_type": "r6g.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 295,
+            "uid": "89aba5a4b001bae6",
+            "instance_type": "r6g.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 296,
+            "uid": "0f74c255bb5010c4",
+            "instance_type": "r6g.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 297,
+            "uid": "dd2a489443af43d5",
+            "instance_type": "r6g.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 298,
+            "uid": "db9c90668f801d5c",
+            "instance_type": "r6g.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 299,
+            "uid": "52cc754ae11769e9",
+            "instance_type": "r6g.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 300,
+            "uid": "3ce154d2e6e56657",
+            "instance_type": "r6g.metal",
+            "instance_category": "Memory Optimized (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/",
+                "published": "Jun 11, 2020"
             },
             "blog_post": {
                 "url": null,
