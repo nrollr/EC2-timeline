@@ -5402,6 +5402,492 @@
                 "url": null,
                 "published": null
             }
+        },
+        {
+            "_index": 301,
+            "uid": "df884b335f8c2457",
+            "instance_type": "m6gd.medium",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 302,
+            "uid": "47f361d5c2752343",
+            "instance_type": "m6gd.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 303,
+            "uid": "e9c7e51ea6915d8a",
+            "instance_type": "m6gd.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 304,
+            "uid": "c13b22361aafc119",
+            "instance_type": "m6gd.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 305,
+            "uid": "8796563b8b54ab9a",
+            "instance_type": "m6gd.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 306,
+            "uid": "4719366001b734c6",
+            "instance_type": "m6gd.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 307,
+            "uid": "e27d553b9fc91fad",
+            "instance_type": "m6gd.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 308,
+            "uid": "a9791050f469e59e",
+            "instance_type": "m6gd.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 309,
+            "uid": "88efc43ff9e3104b",
+            "instance_type": "m6gd.metal",
+            "instance_category": "General Purpose (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 310,
+            "uid": "9854a0c3c9e48415",
+            "instance_type": "c6gd.medium",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 311,
+            "uid": "30c6684552cb9f7b",
+            "instance_type": "c6gd.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 312,
+            "uid": "31b580b2dba074cf",
+            "instance_type": "c6gd.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 313,
+            "uid": "7da65a3ccc13c876",
+            "instance_type": "c6gd.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 314,
+            "uid": "c1e3e1c0ebb585df",
+            "instance_type": "c6gd.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 315,
+            "uid": "c1031b9c33265a15",
+            "instance_type": "c6gd.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 316,
+            "uid": "f32781f144d9351c",
+            "instance_type": "c6gd.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 317,
+            "uid": "45a0e12431899ba1",
+            "instance_type": "c6gd.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 318,
+            "uid": "857f670f0f4ebce7",
+            "instance_type": "c6gd.metal",
+            "instance_category": "Compute Optimized (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 319,
+            "uid": "0b5bd6763fdf1094",
+            "instance_type": "r6gd.medium",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 320,
+            "uid": "6d101d54bf71160d",
+            "instance_type": "r6gd.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 321,
+            "uid": "7f043bac2462335a",
+            "instance_type": "r6gd.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 322,
+            "uid": "5bb8332649242453",
+            "instance_type": "r6gd.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 323,
+            "uid": "c88cef9bd2b58c9d",
+            "instance_type": "r6gd.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 324,
+            "uid": "62f14237dc032038",
+            "instance_type": "r6gd.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 325,
+            "uid": "490debad1c84da9f",
+            "instance_type": "r6gd.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 326,
+            "uid": "8112a38275eeaee8",
+            "instance_type": "r6gd.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 327,
+            "uid": "814251dc615cd17e",
+            "instance_type": "r6gd.metal",
+            "instance_category": "Memory Optimized (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-new-amazon-ec2-instances-powered-aws-graviton2-processors/",
+                "published": "Jul 27, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
+                "published": "Jul 27, 2020"
+            }
         }
     ]
 }
