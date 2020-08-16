@@ -1,7 +1,7 @@
 {
-    "release": "v1.2.3",
+    "release": "v1.2.5",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "June 20, 2020",
+    "published": "August 16, 2020",
     "instances": [
         {
             "_index": 1,
@@ -5887,6 +5887,150 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-graviton2-instance-types-c6g-r6g-and-their-d-variant/",
                 "published": "Jul 27, 2020"
+            }
+        },
+        {
+            "_index": 328,
+            "uid": "c11a9a125c4f6c6f",
+            "instance_type": "c5ad.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/08/now-available-amazon-ec2-c5ad-instances-featuring-2nd-generation-amd-epyc-processors/",
+                "published": "Aug 13, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 329,
+            "uid": "48d5eefedb704d44",
+            "instance_type": "c5ad.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/08/now-available-amazon-ec2-c5ad-instances-featuring-2nd-generation-amd-epyc-processors/",
+                "published": "Aug 13, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 330,
+            "uid": "aa71619471c41c07",
+            "instance_type": "c5ad.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/08/now-available-amazon-ec2-c5ad-instances-featuring-2nd-generation-amd-epyc-processors/",
+                "published": "Aug 13, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 331,
+            "uid": "811bf12d08465b79",
+            "instance_type": "c5ad.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/08/now-available-amazon-ec2-c5ad-instances-featuring-2nd-generation-amd-epyc-processors/",
+                "published": "Aug 13, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 332,
+            "uid": "0063c5ad5c7024ee",
+            "instance_type": "c5ad.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/08/now-available-amazon-ec2-c5ad-instances-featuring-2nd-generation-amd-epyc-processors/",
+                "published": "Aug 13, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 333,
+            "uid": "f67cb78421b7d48f",
+            "instance_type": "c5ad.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/08/now-available-amazon-ec2-c5ad-instances-featuring-2nd-generation-amd-epyc-processors/",
+                "published": "Aug 13, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 334,
+            "uid": "77d461a595159fcf",
+            "instance_type": "c5ad.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/08/now-available-amazon-ec2-c5ad-instances-featuring-2nd-generation-amd-epyc-processors/",
+                "published": "Aug 13, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 335,
+            "uid": "00e5a9189be5b5e0",
+            "instance_type": "c5ad.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/08/now-available-amazon-ec2-c5ad-instances-featuring-2nd-generation-amd-epyc-processors/",
+                "published": "Aug 13, 2020"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
