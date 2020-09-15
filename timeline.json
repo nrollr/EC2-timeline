@@ -1,7 +1,7 @@
 {
-    "release": "v1.2.5",
+    "release": "v1.2.6",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "August 16, 2020",
+    "published": "September 15, 2020",
     "instances": [
         {
             "_index": 1,
@@ -6031,6 +6031,132 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 336,
+            "uid": "384a7a384faf207a",
+            "instance_type": "t4g.nano",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/t4/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/09/announcing-new-amazon-ec2-t4g-instances-powered-by-aws-graviton2-processors/",
+                "published": "Sep 14, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-t4g-instances-burstable-performance-powered-by-aws-graviton2/",
+                "published": "Sep 14, 2020"
+            }
+        },
+        {
+            "_index": 337,
+            "uid": "91454bda4916bf6a",
+            "instance_type": "t4g.micro",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/t4/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/09/announcing-new-amazon-ec2-t4g-instances-powered-by-aws-graviton2-processors/",
+                "published": "Sep 14, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-t4g-instances-burstable-performance-powered-by-aws-graviton2/",
+                "published": "Sep 14, 2020"
+            }
+        },
+        {
+            "_index": 338,
+            "uid": "eb44303cdacf1e5b",
+            "instance_type": "t4g.small",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/t4/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/09/announcing-new-amazon-ec2-t4g-instances-powered-by-aws-graviton2-processors/",
+                "published": "Sep 14, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-t4g-instances-burstable-performance-powered-by-aws-graviton2/",
+                "published": "Sep 14, 2020"
+            }
+        },
+        {
+            "_index": 339,
+            "uid": "226e63d79d09e26a",
+            "instance_type": "t4g.medium",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/t4/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/09/announcing-new-amazon-ec2-t4g-instances-powered-by-aws-graviton2-processors/",
+                "published": "Sep 14, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-t4g-instances-burstable-performance-powered-by-aws-graviton2/",
+                "published": "Sep 14, 2020"
+            }
+        },
+        {
+            "_index": 340,
+            "uid": "35f2bcbefc562c2f",
+            "instance_type": "t4g.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/t4/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/09/announcing-new-amazon-ec2-t4g-instances-powered-by-aws-graviton2-processors/",
+                "published": "Sep 14, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-t4g-instances-burstable-performance-powered-by-aws-graviton2/",
+                "published": "Sep 14, 2020"
+            }
+        },
+        {
+            "_index": 341,
+            "uid": "70766b523f88a1d7",
+            "instance_type": "t4g.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/t4/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/09/announcing-new-amazon-ec2-t4g-instances-powered-by-aws-graviton2-processors/",
+                "published": "Sep 14, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-t4g-instances-burstable-performance-powered-by-aws-graviton2/",
+                "published": "Sep 14, 2020"
+            }
+        },
+        {
+            "_index": 342,
+            "uid": "2887b2f4c63f0b9f",
+            "instance_type": "t4g.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/t4/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/09/announcing-new-amazon-ec2-t4g-instances-powered-by-aws-graviton2-processors/",
+                "published": "Sep 14, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-t4g-instances-burstable-performance-powered-by-aws-graviton2/",
+                "published": "Sep 14, 2020"
             }
         }
     ]
