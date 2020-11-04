@@ -1,7 +1,7 @@
 {
-    "release": "v1.2.6",
+    "release": "v1.2.7",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "September 15, 2020",
+    "published": "November 4, 2020",
     "instances": [
         {
             "_index": 1,
@@ -6157,6 +6157,24 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-t4g-instances-burstable-performance-powered-by-aws-graviton2/",
                 "published": "Sep 14, 2020"
+            }
+        },
+        {
+            "_index": 343,
+            "uid": "affc40b3281b14b5",
+            "instance_type": "p4d.24xlarge",
+            "instance_category": "GPU Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/p4/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-new-amazon-ec2-p4d-instances/",
+                "published": "Nov 02, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-gpu-equipped-ec2-p4-instances-for-machine-learning-hpc/",
+                "published": "Nov 02, 2020"
             }
         }
     ]
