@@ -1,7 +1,7 @@
 {
-    "release": "v1.2.7",
+    "release": "v1.2.8",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "November 4, 2020",
+    "published": "December 2, 2020",
     "instances": [
         {
             "_index": 1,
@@ -6175,6 +6175,492 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-gpu-equipped-ec2-p4-instances-for-machine-learning-hpc/",
                 "published": "Nov 02, 2020"
+            }
+        },
+        {
+            "_index": 344,
+            "uid": "9866810f1a3362a3",
+            "instance_type": "mac1.metal",
+            "instance_category": "General Purpose (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/mac/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-ec2-mac-instances-for-macos/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-use-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 345,
+            "uid": "ab78e374203dbca8",
+            "instance_type": "d3.xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 346,
+            "uid": "55eb90e9c51cd7b2",
+            "instance_type": "d3.2xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 347,
+            "uid": "785fa0110c554d64",
+            "instance_type": "d3.4xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 348,
+            "uid": "da6a2bfdabd4a31c",
+            "instance_type": "d3.8xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 349,
+            "uid": "3caad42109bdfcd0",
+            "instance_type": "d3en.xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 350,
+            "uid": "8418055f1476ee8c",
+            "instance_type": "d3en.2xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 351,
+            "uid": "23f5fe5d103e1292",
+            "instance_type": "d3en.4xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 352,
+            "uid": "2d3b7ae2487fad44",
+            "instance_type": "d3en.6xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 353,
+            "uid": "1d61704c39bbc410",
+            "instance_type": "d3en.8xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 354,
+            "uid": "5641de86c2dcb398",
+            "instance_type": "d3en.12xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 355,
+            "uid": "ad2115c3087dd7d0",
+            "instance_type": "m5zn.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-ec2-m5zn-instances-fastest-intel-xeon-scalable-cpu-in-the-cloud/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 356,
+            "uid": "26ef305dc773c317",
+            "instance_type": "m5zn.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-ec2-m5zn-instances-fastest-intel-xeon-scalable-cpu-in-the-cloud/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 357,
+            "uid": "0cc76dbefc256229",
+            "instance_type": "m5zn.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-ec2-m5zn-instances-fastest-intel-xeon-scalable-cpu-in-the-cloud/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 358,
+            "uid": "739833468b0c2a75",
+            "instance_type": "m5zn.3xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-ec2-m5zn-instances-fastest-intel-xeon-scalable-cpu-in-the-cloud/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 359,
+            "uid": "32f8464ab0e21ed0",
+            "instance_type": "m5zn.6xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-ec2-m5zn-instances-fastest-intel-xeon-scalable-cpu-in-the-cloud/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 360,
+            "uid": "9a9f266247ea07f7",
+            "instance_type": "m5zn.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-ec2-m5zn-instances-fastest-intel-xeon-scalable-cpu-in-the-cloud/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 361,
+            "uid": "1f002f0c5655a12f",
+            "instance_type": "m5zn.metal",
+            "instance_category": "General Purpose (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-ec2-m5zn-instances-fastest-intel-xeon-scalable-cpu-in-the-cloud/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 362,
+            "uid": "bfeda17b3034f233",
+            "instance_type": "r5b.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 363,
+            "uid": "031dc769e2232dc4",
+            "instance_type": "r5b.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 364,
+            "uid": "7249c84d07cbdba2",
+            "instance_type": "r5b.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 365,
+            "uid": "d25f166c1d6ba906",
+            "instance_type": "r5b.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 366,
+            "uid": "f90961d22ed25d5d",
+            "instance_type": "r5b.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 367,
+            "uid": "3c86ab4862a73242",
+            "instance_type": "r5b.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 368,
+            "uid": "86da59837dd5337a",
+            "instance_type": "r5b.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 369,
+            "uid": "5d805612eeed0759",
+            "instance_type": "r5b.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
+                "published": "Dec 01, 2020"
+            }
+        },
+        {
+            "_index": 370,
+            "uid": "4d78f45d48477881",
+            "instance_type": "r5b.metal",
+            "instance_category": "Memory Optimized (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
+                "published": "Dec 01, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
+                "published": "Dec 01, 2020"
             }
         }
     ]
