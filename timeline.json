@@ -1,7 +1,7 @@
 {
-    "release": "v1.2.8",
+    "release": "v1.2.9",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "December 2, 2020",
+    "published": "December 12, 2020",
     "instances": [
         {
             "_index": 1,
@@ -1033,7 +1033,7 @@
             "_index": 58,
             "uid": "5814625a9f0bbae7",
             "instance_type": "p2.xlarge",
-            "instance_category": "Accelererated Computing",
+            "instance_category": "Accelerated Computing",
             "instance_generation": "Current generation",
             "release_month": "September",
             "release_year": 2016,
@@ -1051,7 +1051,7 @@
             "_index": 59,
             "uid": "3228ce5b326c49d8",
             "instance_type": "p2.8xlarge",
-            "instance_category": "Accelererated Computing",
+            "instance_category": "Accelerated Computing",
             "instance_generation": "Current generation",
             "release_month": "September",
             "release_year": 2016,
@@ -1069,7 +1069,7 @@
             "_index": 60,
             "uid": "fef30902a8ab2544",
             "instance_type": "p2.16xlarge",
-            "instance_category": "accelererated Computing",
+            "instance_category": "Accelerated Computing",
             "instance_generation": "Current generation",
             "release_month": "September",
             "release_year": 2016,
@@ -1213,7 +1213,7 @@
             "_index": 68,
             "uid": "d821f375cbd16aee",
             "instance_type": "f1.2xlarge",
-            "instance_category": "Accelererated Computing",
+            "instance_category": "Accelerated Computing",
             "instance_generation": "Current generation",
             "release_month": "November",
             "release_year": 2016,
@@ -1231,7 +1231,7 @@
             "_index": 69,
             "uid": "1c07427ea1823aea",
             "instance_type": "f1.16xlarge",
-            "instance_category": "Accelererated Computing",
+            "instance_category": "Accelerated Computing",
             "instance_generation": "Current generation",
             "release_month": "November",
             "release_year": 2016,
@@ -1501,7 +1501,7 @@
             "_index": 84,
             "uid": "83536faa73c3d995",
             "instance_type": "g3.4xlarge",
-            "instance_category": "Accelererated Computing",
+            "instance_category": "Accelerated Computing",
             "instance_generation": "Current generation",
             "release_month": "July",
             "release_year": 2017,
@@ -1519,7 +1519,7 @@
             "_index": 85,
             "uid": "d0587cdfcbfc0e26",
             "instance_type": "g3.8xlarge",
-            "instance_category": "Accelererated Computing",
+            "instance_category": "Accelerated Computing",
             "instance_generation": "Current generation",
             "release_month": "July",
             "release_year": 2017,
@@ -1537,7 +1537,7 @@
             "_index": 86,
             "uid": "4daeb6c1cd154adf",
             "instance_type": "g3.16xlarge",
-            "instance_category": "Accelererated Computing",
+            "instance_category": "Accelerated Computing",
             "instance_generation": "Current generation",
             "release_month": "July",
             "release_year": 2017,
@@ -1573,7 +1573,7 @@
             "_index": 88,
             "uid": "abdae992e9ffdb12",
             "instance_type": "p3.2xlarge",
-            "instance_category": "Accelererated Computing",
+            "instance_category": "Accelerated Computing",
             "instance_generation": "Current generation",
             "release_month": "October",
             "release_year": 2017,
@@ -1591,7 +1591,7 @@
             "_index": 89,
             "uid": "575ebff884e79a37",
             "instance_type": "p3.8xlarge",
-            "instance_category": "Accelererated Computing",
+            "instance_category": "Accelerated Computing",
             "instance_generation": "Current generation",
             "release_month": "October",
             "release_year": 2017,
@@ -1609,7 +1609,7 @@
             "_index": 90,
             "uid": "514111d9f4ef431d",
             "instance_type": "p3.16xlarge",
-            "instance_category": "Accelererated Computing",
+            "instance_category": "Accelerated Computing",
             "instance_generation": "Current generation",
             "release_month": "October",
             "release_year": 2017,
@@ -2581,7 +2581,7 @@
             "_index": 144,
             "uid": "8d0accd5d01b2263",
             "instance_type": "f1.4xlarge",
-            "instance_category": "Accelererated Computing",
+            "instance_category": "Accelerated Computing",
             "instance_generation": "Current generation",
             "release_month": "September",
             "release_year": 2018,
@@ -2653,7 +2653,7 @@
             "_index": 148,
             "uid": "5520c3bd6d56dbb8",
             "instance_type": "g3s.xlarge",
-            "instance_category": "Accelererated Computing",
+            "instance_category": "Accelerated Computing",
             "instance_generation": "Current generation",
             "release_month": "October",
             "release_year": 2018,
@@ -3085,7 +3085,7 @@
             "_index": 172,
             "uid": "2d685e9e567763be",
             "instance_type": "p3dn.24xlarge",
-            "instance_category": "Accelererated Computing",
+            "instance_category": "Accelerated Computing",
             "instance_generation": "Current generation",
             "release_month": "December",
             "release_year": 2018,
@@ -6188,11 +6188,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/mac/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-ec2-mac-instances-for-macos/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-use-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6206,11 +6206,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6224,11 +6224,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6242,11 +6242,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6260,11 +6260,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6278,11 +6278,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6296,11 +6296,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6314,11 +6314,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6332,11 +6332,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6350,11 +6350,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6368,11 +6368,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/d3/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/ec2-update-d3-d3en-dense-storage-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6386,11 +6386,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-m5zn-instances-fastest-intel-xeon-scalable-cpu-in-the-cloud/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6404,11 +6404,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-m5zn-instances-fastest-intel-xeon-scalable-cpu-in-the-cloud/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6422,11 +6422,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-m5zn-instances-fastest-intel-xeon-scalable-cpu-in-the-cloud/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6440,11 +6440,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-m5zn-instances-fastest-intel-xeon-scalable-cpu-in-the-cloud/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6458,11 +6458,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-m5zn-instances-fastest-intel-xeon-scalable-cpu-in-the-cloud/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6476,11 +6476,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-m5zn-instances-fastest-intel-xeon-scalable-cpu-in-the-cloud/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6494,11 +6494,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-m5zn-instances-fastest-intel-xeon-scalable-cpu-in-the-cloud/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6512,11 +6512,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6530,11 +6530,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6548,11 +6548,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6566,11 +6566,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6584,11 +6584,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6602,11 +6602,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6620,11 +6620,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6638,11 +6638,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             }
         },
         {
@@ -6656,11 +6656,65 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r5b-instances-providing-3x-higher-ebs-performance/",
-                "published": "Dec 01, 2020"
+                "published": "Dec 1, 2020"
+            }
+        },
+        {
+            "_index": 371,
+            "uid": "aaaa38fff752526f",
+            "instance_type": "g4ad.4xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g4/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-g4ad-instances-powered-by-amd-radeon-pro-v520-gpus/",
+                "published": "Dec 9, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-g4ad-instances-featuring-amd-gpus-for-graphics-workloads/",
+                "published": "Dec 9, 2020"
+            }
+        },
+        {
+            "_index": 372,
+            "uid": "10593e31b83d669c",
+            "instance_type": "g4ad.8xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g4/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-g4ad-instances-powered-by-amd-radeon-pro-v520-gpus/",
+                "published": "Dec 9, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-g4ad-instances-featuring-amd-gpus-for-graphics-workloads/",
+                "published": "Dec 9, 2020"
+            }
+        },
+        {
+            "_index": 373,
+            "uid": "ecdfc2f19f27e64b",
+            "instance_type": "g4ad.12xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g4/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-g4ad-instances-powered-by-amd-radeon-pro-v520-gpus/",
+                "published": "Dec 9, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-g4ad-instances-featuring-amd-gpus-for-graphics-workloads/",
+                "published": "Dec 9, 2020"
             }
         }
     ]
