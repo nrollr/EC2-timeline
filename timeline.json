@@ -1,7 +1,7 @@
 {
-    "release": "v1.2.9",
+    "release": "v1.3.0",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "December 12, 2020",
+    "published": "December 20, 2020",
     "instances": [
         {
             "_index": 1,
@@ -6715,6 +6715,150 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-g4ad-instances-featuring-amd-gpus-for-graphics-workloads/",
                 "published": "Dec 9, 2020"
+            }
+        },
+        {
+            "_index": 374,
+            "uid": "6327b8aba5b70ce9",
+            "instance_type": "c6gn.medium",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-c6gn-instances-powered-by-aws-graviton2-processors-with-100-gbps-networking/",
+                "published": "Dec 18, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/coming-soon-ec2-c6gn-instances-100-gbps-networking-with-aws-graviton2-processors/",
+                "published": "Dec 1, 2020"
+            }
+        },
+        {
+            "_index": 375,
+            "uid": "c9a24ad3b0cf50e2",
+            "instance_type": "c6gn.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-c6gn-instances-powered-by-aws-graviton2-processors-with-100-gbps-networking/",
+                "published": "Dec 18, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/coming-soon-ec2-c6gn-instances-100-gbps-networking-with-aws-graviton2-processors/",
+                "published": "Dec 1, 2020"
+            }
+        },
+        {
+            "_index": 376,
+            "uid": "a941bfad2d293276",
+            "instance_type": "c6gn.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-c6gn-instances-powered-by-aws-graviton2-processors-with-100-gbps-networking/",
+                "published": "Dec 18, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/coming-soon-ec2-c6gn-instances-100-gbps-networking-with-aws-graviton2-processors/",
+                "published": "Dec 1, 2020"
+            }
+        },
+        {
+            "_index": 377,
+            "uid": "05e7e0af91aebded",
+            "instance_type": "c6gn.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-c6gn-instances-powered-by-aws-graviton2-processors-with-100-gbps-networking/",
+                "published": "Dec 18, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/coming-soon-ec2-c6gn-instances-100-gbps-networking-with-aws-graviton2-processors/",
+                "published": "Dec 1, 2020"
+            }
+        },
+        {
+            "_index": 378,
+            "uid": "72d6fc0c0409f106",
+            "instance_type": "c6gn.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-c6gn-instances-powered-by-aws-graviton2-processors-with-100-gbps-networking/",
+                "published": "Dec 18, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/coming-soon-ec2-c6gn-instances-100-gbps-networking-with-aws-graviton2-processors/",
+                "published": "Dec 1, 2020"
+            }
+        },
+        {
+            "_index": 379,
+            "uid": "8251dec96593b40a",
+            "instance_type": "c6gn.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-c6gn-instances-powered-by-aws-graviton2-processors-with-100-gbps-networking/",
+                "published": "Dec 18, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/coming-soon-ec2-c6gn-instances-100-gbps-networking-with-aws-graviton2-processors/",
+                "published": "Dec 1, 2020"
+            }
+        },
+        {
+            "_index": 380,
+            "uid": "063fc76e0f065c69",
+            "instance_type": "c6gn.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-c6gn-instances-powered-by-aws-graviton2-processors-with-100-gbps-networking/",
+                "published": "Dec 18, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/coming-soon-ec2-c6gn-instances-100-gbps-networking-with-aws-graviton2-processors/",
+                "published": "Dec 1, 2020"
+            }
+        },
+        {
+            "_index": 381,
+            "uid": "debc7da09d3abc3e",
+            "instance_type": "c6gn.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2020,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-c6gn-instances-powered-by-aws-graviton2-processors-with-100-gbps-networking/",
+                "published": "Dec 18, 2020"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/coming-soon-ec2-c6gn-instances-100-gbps-networking-with-aws-graviton2-processors/",
+                "published": "Dec 1, 2020"
             }
         }
     ]
