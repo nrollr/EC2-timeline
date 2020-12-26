@@ -1,0 +1,31 @@
+{
+  "name": "ec2-timeline",
+  "version": "1.0.0",
+  "description": "A historical overview of AWS EC2 instance releases",
+  "main": "./public/index.html",
+  "scripts": {
+    "build:css": "postcss build/assets/css/tailwind.css -o public/assets/css/style.css",
+    "build:serve": "browser-sync start --server './public' --files './public'",
+    "prod:css": "NODE_ENV=production postcss build/assets/css/tailwind.css -o public/assets/css/style.css",
+    "prod:minify": "cleancss -o public/assets/css/style.min.css public/assets/css/style.css"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "browser-sync": "^2.26.13",
+    "clean-css": "^4.2.3",
+    "postcss": "^8.2.1",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrollr/ec2-timeline.git"
+  },
+  "keywords": [],
+  "author": "Nicolas Rollier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nrollr/ec2-timeline/issues"
+  },
+  "homepage": "https://instancetyp.es"
+}

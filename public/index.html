@@ -1,0 +1,2251 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>EC2 instance timeline</title>
+  <link href="assets/css/style.min.css" rel="stylesheet">
+</head>
+<body class="font-sans bg-white">
+<div class="bg-aws-100 mx-auto h-2 w-full"></div>
+<div class="w-full mx-auto content-center p-8">
+	<p class="font-medium text-2xl text-gray-700">AWS EC2 instance timeline</p>
+	<p class="text-lg font-light text-gray-500 pb-4">A historical overview of instance releases</p>
+	<!-- BADGES -->
+	<div class="table-row-group">
+		<div class="table-row">
+			<div class="table-cell text-xs py-1 px-3 rounded rounded-r-none text-gray-600 bg-gray-100">Source&nbsp;</div>
+			<div class="table-cell text-xs py-1 px-3 rounded rounded-l-none text-gray-100 bg-aws-100">
+				<a href="https://github.com/nrollr/ec2-timeline">GitHub</a></div>
+			<div class="table-cell px-2"></div>
+			<div class="table-cell text-xs py-1 px-3 rounded rounded-r-none text-gray-600 bg-gray-100">Format</div>
+			<div class="table-cell text-xs py-1 px-3 rounded rounded-l-none text-gray-100 bg-aws-100">
+				<a href="https://instancetyp.es/timeline.json">JSON</a>
+			</div>
+		</div>
+	</div>
+	<div class="mt-2">
+		<div class="table-row-group">
+			<div class="table-row">
+				<div class="table-cell text-xs py-1 px-3 rounded rounded-r-none text-gray-600 bg-gray-100">Release</div>
+				<div class="table-cell text-xs py-1 px-3 rounded rounded-l-none text-white bg-timeline-200">
+					<a href="https://github.com/nrollr/ec2-timeline/releases">v1.3.1</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="flex justify-center w-full mx-auto">
+	<!-- TIMELINE -->
+	<div class="flow-root px-2 ml-6">
+		<ul class="-mb-8 mt-12">
+			<!-- 2020 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex items-start space-x-3">
+						<div class="relative">
+							<button class="flex items-center justify-center rounded bg-aws-100 text-white py-1 px-3">2020</button>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- DECEMBER 2020 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">december 2020</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Compute Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">c6gn.medium, c6gn.large, c6gn.xlarge, c6gn.2xlarge, c6gn.4xlarge, c6gn.8xlarge, c6gn.12xlarge, c6gn.16xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/c6" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200"> Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Accelerated Computing</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">g4ad.4xlarge, g4ad.8xlarge, g4ad.16xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/g4" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">mac1.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/mac" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<div class="mt-3 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">m5zn.large, m5zn.xlarge, m5zn.2xlarge, m5zn.3xlarge, m5zn.6xlarge, m5zn.12xlarge, m5zn.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/m5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Storage Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">d3.xlarge, d3.2xlarge, d3.4xlarge, d3.8xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/d3" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<div class="mt-3 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">d3en.xlarge, d3en.2xlarge, d3en.4xlarge, d3en.6xlarge, d3en.8xlarge, d3en.12xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/d3" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">r5b.large, r5b.xlarge, r5b.2xlarge, r5b.4xlarge, r5b.8xlarge, r5b.12xlarge, r5b.16xlarge, r5b.24xlarge, r5b.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/r5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- NOVEMBER 2020 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">november 2020</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Accelerated Computing</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">p4d.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/p4" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- SEPTEMBER 2020 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">september 2020</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">t4g.nano, t4g.micro, t4g.small, t4g.medium, t4g.large, t4g.xlarge, t4g.2xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/t4" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- AUGUST 2020 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">august 2020</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Compute Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">c5ad.large, c5ad.xlarge, c5ad.2xlarge, c5ad.4xlarge, c5ad.8xlarge, c5ad.12xlarge, c5ad.16xlarge, c5ad.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/c5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- JULY 2020 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">july 2020</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">m6gd.medium, m6gd.large, m6gd.xlarge, m6gd.2xlarge, m6gd.4xlarge, m6gd.8xlarge, m6gd.12xlarge, m6gd.16xlarge, m6gd.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/m6" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Compute Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">c6gd.medium, c6gd.large, c6gd.xlarge, c6gd.2xlarge, c6gd.4xlarge, c6gd.8xlarge, c6gd.12xlarge, c6gd.16xlarge, c6gd.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/c6" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">r6gd.medium, r6gd.large, r6gd.xlarge, r6gd.2xlarge, r6gd.4xlarge, r6gd.8xlarge, r6gd.12xlarge, r6gd.16xlarge, r6gd.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/r6" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- JUNE 2020 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">june 2020</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">r6g.medium, r6g.large, r6g.xlarge, r6g.2xlarge, r6g.4xlarge, r6g.8xlarge, r6g.12xlarge, r6g.16xlarge, r6g.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/r6" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Compute Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">c6g.medium, c6g.large, c6g.xlarge, c6g.2xlarge, c6g.4xlarge, c6g.8xlarge, c6g.12xlarge, c6g.16xlarge, c6g.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/c6" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<div class="mt-3 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">c5a.large, c5a.xlarge, c5a.2xlarge, c5a.4xlarge, c5a.8xlarge, c5a.12xlarge, c5a.16xlarge, c5a.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/c5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Accelerated Computing</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">g4dn.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/g4" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- MAY 2020 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">may 2020</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">m6g.medium, m6g.large, m6g.xlarge, m6g.2xlarge, m6g.4xlarge, m6g.8xlarge, m6g.12xlarge, m6g.16xlarge, m6g.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/m6" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- 2019 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex items-start space-x-3">
+						<div class="relative">
+							<button class="flex items-center justify-center rounded bg-aws-100 text-white py-1 px-3">2019</button>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- DECEMBER 2019 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">december 2019</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Accelerated Computing</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">inf1.xlarge, inf1.2xlarge, inf1.6xlarge, inf1.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/inf1" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- NOVEMBER 2019 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">november 2019</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Compute Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">c5d.12xlarge, c5d.24xlarge, c5d.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/c5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- OCTOBER 2019 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">october 2019</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">r5dn.large, r5dn.xlarge, r5dn.2xlarge, r5dn.4xlarge, r5dn.8xlarge, r5dn.12xlarge, r5dn.16xlarge, r5dn.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/r5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<div class="mt-3 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">r5n.large, r5n.xlarge, r5n.2xlarge, r5n.4xlarge, r5n.8xlarge, r5n.12xlarge, r5n.16xlarge, r5n.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/r5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">m5dn.large, m5dn.xlarge, m5dn.2xlarge, m5dn.4xlarge, m5dn.8xlarge, m5dn.12xlarge, m5dn.16xlarge, m5dn.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/m5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<div class="mt-3 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">m5n.large, m5n.xlarge, m5n.2xlarge, m5n.4xlarge, m5n.8xlarge, m5n.12xlarge, m5n.16xlarge, m5n.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/m5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<div class="mt-3 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">a1.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/a1" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">u-18tb1.metal, u-24tb1.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/high-memory" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- SEPTEMBER 2019 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">september 2019</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Accelerated Computing</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">g4dn.xlarge, g4dn.2xlarge, g4dn.4xlarge, g4dn.8xlarge, g4dn.12xlarge, g4dn.16xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/g4" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- AUGUST 2019 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">august 2019</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Compute Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">c5n.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/c5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Storage Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">i3en.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/i3e" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- JUNE 2019 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">june 2019</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">r5.8xlarge, r5a.8xlarge, r5d.8xlarge, r5.16xlarge, r5a.16xlarge, r5d.16xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/r5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">m5.8xlarge, m5a.8xlarge, m5d.8xlarge, m5.16xlarge, m5a.16xlarge, m5d.16xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/m5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Compute Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">c5.12xlarge, c5.24xlarge, c5.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/c5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- MAY 2019 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">may 2019</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Storage Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">i3en.large, i3en.xlarge, i3en.2xlarge, i3en.3xlarge, i3en.6xlarge, i3en.12xlarge, i3en.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/i3en" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- APRIL 2019 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">april 2019</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">t3a.nano, t3a.micro, t3a.small, t3a.medium, t3a.large, t3a.xlarge, t3a.2xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/t3" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- MARCH 2019 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">march 2019</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">r5ad.large, r5ad.xlarge, r5ad.2xlarge, r5ad.4xlarge, r5ad.12xlarge, r5ad.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/r5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">m5ad.large, m5ad.xlarge, m5ad.2xlarge, m5ad.4xlarge, m5ad.12xlarge, m5ad.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/m5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- FEBRUARY 2019 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">february 2019</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">z1d.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/z1d" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<div class="mt-3 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">r5.metal, r5d.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/r5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">m5.metal, m5d.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/m5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- 2018 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex items-start space-x-3">
+						<div class="relative">
+							<button class="flex items-center justify-center rounded bg-aws-100 text-white py-1 px-3">2018</button>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- DECEMBER 2018 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">december 2018</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Accelerated Computing</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">p3dn.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/p3" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- NOVEMBER 2018 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">november 2018</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Compute Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">c5n.large, c5n.xlarge, c5n.2xlarge, c5n.4xlarge, c5n.9xlarge, c5n.18xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/c5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">a1.medium, a1.large, a1.xlarge, a1.2xlarge, a1.4xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/a1" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<div class="mt-3 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">m5a.large, m5a.xlarge, m5a.2xlarge, m5a.4xlarge, m5a.12xlarge, m5a.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/m5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">r5a.large, r5a.xlarge, r5a.2xlarge, r5a.4xlarge, r5a.12xlarge, r5a.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/r5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- OCTOBER 2018 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">october 2018</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Accelerated Computing</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">g3s.xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/g3" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- SEPTEMBER 2018 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">september 2018</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">u-6tb1.metal, u-9tb1.metal, u-12tb1.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/high-memory" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Accelererated Computing</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">f1.4xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/f1" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- AUGUST 2018 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">august 2018</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">t3.nano, t3.micro, t3.small, t3.medium, t3.large, t3.xlarge, t3.2xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/t3" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- JULY 2018 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">july 2018</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">z1d.large, z1d.xlarge, z1d.2xlarge, z1d.3xlarge, z1d.6xlarge, z1d.12xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/z1d" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<div class="mt-3 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">r5d.large, r5d.xlarge, r5d.2xlarge, r5d.4xlarge, r5d.12xlarge, r5d.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/r5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<div class="mt-3 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">r5.large, r5.xlarge, r5.2xlarge, r5.4xlarge, r5.12xlarge, r5.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/r5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- JUNE 2018 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">june 2018</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">m5d.large, m5d.xlarge, m5d.2xlarge, m5d.4xlarge, m5d.12xlarge, m5d.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/m5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- MAY 2018 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">may 2018</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Compute Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">c5d.large, c5d.xlarge, c5d.2xlarge, c5d.4xlarge, c5d.9xlarge, c5d.18xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/c5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- 2017 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex items-start space-x-3">
+						<div class="relative">
+							<button class="flex items-center justify-center rounded bg-aws-100 text-white py-1 px-3">2017</button>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- NOVEMBER 2017 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">november 2017</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Compute Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">c5.large, c5.xlarge, c5.2xlarge, c5.4xlarge, c5.9xlarge, c5.18xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/c5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">m5.large, m5.xlarge, m5.2xlarge, m5.4xlarge, m5.12xlarge, m5.24xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/m5" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Storage Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">i3.metal</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/i3" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<div class="mt-3 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">h1.2xlarge, h1.4xlarge, h1.8xlarge, h1.16xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/h1" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-3 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">x1e.xlarge, x1e.2xlarge, x1e.4xlarge, x1e.8xlarge, x1e.16xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/x1e" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- OCTOBER 2017 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">october 2017</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Accelerated Computing</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">p3.2xlarge, p3.8xlarge, p3.16xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/p3" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- SEPTEMBER 2017 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">september 2017</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">x1e.32xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/x1e" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- JULY 2017 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">july 2017</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Accelerated Computing</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">g3.4xlarge, g3.8xlarge, g3.16xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/g3" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- 2017 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex items-start space-x-3">
+						<div class="relative">
+							<button class="flex items-center justify-center rounded bg-aws-100 text-white py-1 px-3">2016</button>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- NOVEMBER 2016 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">november 2016</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">t2.xlarge, t2.2xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/t2" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">r4.large, r4.xlarge, r4.2xlarge, r4.4xlarge, r4.8xlarge, r4.16xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/#Memory_Optimized" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">More info</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Storage Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">i3.large, i3.xlarge, i3.2xlarge, i3.4xlarge, i3.8xlarge, i3.16xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/i3" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Accelerated Computing</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">f1.2xlarge, f1.16xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/f1" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- OCTOBER 2016 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">october 2016</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">x1.16xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/x1" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- SEPTEMBER 2016 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">september 2016</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Accelerated Computing</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">p2.xlarge, p2.8xlarge, p2.16xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/p2" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">m4.16xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/#General_Purpose" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">More info</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- MAY 2016 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">may 2016</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">x1.32xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/x1" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- 2015 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex items-start space-x-3">
+						<div class="relative">
+							<button class="flex items-center justify-center rounded bg-aws-100 text-white py-1 px-3">2015</button>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- DECEMBER 2015 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">december 2015</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">t2.nano</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/t2" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- JUNE 2015 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">june 2015</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">t2.large</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/t2" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+							<div class="mt-3 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">m4.large, m4.xlarge, m4.2xlarge, m4.4xlarge, m4.10xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/#General_Purpose" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">More info</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- APRIL 2015 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">april 2015</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">GPU Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">g2.8xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation/" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- MARCH 2015 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">march 2015</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Storage Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">d2.xlarge, d2.2xlarge, d2.4xlarge, d2.8xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/#Storage_Optimized" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">More info</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- JANUARY 2015 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">january 2015</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Compute Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">c4.large, c4.xlarge, c4.2xlarge, c4.4xlarge, c4.8xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/#Compute_Optimized" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">More info</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- 2014 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex items-start space-x-3">
+						<div class="relative">
+							<button class="flex items-center justify-center rounded bg-aws-100 text-white py-1 px-3">2014</button>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- JULY 2014 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">july 2014</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">t2.micro, t2.small, t2.medium</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/instance-types/t2" class="text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200">Product page</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- APRIL 2014 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">april 2014</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">r3.large, r3.xlarge, r3.2xlarge, r3.4xlarge, r3.8xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- JANUARY 2014 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">january 2014</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">m3.medium, m3.large</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- 2013 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex items-start space-x-3">
+						<div class="relative">
+							<button class="flex items-center justify-center rounded bg-aws-100 text-white py-1 px-3">2013</button>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- DECEMBER 2013 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">december 2013</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Storage Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">i2.xlarge, i2.2xlarge, i2.4xlarge, i2.8xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- NOVEMBER 2013 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">november 2013</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Compute Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">c3.large, c3.xlarge, c3.2xlarge, c3.4xlarge, c3.8xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+							<!-- INSTANCES -->
+							<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">GPU Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">g2.2xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- JANUARY 2013 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">january 2013</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">cr1.8xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- 2012 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex items-start space-x-3">
+						<div class="relative">
+							<button class="flex items-center justify-center rounded bg-aws-100 text-white py-1 px-3">2012</button>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- DECEMBER 2012 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">december 2012</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Storage Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">hs1.8xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- OCTOBER 2012 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">october 2012</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">m3.xlarge, m3.2xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- JULY 2012 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">july 2012</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">High I/O</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">hi1.4xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- MARCH 2012 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">march 2012</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">m1.medium</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- 2011 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex items-start space-x-3">
+						<div class="relative">
+							<button class="flex items-center justify-center rounded bg-aws-100 text-white py-1 px-3">2011</button>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- NOVEMBER 2011 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">November 2011</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Compute Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">cc2.8xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- 2010 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex items-start space-x-3">
+						<div class="relative">
+							<button class="flex items-center justify-center rounded bg-aws-100 text-white py-1 px-3">2010</button>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- NOVEMBER 2010 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">november 2010</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Cluster GPU</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">cg1.4xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- SEPTEMBER 2011 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">september 2010</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">t1.micro</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- JULY 2011 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">july 2010</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Cluster Compute</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">cc1.4xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- FEBRUARY 2011 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">february 2010</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">m2.xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- 2009 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex items-start space-x-3">
+						<div class="relative">
+							<button class="flex items-center justify-center rounded bg-aws-100 text-white py-1 px-3">2009</button>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- OCTOBER 2009 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">october 2009</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Memory Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">m2.2xlarge, m2.4xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- 2008 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex items-start space-x-3">
+						<div class="relative">
+							<button class="flex items-center justify-center rounded bg-aws-100 text-white py-1 px-3">2008</button>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- MAY 2008 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">may 2008</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">Compute Optimized</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">c1.medium, c1.xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- 2007 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex items-start space-x-3">
+						<div class="relative">
+							<button class="flex items-center justify-center rounded bg-aws-100 text-white py-1 px-3">2007</button>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- OCTOBER 2007 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">october 2007</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instances: <span class="font-medium text-aws-200">m1.large, m1.xlarge</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- 2006 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex items-start space-x-3">
+						<div class="relative">
+							<button class="flex items-center justify-center rounded bg-aws-100 text-white py-1 px-3">2006</button>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!-- AUGUST 2006 -->
+			<li>
+				<div class="relative pb-8 mt-4">
+					<span class="absolute top-5 left-8 -ml-px h-full w-0.1 bg-timeline-100" aria-hidden="true"></span>
+					<div class="relative flex left-3 space-x-3">
+						<div>
+							<div class="relative px-1">
+								<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+									<svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" d="M2 5a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2V5zm14 1a1 1 0 11-2 0 1 1 0 012 0zM2 13a2 2 0 012-2h12a2 2 0 012 2v2a2 2 0 01-2 2H4a2 2 0 01-2-2v-2zm14 1a1 1 0 11-2 0 1 1 0 012 0z" clip-rule="evenodd"></path>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="min-w-0 flex-1 py-0">
+							<div class="flex items-center text-sm font-medium uppercase text-gray-600 pt-1.5">august 2006</div>
+							<!-- INSTANCES -->
+							<div class="mt-4 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+								<div class="font-medium text-sm text-gray-600">General Purpose</div>
+							</div>
+							<div class="mt-1 mx-3 text-gray-700">
+								<p class="font-light text-sm">Release of instance: <span class="font-medium text-aws-200">m1.small</span></p>
+								<span class="relative inline-flex items-center">
+									<a href="https://aws.amazon.com/ec2/previous-generation" class="text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200">Previous generation</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>
+</body>
+</html>

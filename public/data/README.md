@@ -8,5 +8,5 @@ Data related to the content of [https://instancetyp.es](https://instancetyp.es) 
 
 
 Additionally `.csv` and `.sql` file formats are available within this directory:
-* [timeline.csv](https://github.com/nrollr/ec2-timeline/blob/master/data/timeline.csv)
-* [timeline.sql](https://github.com/nrollr/ec2-timeline/blob/master/data/timeline.sql)
+* [timeline.csv](https://github.com/nrollr/ec2-timeline/blob/master/public/data/timeline.csv)
+* [timeline.sql](https://github.com/nrollr/ec2-timeline/blob/master/public/data/timeline.sql)

@@ -1,2 +1,5 @@
 build/
 .DS_Store
+node_modules
+public/assets/css/style.css
+package-lock.json
