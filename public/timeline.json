@@ -1,7 +1,7 @@
 {
-    "release": "v1.3.1",
+    "release": "v1.3.2",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "December 26, 2020",
+    "published": "February 8, 2021",
     "instances": [
         {
             "_index": 1,
@@ -6859,6 +6859,78 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/coming-soon-ec2-c6gn-instances-100-gbps-networking-with-aws-graviton2-processors/",
                 "published": "Dec 1, 2020"
+            }
+        },
+        {
+            "_index": 382,
+            "uid": "f405717ccbb0848d",
+            "instance_type": "m5n.metal",
+            "instance_category": "General Purpose (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-bare-metal-instances/",
+                "published": "Feb 5, 2021"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 383,
+            "uid": "53e21af03f1de338",
+            "instance_type": "m5dn.metal",
+            "instance_category": "General Purpose (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-bare-metal-instances/",
+                "published": "Feb 5, 2021"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 384,
+            "uid": "f1f1f0283fdabef9",
+            "instance_type": "r5n.metal",
+            "instance_category": "Memory Optimized (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-bare-metal-instances/",
+                "published": "Feb 5, 2021"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 385,
+            "uid": "5d2532082d46e9bc",
+            "instance_type": "r5dn.metal",
+            "instance_category": "Memory Optimized (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-bare-metal-instances/",
+                "published": "Feb 5, 2021"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
