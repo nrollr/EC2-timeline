@@ -1,7 +1,7 @@
 {
-    "release": "v1.3.2",
+    "release": "v1.3.3",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "February 8, 2021",
+    "published": "March 18, 2021",
     "instances": [
         {
             "_index": 1,
@@ -6931,6 +6931,168 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 386,
+            "uid": "ed6c294eed45800a",
+            "instance_type": "x2gd.medium",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x2/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-amazon-ec2-x2gd-instances-powered-by-aws-graviton2-processors/",
+                "published": "Mar 16, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2gd-instances-graviton2-power-for-memory-intensive-workloads/",
+                "published": "Mar 16, 2021"
+            }
+        },
+        {
+            "_index": 387,
+            "uid": "cce70158c21322c2",
+            "instance_type": "x2gd.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x2/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-amazon-ec2-x2gd-instances-powered-by-aws-graviton2-processors/",
+                "published": "Mar 16, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2gd-instances-graviton2-power-for-memory-intensive-workloads/",
+                "published": "Mar 16, 2021"
+            }
+        },
+        {
+            "_index": 388,
+            "uid": "fbc34e4fe6ad88d7",
+            "instance_type": "x2gd.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x2/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-amazon-ec2-x2gd-instances-powered-by-aws-graviton2-processors/",
+                "published": "Mar 16, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2gd-instances-graviton2-power-for-memory-intensive-workloads/",
+                "published": "Mar 16, 2021"
+            }
+        },
+        {
+            "_index": 389,
+            "uid": "0c342a9bdb5b8b55",
+            "instance_type": "x2gd.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x2/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-amazon-ec2-x2gd-instances-powered-by-aws-graviton2-processors/",
+                "published": "Mar 16, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2gd-instances-graviton2-power-for-memory-intensive-workloads/",
+                "published": "Mar 16, 2021"
+            }
+        },
+        {
+            "_index": 390,
+            "uid": "1143e6f61959a50c",
+            "instance_type": "x2gd.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x2/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-amazon-ec2-x2gd-instances-powered-by-aws-graviton2-processors/",
+                "published": "Mar 16, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2gd-instances-graviton2-power-for-memory-intensive-workloads/",
+                "published": "Mar 16, 2021"
+            }
+        },
+        {
+            "_index": 391,
+            "uid": "d2d440937ebd00e2",
+            "instance_type": "x2gd.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x2/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-amazon-ec2-x2gd-instances-powered-by-aws-graviton2-processors/",
+                "published": "Mar 16, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2gd-instances-graviton2-power-for-memory-intensive-workloads/",
+                "published": "Mar 16, 2021"
+            }
+        },
+        {
+            "_index": 392,
+            "uid": "548bf0dc8e617bc6",
+            "instance_type": "x2gd.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x2/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-amazon-ec2-x2gd-instances-powered-by-aws-graviton2-processors/",
+                "published": "Mar 16, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2gd-instances-graviton2-power-for-memory-intensive-workloads/",
+                "published": "Mar 16, 2021"
+            }
+        },
+        {
+            "_index": 393,
+            "uid": "2f09e657ec5fd975",
+            "instance_type": "x2gd.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x2/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-amazon-ec2-x2gd-instances-powered-by-aws-graviton2-processors/",
+                "published": "Mar 16, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2gd-instances-graviton2-power-for-memory-intensive-workloads/",
+                "published": "Mar 16, 2021"
+            }
+        },
+        {
+            "_index": 394,
+            "uid": "5e19aeba14795745",
+            "instance_type": "x2gd.metal",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x2/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-amazon-ec2-x2gd-instances-powered-by-aws-graviton2-processors/",
+                "published": "Mar 16, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2gd-instances-graviton2-power-for-memory-intensive-workloads/",
+                "published": "Mar 16, 2021"
             }
         }
     ]
