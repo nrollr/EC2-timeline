@@ -1,7 +1,7 @@
 {
     "release": "v1.3.3",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "March 18, 2021",
+    "published": "August 4, 2021",
     "instances": [
         {
             "_index": 1,
@@ -7093,6 +7093,42 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2gd-instances-graviton2-power-for-memory-intensive-workloads/",
                 "published": "Mar 16, 2021"
+            }
+        },
+        {
+            "_index": 395,
+            "uid": "1db07084d599bae0",
+            "instance_type": "g4ad.xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g4/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-new-amazon-ec2-g4ad-instance-sizes/",
+                "published": "Jul 29, 2021"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 396,
+            "uid": "5c20e930b6fb3f63",
+            "instance_type": "g4ad.2xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g4/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-new-amazon-ec2-g4ad-instance-sizes/",
+                "published": "Jul 29, 2021"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
