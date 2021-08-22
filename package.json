@@ -10,12 +10,12 @@
     "prod:minify": "cleancss -o public/assets/css/style.min.css public/assets/css/style.css"
   },
   "dependencies": {
-    "autoprefixer": "^10.1.0",
-    "browser-sync": "^2.26.13",
-    "clean-css": "^4.2.3",
-    "postcss": "^8.2.1",
+    "autoprefixer": "^10.3.2",
+    "browser-sync": "^2.27.5",
+    "clean-css": "^5.1.5",
+    "postcss": "^8.3.6",
     "postcss-cli": "^8.3.1",
-    "tailwindcss": "^2.0.2"
+    "tailwindcss": "^2.2.7"
   },
   "repository": {
     "type": "git",
