@@ -1,7 +1,7 @@
 {
-    "release": "v1.3.3",
+    "release": "v1.3.5",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "August 4, 2021",
+    "published": "August 22, 2021",
     "instances": [
         {
             "_index": 1,
@@ -7129,6 +7129,168 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 397,
+            "uid": "65f9bb17c7d30b75",
+            "instance_type": "m6i.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
+                "published": "16 Aug, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "16 Aug, 2021"
+            }
+        },
+        {
+            "_index": 398,
+            "uid": "d54c9fc914882073",
+            "instance_type": "m6i.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
+                "published": "16 Aug, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "16 Aug, 2021"
+            }
+        },
+        {
+            "_index": 399,
+            "uid": "cd858d3ff2a72b0a",
+            "instance_type": "m6i.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
+                "published": "16 Aug, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "16 Aug, 2021"
+            }
+        },
+        {
+            "_index": 400,
+            "uid": "2de8babb5ca06714",
+            "instance_type": "m6i.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
+                "published": "16 Aug, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "16 Aug, 2021"
+            }
+        },
+        {
+            "_index": 401,
+            "uid": "1cba7fed6beaab79",
+            "instance_type": "m6i.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
+                "published": "16 Aug, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "16 Aug, 2021"
+            }
+        },
+        {
+            "_index": 402,
+            "uid": "93d6ce1f007bfeb4",
+            "instance_type": "m6i.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
+                "published": "16 Aug, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "16 Aug, 2021"
+            }
+        },
+        {
+            "_index": 403,
+            "uid": "5df5d691d3cdfbda",
+            "instance_type": "m6i.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
+                "published": "16 Aug, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "16 Aug, 2021"
+            }
+        },
+        {
+            "_index": 404,
+            "uid": "d3f6eff7e1851280",
+            "instance_type": "m6i.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
+                "published": "16 Aug, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "16 Aug, 2021"
+            }
+        },
+        {
+            "_index": 405,
+            "uid": "8aea954bcc2236c3",
+            "instance_type": "m6i.32xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
+                "published": "16 Aug, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "16 Aug, 2021"
             }
         }
     ]
