@@ -3,3 +3,4 @@ build/
 node_modules
 public/assets/css/style.css
 package-lock.json
+public/data/timeline.xlsx
