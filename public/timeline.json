@@ -1,7 +1,7 @@
 {
-    "release": "v1.3.5",
+    "release": "v1.3.6",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "August 22, 2021",
+    "published": "August 24, 2021",
     "instances": [
         {
             "_index": 1,
@@ -7097,6 +7097,78 @@
         },
         {
             "_index": 395,
+            "uid": "5a444d1f9e63a861",
+            "instance_type": "u-6tb1.56xlarge",
+            "instance_category": "High Memory",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/high-memory/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/05/four-ec2-high-memory-instances-with-up-to-12tb-memory-available-with-on-demand-and-savings-plan-purchase-options/",
+                "published": "May 12, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/awsforsap/amazon-ec2-high-memory-instances-now-available-for-on-demand-usage/",
+                "published": "May 12, 2021"
+            }
+        },
+        {
+            "_index": 396,
+            "uid": "5255c53a5fa745f0",
+            "instance_type": "u-6tb1.112xlarge",
+            "instance_category": "High Memory",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/high-memory/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/05/four-ec2-high-memory-instances-with-up-to-12tb-memory-available-with-on-demand-and-savings-plan-purchase-options/",
+                "published": "May 12, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/awsforsap/amazon-ec2-high-memory-instances-now-available-for-on-demand-usage/",
+                "published": "May 12, 2021"
+            }
+        },
+        {
+            "_index": 397,
+            "uid": "851444e44dd04304",
+            "instance_type": "u-9tb1.112xlarge",
+            "instance_category": "High Memory",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/high-memory/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/05/four-ec2-high-memory-instances-with-up-to-12tb-memory-available-with-on-demand-and-savings-plan-purchase-options/",
+                "published": "May 12, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/awsforsap/amazon-ec2-high-memory-instances-now-available-for-on-demand-usage/",
+                "published": "May 12, 2021"
+            }
+        },
+        {
+            "_index": 398,
+            "uid": "141fee158dfb7ea7",
+            "instance_type": "u-12tb1.112xlarge",
+            "instance_category": "High Memory",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/high-memory/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/05/four-ec2-high-memory-instances-with-up-to-12tb-memory-available-with-on-demand-and-savings-plan-purchase-options/",
+                "published": "May 12, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/awsforsap/amazon-ec2-high-memory-instances-now-available-for-on-demand-usage/",
+                "published": "May 12, 2021"
+            }
+        },
+        {
+            "_index": 399,
             "uid": "1db07084d599bae0",
             "instance_type": "g4ad.xlarge",
             "instance_category": "Accelerated Computing",
@@ -7114,7 +7186,7 @@
             }
         },
         {
-            "_index": 396,
+            "_index": 400,
             "uid": "5c20e930b6fb3f63",
             "instance_type": "g4ad.2xlarge",
             "instance_category": "Accelerated Computing",
@@ -7132,7 +7204,7 @@
             }
         },
         {
-            "_index": 397,
+            "_index": 401,
             "uid": "65f9bb17c7d30b75",
             "instance_type": "m6i.large",
             "instance_category": "General Purpose",
@@ -7142,15 +7214,15 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             }
         },
         {
-            "_index": 398,
+            "_index": 402,
             "uid": "d54c9fc914882073",
             "instance_type": "m6i.xlarge",
             "instance_category": "General Purpose",
@@ -7160,15 +7232,15 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             }
         },
         {
-            "_index": 399,
+            "_index": 403,
             "uid": "cd858d3ff2a72b0a",
             "instance_type": "m6i.2xlarge",
             "instance_category": "General Purpose",
@@ -7178,15 +7250,15 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             }
         },
         {
-            "_index": 400,
+            "_index": 404,
             "uid": "2de8babb5ca06714",
             "instance_type": "m6i.4xlarge",
             "instance_category": "General Purpose",
@@ -7196,15 +7268,15 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             }
         },
         {
-            "_index": 401,
+            "_index": 405,
             "uid": "1cba7fed6beaab79",
             "instance_type": "m6i.8xlarge",
             "instance_category": "General Purpose",
@@ -7214,15 +7286,15 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             }
         },
         {
-            "_index": 402,
+            "_index": 406,
             "uid": "93d6ce1f007bfeb4",
             "instance_type": "m6i.12xlarge",
             "instance_category": "General Purpose",
@@ -7232,15 +7304,15 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             }
         },
         {
-            "_index": 403,
+            "_index": 407,
             "uid": "5df5d691d3cdfbda",
             "instance_type": "m6i.16xlarge",
             "instance_category": "General Purpose",
@@ -7250,15 +7322,15 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             }
         },
         {
-            "_index": 404,
+            "_index": 408,
             "uid": "d3f6eff7e1851280",
             "instance_type": "m6i.24xlarge",
             "instance_category": "General Purpose",
@@ -7268,15 +7340,15 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             }
         },
         {
-            "_index": 405,
+            "_index": 409,
             "uid": "8aea954bcc2236c3",
             "instance_type": "m6i.32xlarge",
             "instance_category": "General Purpose",
@@ -7286,11 +7358,11 @@
             "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
-                "published": "16 Aug, 2021"
+                "published": "Aug 16, 2021"
             }
         }
     ]
