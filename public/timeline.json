@@ -4235,6 +4235,24 @@
         },
         {
             "_index": 236,
+            "uid": "ebecdc915b20b23e",
+            "instance_type": "m5n.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 237,
             "uid": "8938d82995a2e59a",
             "instance_type": "m5n.24xlarge",
             "instance_category": "Memory Optimized",
@@ -4252,7 +4270,7 @@
             }
         },
         {
-            "_index": 237,
+            "_index": 238,
             "uid": "49dfd84fa71f8720",
             "instance_type": "m5dn.large",
             "instance_category": "Memory Optimized",
@@ -4270,7 +4288,7 @@
             }
         },
         {
-            "_index": 238,
+            "_index": 239,
             "uid": "24aaa4e8be1590e9",
             "instance_type": "m5dn.xlarge",
             "instance_category": "Memory Optimized",
@@ -4288,7 +4306,7 @@
             }
         },
         {
-            "_index": 239,
+            "_index": 240,
             "uid": "75d105b70f26ddfd",
             "instance_type": "m5dn.2xlarge",
             "instance_category": "Memory Optimized",
@@ -4306,7 +4324,7 @@
             }
         },
         {
-            "_index": 240,
+            "_index": 241,
             "uid": "9052a69bb4fbd260",
             "instance_type": "m5dn.4xlarge",
             "instance_category": "Memory Optimized",
@@ -4324,7 +4342,7 @@
             }
         },
         {
-            "_index": 241,
+            "_index": 242,
             "uid": "0deb3567f27f18c5",
             "instance_type": "m5dn.8xlarge",
             "instance_category": "Memory Optimized",
@@ -4342,7 +4360,7 @@
             }
         },
         {
-            "_index": 242,
+            "_index": 243,
             "uid": "2868140289580aae",
             "instance_type": "m5dn.12xlarge",
             "instance_category": "Memory Optimized",
@@ -4360,7 +4378,25 @@
             }
         },
         {
-            "_index": 243,
+            "_index": 244,
+            "uid": "500e16431d06705a",
+            "instance_type": "m5dn.16xlarge ",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 245,
             "uid": "4afa6c283bbfacff",
             "instance_type": "m5dn.24xlarge",
             "instance_category": "Memory Optimized",
@@ -4378,7 +4414,7 @@
             }
         },
         {
-            "_index": 244,
+            "_index": 246,
             "uid": "90f1d82e843b343c",
             "instance_type": "r5n.large",
             "instance_category": "General Purpose",
@@ -4396,7 +4432,7 @@
             }
         },
         {
-            "_index": 245,
+            "_index": 247,
             "uid": "363dbf5752f98a0b",
             "instance_type": "r5n.xlarge",
             "instance_category": "General Purpose",
@@ -4414,7 +4450,7 @@
             }
         },
         {
-            "_index": 246,
+            "_index": 248,
             "uid": "d5070dfd9e9d0c09",
             "instance_type": "r5n.2xlarge",
             "instance_category": "General Purpose",
@@ -4432,7 +4468,7 @@
             }
         },
         {
-            "_index": 247,
+            "_index": 249,
             "uid": "b6fc9590d930e74a",
             "instance_type": "r5n.4xlarge",
             "instance_category": "General Purpose",
@@ -4450,7 +4486,7 @@
             }
         },
         {
-            "_index": 248,
+            "_index": 250,
             "uid": "47cd5dc40290d7a6",
             "instance_type": "r5n.8xlarge",
             "instance_category": "General Purpose",
@@ -4468,7 +4504,7 @@
             }
         },
         {
-            "_index": 249,
+            "_index": 251,
             "uid": "4bcb2b7da9a7afba",
             "instance_type": "r5n.12xlarge",
             "instance_category": "General Purpose",
@@ -4486,7 +4522,25 @@
             }
         },
         {
-            "_index": 250,
+            "_index": 252,
+            "uid": "60309bc445f309e2",
+            "instance_type": "r5n.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 253,
             "uid": "2488d57b66ff9045",
             "instance_type": "r5n.24xlarge",
             "instance_category": "General Purpose",
@@ -4504,7 +4558,7 @@
             }
         },
         {
-            "_index": 251,
+            "_index": 254,
             "uid": "4ec9f24352ae2234",
             "instance_type": "r5dn.xlarge",
             "instance_category": "General Purpose",
@@ -4522,7 +4576,7 @@
             }
         },
         {
-            "_index": 252,
+            "_index": 255,
             "uid": "066bb9088b6e4413",
             "instance_type": "r5dn.large",
             "instance_category": "General Purpose",
@@ -4540,7 +4594,7 @@
             }
         },
         {
-            "_index": 253,
+            "_index": 256,
             "uid": "cec06ccfb02213f1",
             "instance_type": "r5dn.2xlarge",
             "instance_category": "General Purpose",
@@ -4558,7 +4612,7 @@
             }
         },
         {
-            "_index": 254,
+            "_index": 257,
             "uid": "7d2c832919e7bd9c",
             "instance_type": "r5dn.4xlarge",
             "instance_category": "General Purpose",
@@ -4576,7 +4630,7 @@
             }
         },
         {
-            "_index": 255,
+            "_index": 258,
             "uid": "347ff61cfcd6345f",
             "instance_type": "r5dn.8xlarge",
             "instance_category": "General Purpose",
@@ -4594,7 +4648,7 @@
             }
         },
         {
-            "_index": 256,
+            "_index": 259,
             "uid": "f9f4c01abc5a7603",
             "instance_type": "r5dn.12xlarge",
             "instance_category": "General Purpose",
@@ -4612,7 +4666,25 @@
             }
         },
         {
-            "_index": 257,
+            "_index": 260,
+            "uid": "91af42b8f969ccf4",
+            "instance_type": "r5dn.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2019,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/",
+                "published": "Oct 9, 2019"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/",
+                "published": "Oct 10, 2019"
+            }
+        },
+        {
+            "_index": 261,
             "uid": "d201bb1b5ccef36a",
             "instance_type": "r5dn.24xlarge",
             "instance_category": "General Purpose",
@@ -4630,7 +4702,7 @@
             }
         },
         {
-            "_index": 258,
+            "_index": 262,
             "uid": "415ad2f749b18501",
             "instance_type": "c5d.12xlarge",
             "instance_category": "Compute Optimized",
@@ -4648,7 +4720,7 @@
             }
         },
         {
-            "_index": 259,
+            "_index": 263,
             "uid": "453363a2486007ac",
             "instance_type": "c5d.24xlarge",
             "instance_category": "Compute Optimized",
@@ -4666,7 +4738,7 @@
             }
         },
         {
-            "_index": 260,
+            "_index": 264,
             "uid": "a48a1529dc9ee7b4",
             "instance_type": "c5d.metal",
             "instance_category": "Compute Optimized (bare metal)",
@@ -4684,7 +4756,7 @@
             }
         },
         {
-            "_index": 261,
+            "_index": 265,
             "uid": "00472865f4c1b464",
             "instance_type": "inf1.xlarge",
             "instance_category": "Accelerated Computing",
@@ -4702,7 +4774,7 @@
             }
         },
         {
-            "_index": 262,
+            "_index": 266,
             "uid": "9d533e5511cd2bb4",
             "instance_type": "inf1.2xlarge",
             "instance_category": "Accelerated Computing",
@@ -4720,7 +4792,7 @@
             }
         },
         {
-            "_index": 263,
+            "_index": 267,
             "uid": "70d63b7306ce6078",
             "instance_type": "inf1.6xlarge",
             "instance_category": "Accelerated Computing",
@@ -4738,7 +4810,7 @@
             }
         },
         {
-            "_index": 264,
+            "_index": 268,
             "uid": "63b76874c900403d",
             "instance_type": "inf1.24xlarge",
             "instance_category": "Accelerated Computing",
@@ -4756,7 +4828,7 @@
             }
         },
         {
-            "_index": 265,
+            "_index": 269,
             "uid": "ed4e60bd304c2ba2",
             "instance_type": "m6g.medium",
             "instance_category": "General Purpose",
@@ -4774,7 +4846,7 @@
             }
         },
         {
-            "_index": 266,
+            "_index": 270,
             "uid": "6ea5636bf34ec0f9",
             "instance_type": "m6g.large",
             "instance_category": "General Purpose",
@@ -4792,7 +4864,7 @@
             }
         },
         {
-            "_index": 267,
+            "_index": 271,
             "uid": "ef76696a1bd00b22",
             "instance_type": "m6g.xlarge",
             "instance_category": "General Purpose",
@@ -4810,7 +4882,7 @@
             }
         },
         {
-            "_index": 268,
+            "_index": 272,
             "uid": "ba0215ecb04cd2b6",
             "instance_type": "m6g.2xlarge",
             "instance_category": "General Purpose",
@@ -4828,7 +4900,7 @@
             }
         },
         {
-            "_index": 269,
+            "_index": 273,
             "uid": "89e8d040db2a11fa",
             "instance_type": "m6g.4xlarge",
             "instance_category": "General Purpose",
@@ -4846,7 +4918,7 @@
             }
         },
         {
-            "_index": 270,
+            "_index": 274,
             "uid": "591eed3e24fb3e05",
             "instance_type": "m6g.8xlarge",
             "instance_category": "General Purpose",
@@ -4864,7 +4936,7 @@
             }
         },
         {
-            "_index": 271,
+            "_index": 275,
             "uid": "aa4f01e781fca549",
             "instance_type": "m6g.12xlarge",
             "instance_category": "General Purpose",
@@ -4882,7 +4954,7 @@
             }
         },
         {
-            "_index": 272,
+            "_index": 276,
             "uid": "d526d3ec5687b705",
             "instance_type": "m6g.16xlarge",
             "instance_category": "General Purpose",
@@ -4900,7 +4972,7 @@
             }
         },
         {
-            "_index": 273,
+            "_index": 277,
             "uid": "2225f115fe6f18cc",
             "instance_type": "m6g.metal",
             "instance_category": "General Purpose (bare metal)",
@@ -4918,7 +4990,7 @@
             }
         },
         {
-            "_index": 274,
+            "_index": 278,
             "uid": "b652457c0f36180d",
             "instance_type": "c5a.large",
             "instance_category": "Compute Optimized",
@@ -4936,7 +5008,7 @@
             }
         },
         {
-            "_index": 275,
+            "_index": 279,
             "uid": "3d94b807e5a41a0f",
             "instance_type": "c5a.xlarge",
             "instance_category": "Compute Optimized",
@@ -4954,7 +5026,7 @@
             }
         },
         {
-            "_index": 276,
+            "_index": 280,
             "uid": "1dd353598f2d8414",
             "instance_type": "c5a.2xlarge",
             "instance_category": "Compute Optimized",
@@ -4972,7 +5044,7 @@
             }
         },
         {
-            "_index": 277,
+            "_index": 281,
             "uid": "17f9f5c3c9298595",
             "instance_type": "c5a.4xlarge",
             "instance_category": "Compute Optimized",
@@ -4990,7 +5062,7 @@
             }
         },
         {
-            "_index": 278,
+            "_index": 282,
             "uid": "281cf8b6d5475cdf",
             "instance_type": "c5a.8xlarge",
             "instance_category": "Compute Optimized",
@@ -5008,7 +5080,7 @@
             }
         },
         {
-            "_index": 279,
+            "_index": 283,
             "uid": "0f6b812a5da23b51",
             "instance_type": "c5a.12xlarge",
             "instance_category": "Compute Optimized",
@@ -5026,7 +5098,7 @@
             }
         },
         {
-            "_index": 280,
+            "_index": 284,
             "uid": "f3e56ba46551e039",
             "instance_type": "c5a.16xlarge",
             "instance_category": "Compute Optimized",
@@ -5044,7 +5116,7 @@
             }
         },
         {
-            "_index": 281,
+            "_index": 285,
             "uid": "c34a5ba0c20b298c",
             "instance_type": "c5a.24xlarge",
             "instance_category": "Compute Optimized",
@@ -5062,7 +5134,7 @@
             }
         },
         {
-            "_index": 282,
+            "_index": 286,
             "uid": "9bf19ac5ce0c2e06",
             "instance_type": "g4dn.metal",
             "instance_category": "Accelerated Computing (bare metal)",
@@ -5080,7 +5152,7 @@
             }
         },
         {
-            "_index": 283,
+            "_index": 287,
             "uid": "a9d882ca76d69f72",
             "instance_type": "c6g.medium",
             "instance_category": "Compute Optimized",
@@ -5098,7 +5170,7 @@
             }
         },
         {
-            "_index": 284,
+            "_index": 288,
             "uid": "b740be3076a87696",
             "instance_type": "c6g.large",
             "instance_category": "Compute Optimized",
@@ -5116,7 +5188,7 @@
             }
         },
         {
-            "_index": 285,
+            "_index": 289,
             "uid": "9b10bd9cd94395b2",
             "instance_type": "c6g.xlarge",
             "instance_category": "Compute Optimized",
@@ -5134,7 +5206,7 @@
             }
         },
         {
-            "_index": 286,
+            "_index": 290,
             "uid": "1965561e4bd04ca0",
             "instance_type": "c6g.2xlarge",
             "instance_category": "Compute Optimized",
@@ -5152,7 +5224,7 @@
             }
         },
         {
-            "_index": 287,
+            "_index": 291,
             "uid": "946778e1a65351ac",
             "instance_type": "c6g.4xlarge",
             "instance_category": "Compute Optimized",
@@ -5170,7 +5242,7 @@
             }
         },
         {
-            "_index": 288,
+            "_index": 292,
             "uid": "5c9b0869161bef30",
             "instance_type": "c6g.8xlarge",
             "instance_category": "Compute Optimized",
@@ -5188,7 +5260,7 @@
             }
         },
         {
-            "_index": 289,
+            "_index": 293,
             "uid": "df82aa351271b202",
             "instance_type": "c6g.12xlarge",
             "instance_category": "Compute Optimized",
@@ -5206,7 +5278,7 @@
             }
         },
         {
-            "_index": 290,
+            "_index": 294,
             "uid": "734038d7594de57f",
             "instance_type": "c6g.16xlarge",
             "instance_category": "Compute Optimized",
@@ -5224,7 +5296,7 @@
             }
         },
         {
-            "_index": 291,
+            "_index": 295,
             "uid": "4d22b1baa20fb4ed",
             "instance_type": "c6g.metal",
             "instance_category": "Compute Optimized (bare metal)",
@@ -5242,7 +5314,7 @@
             }
         },
         {
-            "_index": 292,
+            "_index": 296,
             "uid": "245c83bb82fb269e",
             "instance_type": "r6g.medium",
             "instance_category": "Memory Optimized",
@@ -5260,7 +5332,7 @@
             }
         },
         {
-            "_index": 293,
+            "_index": 297,
             "uid": "c9660ba510614747",
             "instance_type": "r6g.large",
             "instance_category": "Memory Optimized",
@@ -5278,7 +5350,7 @@
             }
         },
         {
-            "_index": 294,
+            "_index": 298,
             "uid": "d744548a5e65bddb",
             "instance_type": "r6g.xlarge",
             "instance_category": "Memory Optimized",
@@ -5296,7 +5368,7 @@
             }
         },
         {
-            "_index": 295,
+            "_index": 299,
             "uid": "89aba5a4b001bae6",
             "instance_type": "r6g.2xlarge",
             "instance_category": "Memory Optimized",
@@ -5314,7 +5386,7 @@
             }
         },
         {
-            "_index": 296,
+            "_index": 300,
             "uid": "0f74c255bb5010c4",
             "instance_type": "r6g.4xlarge",
             "instance_category": "Memory Optimized",
@@ -5332,7 +5404,7 @@
             }
         },
         {
-            "_index": 297,
+            "_index": 301,
             "uid": "dd2a489443af43d5",
             "instance_type": "r6g.8xlarge",
             "instance_category": "Memory Optimized",
@@ -5350,7 +5422,7 @@
             }
         },
         {
-            "_index": 298,
+            "_index": 302,
             "uid": "db9c90668f801d5c",
             "instance_type": "r6g.12xlarge",
             "instance_category": "Memory Optimized",
@@ -5368,7 +5440,7 @@
             }
         },
         {
-            "_index": 299,
+            "_index": 303,
             "uid": "52cc754ae11769e9",
             "instance_type": "r6g.16xlarge",
             "instance_category": "Memory Optimized",
@@ -5386,7 +5458,7 @@
             }
         },
         {
-            "_index": 300,
+            "_index": 304,
             "uid": "3ce154d2e6e56657",
             "instance_type": "r6g.metal",
             "instance_category": "Memory Optimized (bare metal)",
@@ -5404,7 +5476,7 @@
             }
         },
         {
-            "_index": 301,
+            "_index": 305,
             "uid": "df884b335f8c2457",
             "instance_type": "m6gd.medium",
             "instance_category": "General Purpose",
@@ -5422,7 +5494,7 @@
             }
         },
         {
-            "_index": 302,
+            "_index": 306,
             "uid": "47f361d5c2752343",
             "instance_type": "m6gd.large",
             "instance_category": "General Purpose",
@@ -5440,7 +5512,7 @@
             }
         },
         {
-            "_index": 303,
+            "_index": 307,
             "uid": "e9c7e51ea6915d8a",
             "instance_type": "m6gd.xlarge",
             "instance_category": "General Purpose",
@@ -5458,7 +5530,7 @@
             }
         },
         {
-            "_index": 304,
+            "_index": 308,
             "uid": "c13b22361aafc119",
             "instance_type": "m6gd.2xlarge",
             "instance_category": "General Purpose",
@@ -5476,7 +5548,7 @@
             }
         },
         {
-            "_index": 305,
+            "_index": 309,
             "uid": "8796563b8b54ab9a",
             "instance_type": "m6gd.4xlarge",
             "instance_category": "General Purpose",
@@ -5494,7 +5566,7 @@
             }
         },
         {
-            "_index": 306,
+            "_index": 310,
             "uid": "4719366001b734c6",
             "instance_type": "m6gd.8xlarge",
             "instance_category": "General Purpose",
@@ -5512,7 +5584,7 @@
             }
         },
         {
-            "_index": 307,
+            "_index": 311,
             "uid": "e27d553b9fc91fad",
             "instance_type": "m6gd.12xlarge",
             "instance_category": "General Purpose",
@@ -5530,7 +5602,7 @@
             }
         },
         {
-            "_index": 308,
+            "_index": 312,
             "uid": "a9791050f469e59e",
             "instance_type": "m6gd.16xlarge",
             "instance_category": "General Purpose",
@@ -5548,7 +5620,7 @@
             }
         },
         {
-            "_index": 309,
+            "_index": 313,
             "uid": "88efc43ff9e3104b",
             "instance_type": "m6gd.metal",
             "instance_category": "General Purpose (bare metal)",
@@ -5566,7 +5638,7 @@
             }
         },
         {
-            "_index": 310,
+            "_index": 314,
             "uid": "9854a0c3c9e48415",
             "instance_type": "c6gd.medium",
             "instance_category": "Compute Optimized",
@@ -5584,7 +5656,7 @@
             }
         },
         {
-            "_index": 311,
+            "_index": 315,
             "uid": "30c6684552cb9f7b",
             "instance_type": "c6gd.large",
             "instance_category": "Compute Optimized",
@@ -5602,7 +5674,7 @@
             }
         },
         {
-            "_index": 312,
+            "_index": 316,
             "uid": "31b580b2dba074cf",
             "instance_type": "c6gd.xlarge",
             "instance_category": "Compute Optimized",
@@ -5620,7 +5692,7 @@
             }
         },
         {
-            "_index": 313,
+            "_index": 317,
             "uid": "7da65a3ccc13c876",
             "instance_type": "c6gd.2xlarge",
             "instance_category": "Compute Optimized",
@@ -5638,7 +5710,7 @@
             }
         },
         {
-            "_index": 314,
+            "_index": 318,
             "uid": "c1e3e1c0ebb585df",
             "instance_type": "c6gd.4xlarge",
             "instance_category": "Compute Optimized",
@@ -5656,7 +5728,7 @@
             }
         },
         {
-            "_index": 315,
+            "_index": 319,
             "uid": "c1031b9c33265a15",
             "instance_type": "c6gd.8xlarge",
             "instance_category": "Compute Optimized",
@@ -5674,7 +5746,7 @@
             }
         },
         {
-            "_index": 316,
+            "_index": 320,
             "uid": "f32781f144d9351c",
             "instance_type": "c6gd.12xlarge",
             "instance_category": "Compute Optimized",
@@ -5692,7 +5764,7 @@
             }
         },
         {
-            "_index": 317,
+            "_index": 321,
             "uid": "45a0e12431899ba1",
             "instance_type": "c6gd.16xlarge",
             "instance_category": "Compute Optimized",
@@ -5710,7 +5782,7 @@
             }
         },
         {
-            "_index": 318,
+            "_index": 322,
             "uid": "857f670f0f4ebce7",
             "instance_type": "c6gd.metal",
             "instance_category": "Compute Optimized (bare metal)",
@@ -5728,7 +5800,7 @@
             }
         },
         {
-            "_index": 319,
+            "_index": 323,
             "uid": "0b5bd6763fdf1094",
             "instance_type": "r6gd.medium",
             "instance_category": "Memory Optimized",
@@ -5746,7 +5818,7 @@
             }
         },
         {
-            "_index": 320,
+            "_index": 324,
             "uid": "6d101d54bf71160d",
             "instance_type": "r6gd.large",
             "instance_category": "Memory Optimized",
@@ -5764,7 +5836,7 @@
             }
         },
         {
-            "_index": 321,
+            "_index": 325,
             "uid": "7f043bac2462335a",
             "instance_type": "r6gd.xlarge",
             "instance_category": "Memory Optimized",
@@ -5782,7 +5854,7 @@
             }
         },
         {
-            "_index": 322,
+            "_index": 326,
             "uid": "5bb8332649242453",
             "instance_type": "r6gd.2xlarge",
             "instance_category": "Memory Optimized",
@@ -5800,7 +5872,7 @@
             }
         },
         {
-            "_index": 323,
+            "_index": 327,
             "uid": "c88cef9bd2b58c9d",
             "instance_type": "r6gd.4xlarge",
             "instance_category": "Memory Optimized",
@@ -5818,7 +5890,7 @@
             }
         },
         {
-            "_index": 324,
+            "_index": 328,
             "uid": "62f14237dc032038",
             "instance_type": "r6gd.8xlarge",
             "instance_category": "Memory Optimized",
@@ -5836,7 +5908,7 @@
             }
         },
         {
-            "_index": 325,
+            "_index": 329,
             "uid": "490debad1c84da9f",
             "instance_type": "r6gd.12xlarge",
             "instance_category": "Memory Optimized",
@@ -5854,7 +5926,7 @@
             }
         },
         {
-            "_index": 326,
+            "_index": 330,
             "uid": "8112a38275eeaee8",
             "instance_type": "r6gd.16xlarge",
             "instance_category": "Memory Optimized",
@@ -5872,7 +5944,7 @@
             }
         },
         {
-            "_index": 327,
+            "_index": 331,
             "uid": "814251dc615cd17e",
             "instance_type": "r6gd.metal",
             "instance_category": "Memory Optimized (bare metal)",
@@ -5890,7 +5962,7 @@
             }
         },
         {
-            "_index": 328,
+            "_index": 332,
             "uid": "c11a9a125c4f6c6f",
             "instance_type": "c5ad.large",
             "instance_category": "Compute Optimized",
@@ -5908,7 +5980,7 @@
             }
         },
         {
-            "_index": 329,
+            "_index": 333,
             "uid": "48d5eefedb704d44",
             "instance_type": "c5ad.xlarge",
             "instance_category": "Compute Optimized",
@@ -5926,7 +5998,7 @@
             }
         },
         {
-            "_index": 330,
+            "_index": 334,
             "uid": "aa71619471c41c07",
             "instance_type": "c5ad.2xlarge",
             "instance_category": "Compute Optimized",
@@ -5944,7 +6016,7 @@
             }
         },
         {
-            "_index": 331,
+            "_index": 335,
             "uid": "811bf12d08465b79",
             "instance_type": "c5ad.4xlarge",
             "instance_category": "Compute Optimized",
@@ -5962,7 +6034,7 @@
             }
         },
         {
-            "_index": 332,
+            "_index": 336,
             "uid": "0063c5ad5c7024ee",
             "instance_type": "c5ad.8xlarge",
             "instance_category": "Compute Optimized",
@@ -5980,7 +6052,7 @@
             }
         },
         {
-            "_index": 333,
+            "_index": 337,
             "uid": "f67cb78421b7d48f",
             "instance_type": "c5ad.12xlarge",
             "instance_category": "Compute Optimized",
@@ -5998,7 +6070,7 @@
             }
         },
         {
-            "_index": 334,
+            "_index": 338,
             "uid": "77d461a595159fcf",
             "instance_type": "c5ad.16xlarge",
             "instance_category": "Compute Optimized",
@@ -6016,7 +6088,7 @@
             }
         },
         {
-            "_index": 335,
+            "_index": 339,
             "uid": "00e5a9189be5b5e0",
             "instance_type": "c5ad.24xlarge",
             "instance_category": "Compute Optimized",
@@ -6034,7 +6106,7 @@
             }
         },
         {
-            "_index": 336,
+            "_index": 340,
             "uid": "384a7a384faf207a",
             "instance_type": "t4g.nano",
             "instance_category": "General Purpose",
@@ -6052,7 +6124,7 @@
             }
         },
         {
-            "_index": 337,
+            "_index": 341,
             "uid": "91454bda4916bf6a",
             "instance_type": "t4g.micro",
             "instance_category": "General Purpose",
@@ -6070,7 +6142,7 @@
             }
         },
         {
-            "_index": 338,
+            "_index": 342,
             "uid": "eb44303cdacf1e5b",
             "instance_type": "t4g.small",
             "instance_category": "General Purpose",
@@ -6088,7 +6160,7 @@
             }
         },
         {
-            "_index": 339,
+            "_index": 343,
             "uid": "226e63d79d09e26a",
             "instance_type": "t4g.medium",
             "instance_category": "General Purpose",
@@ -6106,7 +6178,7 @@
             }
         },
         {
-            "_index": 340,
+            "_index": 344,
             "uid": "35f2bcbefc562c2f",
             "instance_type": "t4g.large",
             "instance_category": "General Purpose",
@@ -6124,7 +6196,7 @@
             }
         },
         {
-            "_index": 341,
+            "_index": 345,
             "uid": "70766b523f88a1d7",
             "instance_type": "t4g.xlarge",
             "instance_category": "General Purpose",
@@ -6142,7 +6214,7 @@
             }
         },
         {
-            "_index": 342,
+            "_index": 346,
             "uid": "2887b2f4c63f0b9f",
             "instance_type": "t4g.2xlarge",
             "instance_category": "General Purpose",
@@ -6160,7 +6232,7 @@
             }
         },
         {
-            "_index": 343,
+            "_index": 347,
             "uid": "affc40b3281b14b5",
             "instance_type": "p4d.24xlarge",
             "instance_category": "GPU Optimized",
@@ -6178,7 +6250,7 @@
             }
         },
         {
-            "_index": 344,
+            "_index": 348,
             "uid": "9866810f1a3362a3",
             "instance_type": "mac1.metal",
             "instance_category": "General Purpose (bare metal)",
@@ -6196,7 +6268,7 @@
             }
         },
         {
-            "_index": 345,
+            "_index": 349,
             "uid": "ab78e374203dbca8",
             "instance_type": "d3.xlarge",
             "instance_category": "Storage Optimized",
@@ -6214,7 +6286,7 @@
             }
         },
         {
-            "_index": 346,
+            "_index": 350,
             "uid": "55eb90e9c51cd7b2",
             "instance_type": "d3.2xlarge",
             "instance_category": "Storage Optimized",
@@ -6232,7 +6304,7 @@
             }
         },
         {
-            "_index": 347,
+            "_index": 351,
             "uid": "785fa0110c554d64",
             "instance_type": "d3.4xlarge",
             "instance_category": "Storage Optimized",
@@ -6250,7 +6322,7 @@
             }
         },
         {
-            "_index": 348,
+            "_index": 352,
             "uid": "da6a2bfdabd4a31c",
             "instance_type": "d3.8xlarge",
             "instance_category": "Storage Optimized",
@@ -6268,7 +6340,7 @@
             }
         },
         {
-            "_index": 349,
+            "_index": 353,
             "uid": "3caad42109bdfcd0",
             "instance_type": "d3en.xlarge",
             "instance_category": "Storage Optimized",
@@ -6286,7 +6358,7 @@
             }
         },
         {
-            "_index": 350,
+            "_index": 354,
             "uid": "8418055f1476ee8c",
             "instance_type": "d3en.2xlarge",
             "instance_category": "Storage Optimized",
@@ -6304,7 +6376,7 @@
             }
         },
         {
-            "_index": 351,
+            "_index": 355,
             "uid": "23f5fe5d103e1292",
             "instance_type": "d3en.4xlarge",
             "instance_category": "Storage Optimized",
@@ -6322,7 +6394,7 @@
             }
         },
         {
-            "_index": 352,
+            "_index": 356,
             "uid": "2d3b7ae2487fad44",
             "instance_type": "d3en.6xlarge",
             "instance_category": "Storage Optimized",
@@ -6340,7 +6412,7 @@
             }
         },
         {
-            "_index": 353,
+            "_index": 357,
             "uid": "1d61704c39bbc410",
             "instance_type": "d3en.8xlarge",
             "instance_category": "Storage Optimized",
@@ -6358,7 +6430,7 @@
             }
         },
         {
-            "_index": 354,
+            "_index": 358,
             "uid": "5641de86c2dcb398",
             "instance_type": "d3en.12xlarge",
             "instance_category": "Storage Optimized",
@@ -6376,7 +6448,7 @@
             }
         },
         {
-            "_index": 355,
+            "_index": 359,
             "uid": "ad2115c3087dd7d0",
             "instance_type": "m5zn.large",
             "instance_category": "General Purpose",
@@ -6394,7 +6466,7 @@
             }
         },
         {
-            "_index": 356,
+            "_index": 360,
             "uid": "26ef305dc773c317",
             "instance_type": "m5zn.xlarge",
             "instance_category": "General Purpose",
@@ -6412,7 +6484,7 @@
             }
         },
         {
-            "_index": 357,
+            "_index": 361,
             "uid": "0cc76dbefc256229",
             "instance_type": "m5zn.2xlarge",
             "instance_category": "General Purpose",
@@ -6430,7 +6502,7 @@
             }
         },
         {
-            "_index": 358,
+            "_index": 362,
             "uid": "739833468b0c2a75",
             "instance_type": "m5zn.3xlarge",
             "instance_category": "General Purpose",
@@ -6448,7 +6520,7 @@
             }
         },
         {
-            "_index": 359,
+            "_index": 363,
             "uid": "32f8464ab0e21ed0",
             "instance_type": "m5zn.6xlarge",
             "instance_category": "General Purpose",
@@ -6466,7 +6538,7 @@
             }
         },
         {
-            "_index": 360,
+            "_index": 364,
             "uid": "9a9f266247ea07f7",
             "instance_type": "m5zn.12xlarge",
             "instance_category": "General Purpose",
@@ -6484,7 +6556,7 @@
             }
         },
         {
-            "_index": 361,
+            "_index": 365,
             "uid": "1f002f0c5655a12f",
             "instance_type": "m5zn.metal",
             "instance_category": "General Purpose (bare metal)",
@@ -6502,7 +6574,7 @@
             }
         },
         {
-            "_index": 362,
+            "_index": 366,
             "uid": "bfeda17b3034f233",
             "instance_type": "r5b.large",
             "instance_category": "Memory Optimized",
@@ -6520,7 +6592,7 @@
             }
         },
         {
-            "_index": 363,
+            "_index": 367,
             "uid": "031dc769e2232dc4",
             "instance_type": "r5b.xlarge",
             "instance_category": "Memory Optimized",
@@ -6538,7 +6610,7 @@
             }
         },
         {
-            "_index": 364,
+            "_index": 368,
             "uid": "7249c84d07cbdba2",
             "instance_type": "r5b.2xlarge",
             "instance_category": "Memory Optimized",
@@ -6556,7 +6628,7 @@
             }
         },
         {
-            "_index": 365,
+            "_index": 369,
             "uid": "d25f166c1d6ba906",
             "instance_type": "r5b.4xlarge",
             "instance_category": "Memory Optimized",
@@ -6574,7 +6646,7 @@
             }
         },
         {
-            "_index": 366,
+            "_index": 370,
             "uid": "f90961d22ed25d5d",
             "instance_type": "r5b.8xlarge",
             "instance_category": "Memory Optimized",
@@ -6592,7 +6664,7 @@
             }
         },
         {
-            "_index": 367,
+            "_index": 371,
             "uid": "3c86ab4862a73242",
             "instance_type": "r5b.12xlarge",
             "instance_category": "Memory Optimized",
@@ -6610,7 +6682,7 @@
             }
         },
         {
-            "_index": 368,
+            "_index": 372,
             "uid": "86da59837dd5337a",
             "instance_type": "r5b.16xlarge",
             "instance_category": "Memory Optimized",
@@ -6628,7 +6700,7 @@
             }
         },
         {
-            "_index": 369,
+            "_index": 373,
             "uid": "5d805612eeed0759",
             "instance_type": "r5b.24xlarge",
             "instance_category": "Memory Optimized",
@@ -6646,7 +6718,7 @@
             }
         },
         {
-            "_index": 370,
+            "_index": 374,
             "uid": "4d78f45d48477881",
             "instance_type": "r5b.metal",
             "instance_category": "Memory Optimized (bare metal)",
@@ -6664,7 +6736,7 @@
             }
         },
         {
-            "_index": 371,
+            "_index": 375,
             "uid": "aaaa38fff752526f",
             "instance_type": "g4ad.4xlarge",
             "instance_category": "Accelerated Computing",
@@ -6682,7 +6754,7 @@
             }
         },
         {
-            "_index": 372,
+            "_index": 376,
             "uid": "10593e31b83d669c",
             "instance_type": "g4ad.8xlarge",
             "instance_category": "Accelerated Computing",
@@ -6700,7 +6772,7 @@
             }
         },
         {
-            "_index": 373,
+            "_index": 377,
             "uid": "ecdfc2f19f27e64b",
             "instance_type": "g4ad.12xlarge",
             "instance_category": "Accelerated Computing",
@@ -6718,7 +6790,7 @@
             }
         },
         {
-            "_index": 374,
+            "_index": 378,
             "uid": "6327b8aba5b70ce9",
             "instance_type": "c6gn.medium",
             "instance_category": "Compute Optimized",
@@ -6736,7 +6808,7 @@
             }
         },
         {
-            "_index": 375,
+            "_index": 379,
             "uid": "c9a24ad3b0cf50e2",
             "instance_type": "c6gn.large",
             "instance_category": "Compute Optimized",
@@ -6754,7 +6826,7 @@
             }
         },
         {
-            "_index": 376,
+            "_index": 380,
             "uid": "a941bfad2d293276",
             "instance_type": "c6gn.xlarge",
             "instance_category": "Compute Optimized",
@@ -6772,7 +6844,7 @@
             }
         },
         {
-            "_index": 377,
+            "_index": 381,
             "uid": "05e7e0af91aebded",
             "instance_type": "c6gn.2xlarge",
             "instance_category": "Compute Optimized",
@@ -6790,7 +6862,7 @@
             }
         },
         {
-            "_index": 378,
+            "_index": 382,
             "uid": "72d6fc0c0409f106",
             "instance_type": "c6gn.4xlarge",
             "instance_category": "Compute Optimized",
@@ -6808,7 +6880,7 @@
             }
         },
         {
-            "_index": 379,
+            "_index": 383,
             "uid": "8251dec96593b40a",
             "instance_type": "c6gn.8xlarge",
             "instance_category": "Compute Optimized",
@@ -6826,7 +6898,7 @@
             }
         },
         {
-            "_index": 380,
+            "_index": 384,
             "uid": "063fc76e0f065c69",
             "instance_type": "c6gn.12xlarge",
             "instance_category": "Compute Optimized",
@@ -6844,7 +6916,7 @@
             }
         },
         {
-            "_index": 381,
+            "_index": 385,
             "uid": "debc7da09d3abc3e",
             "instance_type": "c6gn.16xlarge",
             "instance_category": "Compute Optimized",
@@ -6862,7 +6934,7 @@
             }
         },
         {
-            "_index": 382,
+            "_index": 386,
             "uid": "f405717ccbb0848d",
             "instance_type": "m5n.metal",
             "instance_category": "General Purpose (bare metal)",
@@ -6880,7 +6952,7 @@
             }
         },
         {
-            "_index": 383,
+            "_index": 387,
             "uid": "53e21af03f1de338",
             "instance_type": "m5dn.metal",
             "instance_category": "General Purpose (bare metal)",
@@ -6898,7 +6970,7 @@
             }
         },
         {
-            "_index": 384,
+            "_index": 388,
             "uid": "f1f1f0283fdabef9",
             "instance_type": "r5n.metal",
             "instance_category": "Memory Optimized (bare metal)",
@@ -6916,7 +6988,7 @@
             }
         },
         {
-            "_index": 385,
+            "_index": 389,
             "uid": "5d2532082d46e9bc",
             "instance_type": "r5dn.metal",
             "instance_category": "Memory Optimized (bare metal)",
@@ -6934,7 +7006,7 @@
             }
         },
         {
-            "_index": 386,
+            "_index": 390,
             "uid": "ed6c294eed45800a",
             "instance_type": "x2gd.medium",
             "instance_category": "Memory Optimized",
@@ -6952,7 +7024,7 @@
             }
         },
         {
-            "_index": 387,
+            "_index": 391,
             "uid": "cce70158c21322c2",
             "instance_type": "x2gd.large",
             "instance_category": "Memory Optimized",
@@ -6970,7 +7042,7 @@
             }
         },
         {
-            "_index": 388,
+            "_index": 392,
             "uid": "fbc34e4fe6ad88d7",
             "instance_type": "x2gd.xlarge",
             "instance_category": "Memory Optimized",
@@ -6988,7 +7060,7 @@
             }
         },
         {
-            "_index": 389,
+            "_index": 393,
             "uid": "0c342a9bdb5b8b55",
             "instance_type": "x2gd.2xlarge",
             "instance_category": "Memory Optimized",
@@ -7006,7 +7078,7 @@
             }
         },
         {
-            "_index": 390,
+            "_index": 394,
             "uid": "1143e6f61959a50c",
             "instance_type": "x2gd.4xlarge",
             "instance_category": "Memory Optimized",
@@ -7024,7 +7096,7 @@
             }
         },
         {
-            "_index": 391,
+            "_index": 395,
             "uid": "d2d440937ebd00e2",
             "instance_type": "x2gd.8xlarge",
             "instance_category": "Memory Optimized",
@@ -7042,7 +7114,7 @@
             }
         },
         {
-            "_index": 392,
+            "_index": 396,
             "uid": "548bf0dc8e617bc6",
             "instance_type": "x2gd.12xlarge",
             "instance_category": "Memory Optimized",
@@ -7060,7 +7132,7 @@
             }
         },
         {
-            "_index": 393,
+            "_index": 397,
             "uid": "2f09e657ec5fd975",
             "instance_type": "x2gd.16xlarge",
             "instance_category": "Memory Optimized",
@@ -7078,7 +7150,7 @@
             }
         },
         {
-            "_index": 394,
+            "_index": 398,
             "uid": "5e19aeba14795745",
             "instance_type": "x2gd.metal",
             "instance_category": "Memory Optimized",
@@ -7096,7 +7168,7 @@
             }
         },
         {
-            "_index": 395,
+            "_index": 399,
             "uid": "5a444d1f9e63a861",
             "instance_type": "u-6tb1.56xlarge",
             "instance_category": "High Memory",
@@ -7114,7 +7186,7 @@
             }
         },
         {
-            "_index": 396,
+            "_index": 400,
             "uid": "5255c53a5fa745f0",
             "instance_type": "u-6tb1.112xlarge",
             "instance_category": "High Memory",
@@ -7132,7 +7204,7 @@
             }
         },
         {
-            "_index": 397,
+            "_index": 401,
             "uid": "851444e44dd04304",
             "instance_type": "u-9tb1.112xlarge",
             "instance_category": "High Memory",
@@ -7150,7 +7222,7 @@
             }
         },
         {
-            "_index": 398,
+            "_index": 402,
             "uid": "141fee158dfb7ea7",
             "instance_type": "u-12tb1.112xlarge",
             "instance_category": "High Memory",
@@ -7168,7 +7240,7 @@
             }
         },
         {
-            "_index": 399,
+            "_index": 403,
             "uid": "1db07084d599bae0",
             "instance_type": "g4ad.xlarge",
             "instance_category": "Accelerated Computing",
@@ -7186,7 +7258,7 @@
             }
         },
         {
-            "_index": 400,
+            "_index": 404,
             "uid": "5c20e930b6fb3f63",
             "instance_type": "g4ad.2xlarge",
             "instance_category": "Accelerated Computing",
@@ -7204,7 +7276,7 @@
             }
         },
         {
-            "_index": 401,
+            "_index": 405,
             "uid": "65f9bb17c7d30b75",
             "instance_type": "m6i.large",
             "instance_category": "General Purpose",
@@ -7222,7 +7294,7 @@
             }
         },
         {
-            "_index": 402,
+            "_index": 406,
             "uid": "d54c9fc914882073",
             "instance_type": "m6i.xlarge",
             "instance_category": "General Purpose",
@@ -7240,7 +7312,7 @@
             }
         },
         {
-            "_index": 403,
+            "_index": 407,
             "uid": "cd858d3ff2a72b0a",
             "instance_type": "m6i.2xlarge",
             "instance_category": "General Purpose",
@@ -7258,7 +7330,7 @@
             }
         },
         {
-            "_index": 404,
+            "_index": 408,
             "uid": "2de8babb5ca06714",
             "instance_type": "m6i.4xlarge",
             "instance_category": "General Purpose",
@@ -7276,7 +7348,7 @@
             }
         },
         {
-            "_index": 405,
+            "_index": 409,
             "uid": "1cba7fed6beaab79",
             "instance_type": "m6i.8xlarge",
             "instance_category": "General Purpose",
@@ -7294,7 +7366,7 @@
             }
         },
         {
-            "_index": 406,
+            "_index": 410,
             "uid": "93d6ce1f007bfeb4",
             "instance_type": "m6i.12xlarge",
             "instance_category": "General Purpose",
@@ -7312,7 +7384,7 @@
             }
         },
         {
-            "_index": 407,
+            "_index": 411,
             "uid": "5df5d691d3cdfbda",
             "instance_type": "m6i.16xlarge",
             "instance_category": "General Purpose",
@@ -7330,7 +7402,7 @@
             }
         },
         {
-            "_index": 408,
+            "_index": 412,
             "uid": "d3f6eff7e1851280",
             "instance_type": "m6i.24xlarge",
             "instance_category": "General Purpose",
@@ -7348,7 +7420,7 @@
             }
         },
         {
-            "_index": 409,
+            "_index": 413,
             "uid": "8aea954bcc2236c3",
             "instance_type": "m6i.32xlarge",
             "instance_category": "General Purpose",
