@@ -6774,7 +6774,7 @@
         {
             "_index": 377,
             "uid": "ecdfc2f19f27e64b",
-            "instance_type": "g4ad.12xlarge",
+            "instance_type": "g4ad.16xlarge",
             "instance_category": "Accelerated Computing",
             "instance_generation": "Current generation",
             "release_month": "December",
