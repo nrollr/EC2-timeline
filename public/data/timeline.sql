@@ -1,4 +1,5 @@
 DROP TABLE IF EXISTS `EC2-releases`;
+
 CREATE TABLE `EC2-releases` (
   `_index` int NOT NULL,
   `uid` varchar(255) NOT NULL DEFAULT '',
@@ -14,7 +15,7 @@ CREATE TABLE `EC2-releases` (
   `blog_post_published` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`_index`),
   UNIQUE KEY `uid` (`uid`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 INSERT INTO `EC2-releases` (`_index`, `uid`, `instance_type`, `instance_category`, `instance_generation`, `release_month`, `release_year`, `product_page`, `announcement_url`, `announcement_published`, `blog_post_url`, `blog_post_published`) VALUES
 (1, '451c1cd49a2f955d', 'm1.small', 'General Purpose', 'Previous generation', 'August', '2006', 'https://aws.amazon.com/ec2/previous-generation/', 'https://aws.amazon.com/about-aws/whats-new/2006/08/24/announcing-amazon-elastic-compute-cloud-amazon-ec2---beta/', 'Aug 24, 2006', NULL, NULL),
@@ -429,4 +430,7 @@ INSERT INTO `EC2-releases` (`_index`, `uid`, `instance_type`, `instance_category
 (410, '93d6ce1f007bfeb4', 'm6i.12xlarge', 'General Purpose', 'Current generation', 'August', '2021', 'https://aws.amazon.com/ec2/instance-types/m6i/', 'https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/', 'Aug 16, 2021', 'https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/', 'Aug 16, 2021'),
 (411, '5df5d691d3cdfbda', 'm6i.16xlarge', 'General Purpose', 'Current generation', 'August', '2021', 'https://aws.amazon.com/ec2/instance-types/m6i/', 'https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/', 'Aug 16, 2021', 'https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/', 'Aug 16, 2021'),
 (412, 'd3f6eff7e1851280', 'm6i.24xlarge', 'General Purpose', 'Current generation', 'August', '2021', 'https://aws.amazon.com/ec2/instance-types/m6i/', 'https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/', 'Aug 16, 2021', 'https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/', 'Aug 16, 2021'),
-(413, '8aea954bcc2236c3', 'm6i.32xlarge', 'General Purpose', 'Current generation', 'August', '2021', 'https://aws.amazon.com/ec2/instance-types/m6i/', 'https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/', 'Aug 16, 2021', 'https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/', 'Aug 16, 2021');
+(413, '8aea954bcc2236c3', 'm6i.32xlarge', 'General Purpose', 'Current generation', 'August', '2021', 'https://aws.amazon.com/ec2/instance-types/m6i/', 'https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/', 'Aug 16, 2021', 'https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/', 'Aug 16, 2021'),
+(414, 'bd107eab9fb72de2', 'vt1.3xlarge', 'Accelerated Computing', 'Current generation', 'September', '2021', 'https://aws.amazon.com/ec2/instance-types/vt1/', 'https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-vt1-instances-video-transcoding/', 'Sep 13, 2021', 'https://aws.amazon.com/blogs/aws/new-amazon-ec2-vt1-instances-for-live-multi-stream-video-transcoding/', 'Sep 13, 2021'),
+(415, 'cf600136ba239d53', 'vt1.6xlarge', 'Accelerated Computing', 'Current generation', 'September', '2021', 'https://aws.amazon.com/ec2/instance-types/vt1/', 'https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-vt1-instances-video-transcoding/', 'Sep 13, 2021', 'https://aws.amazon.com/blogs/aws/new-amazon-ec2-vt1-instances-for-live-multi-stream-video-transcoding/', 'Sep 13, 2021'),
+(416, '923353ab34137600', 'vt1.24xlarge', 'Accelerated Computing', 'Current generation', 'September', '2021', 'https://aws.amazon.com/ec2/instance-types/vt1/', 'https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-vt1-instances-video-transcoding/', 'Sep 13, 2021', 'https://aws.amazon.com/blogs/aws/new-amazon-ec2-vt1-instances-for-live-multi-stream-video-transcoding/', 'Sep 13, 2021');
