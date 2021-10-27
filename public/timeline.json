@@ -1,7 +1,7 @@
 {
-    "release": "v1.3.7",
+    "release": "v1.3.8",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "September 14, 2021",
+    "published": "October 27, 2021",
     "instances": [
         {
             "_index": 1,
@@ -7489,6 +7489,24 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-vt1-instances-for-live-multi-stream-video-transcoding/",
                 "published": "Sep 13, 2021"
+            }
+        },
+        {
+            "_index": 417,
+            "uid": "9e50162ef0b8d42f",
+            "instance_type": "dl1.24xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/dl1/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-dl1-instances-cost-efficient-training-deep-learning-models/",
+                "published": "Oct 26, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-ec2-instances-powered-by-gaudi-accelerators-for-training-deep-learning-models/",
+                "published": "Oct 26, 2021"
             }
         }
     ]
