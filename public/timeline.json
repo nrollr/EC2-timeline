@@ -1,7 +1,7 @@
 {
-    "release": "v1.3.8",
+    "release": "v1.3.9",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "October 27, 2021",
+    "published": "October 29, 2021",
     "instances": [
         {
             "_index": 1,
@@ -7507,6 +7507,168 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-instances-powered-by-gaudi-accelerators-for-training-deep-learning-models/",
                 "published": "Oct 26, 2021"
+            }
+        },
+        {
+            "_index": 418,
+            "uid": "edc5793e1f0d777f",
+            "instance_type": "c6i.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-c6i-instances/",
+                "published": "Oct 28, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Oct 28, 2021"
+            }
+        },
+        {
+            "_index": 419,
+            "uid": "fed812dfd4aed619",
+            "instance_type": "c6i.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-c6i-instances/",
+                "published": "Oct 28, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Oct 28, 2021"
+            }
+        },
+        {
+            "_index": 420,
+            "uid": "2858fcae748e8005",
+            "instance_type": "c6i.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-c6i-instances/",
+                "published": "Oct 28, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Oct 28, 2021"
+            }
+        },
+        {
+            "_index": 421,
+            "uid": "39088ea17cd782f3",
+            "instance_type": "c6i.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-c6i-instances/",
+                "published": "Oct 28, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Oct 28, 2021"
+            }
+        },
+        {
+            "_index": 422,
+            "uid": "299afd1cf3833b46",
+            "instance_type": "c6i.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-c6i-instances/",
+                "published": "Oct 28, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Oct 28, 2021"
+            }
+        },
+        {
+            "_index": 423,
+            "uid": "e63654854f2a0039",
+            "instance_type": "c6i.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-c6i-instances/",
+                "published": "Oct 28, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Oct 28, 2021"
+            }
+        },
+        {
+            "_index": 424,
+            "uid": "994729470b04cf0f",
+            "instance_type": "c6i.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-c6i-instances/",
+                "published": "Oct 28, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Oct 28, 2021"
+            }
+        },
+        {
+            "_index": 425,
+            "uid": "f72a03c1b4747a09",
+            "instance_type": "c6i.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-c6i-instances/",
+                "published": "Oct 28, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Oct 28, 2021"
+            }
+        },
+        {
+            "_index": 426,
+            "uid": "26e5dcb698bfc7e1",
+            "instance_type": "c6i.32xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-c6i-instances/",
+                "published": "Oct 28, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Oct 28, 2021"
             }
         }
     ]
