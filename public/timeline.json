@@ -1,7 +1,7 @@
 {
-    "release": "v1.4.0",
+    "release": "v1.4.1",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "November 12, 2021",
+    "published": "November 14, 2021",
     "instances": [
         {
             "_index": 1,
@@ -7681,8 +7681,8 @@
             "release_year": 2021,
             "product_page": "https://aws.amazon.com/ec2/instance-types/g5/",
             "announcement": {
-                "url": null,
-                "published": null
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/announcing-general-availability-amazon-ec2-g5-instances/",
+                "published": "Nov 12, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/",
@@ -7699,8 +7699,8 @@
             "release_year": 2021,
             "product_page": "https://aws.amazon.com/ec2/instance-types/g5/",
             "announcement": {
-                "url": null,
-                "published": null
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/announcing-general-availability-amazon-ec2-g5-instances/",
+                "published": "Nov 12, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/",
@@ -7717,8 +7717,8 @@
             "release_year": 2021,
             "product_page": "https://aws.amazon.com/ec2/instance-types/g5/",
             "announcement": {
-                "url": null,
-                "published": null
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/announcing-general-availability-amazon-ec2-g5-instances/",
+                "published": "Nov 12, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/",
@@ -7735,8 +7735,8 @@
             "release_year": 2021,
             "product_page": "https://aws.amazon.com/ec2/instance-types/g5/",
             "announcement": {
-                "url": null,
-                "published": null
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/announcing-general-availability-amazon-ec2-g5-instances/",
+                "published": "Nov 12, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/",
@@ -7753,8 +7753,8 @@
             "release_year": 2021,
             "product_page": "https://aws.amazon.com/ec2/instance-types/g5/",
             "announcement": {
-                "url": null,
-                "published": null
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/announcing-general-availability-amazon-ec2-g5-instances/",
+                "published": "Nov 12, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/",
@@ -7771,8 +7771,8 @@
             "release_year": 2021,
             "product_page": "https://aws.amazon.com/ec2/instance-types/g5/",
             "announcement": {
-                "url": null,
-                "published": null
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/announcing-general-availability-amazon-ec2-g5-instances/",
+                "published": "Nov 12, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/",
@@ -7789,8 +7789,8 @@
             "release_year": 2021,
             "product_page": "https://aws.amazon.com/ec2/instance-types/g5/",
             "announcement": {
-                "url": null,
-                "published": null
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/announcing-general-availability-amazon-ec2-g5-instances/",
+                "published": "Nov 12, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/",
@@ -7807,8 +7807,8 @@
             "release_year": 2021,
             "product_page": "https://aws.amazon.com/ec2/instance-types/g5/",
             "announcement": {
-                "url": null,
-                "published": null
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/announcing-general-availability-amazon-ec2-g5-instances/",
+                "published": "Nov 12, 2021"
             },
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/",
