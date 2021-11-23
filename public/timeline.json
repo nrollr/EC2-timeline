@@ -1,7 +1,7 @@
 {
-    "release": "v1.4.1",
+    "release": "v1.4.2",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "November 14, 2021",
+    "published": "November 23, 2021",
     "instances": [
         {
             "_index": 1,
@@ -7813,6 +7813,222 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/",
                 "published": "Nov 11, 2021"
+            }
+        },
+        {
+            "_index": 435,
+            "uid": "a4880aafa01f6e96",
+            "instance_type": "r6i.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-r6i-instances/",
+                "published": "Nov 22, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6i-memory-optimized-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Nov 22, 2021"
+            }
+        },
+        {
+            "_index": 436,
+            "uid": "8eed7cd87d125f1d",
+            "instance_type": "r6i.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-r6i-instances/",
+                "published": "Nov 22, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6i-memory-optimized-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Nov 22, 2021"
+            }
+        },
+        {
+            "_index": 437,
+            "uid": "7ce3235975be70fd",
+            "instance_type": "r6i.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-r6i-instances/",
+                "published": "Nov 22, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6i-memory-optimized-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Nov 22, 2021"
+            }
+        },
+        {
+            "_index": 438,
+            "uid": "e002e90c23388889",
+            "instance_type": "r6i.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-r6i-instances/",
+                "published": "Nov 22, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6i-memory-optimized-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Nov 22, 2021"
+            }
+        },
+        {
+            "_index": 439,
+            "uid": "6345f2dae9961dda",
+            "instance_type": "r6i.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-r6i-instances/",
+                "published": "Nov 22, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6i-memory-optimized-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Nov 22, 2021"
+            }
+        },
+        {
+            "_index": 440,
+            "uid": "686ad8991b35f7ff",
+            "instance_type": "r6i.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-r6i-instances/",
+                "published": "Nov 22, 2021"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 441,
+            "uid": "f7559866c4d274b4",
+            "instance_type": "r6i.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-r6i-instances/",
+                "published": "Nov 22, 2021"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 442,
+            "uid": "9aa1ae462e3e5229",
+            "instance_type": "r6i.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-r6i-instances/",
+                "published": "Nov 22, 2021"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 443,
+            "uid": "9dedc2902418ff92",
+            "instance_type": "r6i.32xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-r6i-instances/",
+                "published": "Nov 22, 2021"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 444,
+            "uid": "8e9ac5d422b62380",
+            "instance_type": "r6i.metal",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-r6i-instances/",
+                "published": "Nov 22, 2021"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 445,
+            "uid": "2a8012bf91c079ae",
+            "instance_type": "c6i.metal",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-bare-metal-instances/",
+                "published": "Nov 22, 2021"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 446,
+            "uid": "a19af0e720e5f551",
+            "instance_type": "m6i.metal",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-bare-metal-instances/",
+                "published": "Nov 22, 2021"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
