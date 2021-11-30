@@ -14,7 +14,7 @@
     "browser-sync": "^2.27.7",
     "clean-css": "^5.2.2",
     "clean-css-cli": "^5.4.2",
-    "postcss": "^8.3.11",
+    "postcss": "^8.4.4",
     "postcss-cli": "^9.0.2",
     "tailwindcss": "^2.2.19"
   },

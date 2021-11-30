@@ -1,7 +1,7 @@
 {
-    "release": "v1.4.2",
+    "release": "v1.4.3",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "November 23, 2021",
+    "published": "November 30, 2021",
     "instances": [
         {
             "_index": 1,
@@ -7919,8 +7919,8 @@
                 "published": "Nov 22, 2021"
             },
             "blog_post": {
-                "url": null,
-                "published": null
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6i-memory-optimized-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Nov 22, 2021"
             }
         },
         {
@@ -7937,8 +7937,8 @@
                 "published": "Nov 22, 2021"
             },
             "blog_post": {
-                "url": null,
-                "published": null
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6i-memory-optimized-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Nov 22, 2021"
             }
         },
         {
@@ -7955,8 +7955,8 @@
                 "published": "Nov 22, 2021"
             },
             "blog_post": {
-                "url": null,
-                "published": null
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6i-memory-optimized-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Nov 22, 2021"
             }
         },
         {
@@ -7973,8 +7973,8 @@
                 "published": "Nov 22, 2021"
             },
             "blog_post": {
-                "url": null,
-                "published": null
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6i-memory-optimized-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Nov 22, 2021"
             }
         },
         {
@@ -7991,8 +7991,8 @@
                 "published": "Nov 22, 2021"
             },
             "blog_post": {
-                "url": null,
-                "published": null
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6i-memory-optimized-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/",
+                "published": "Nov 22, 2021"
             }
         },
         {
@@ -8029,6 +8029,294 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 447,
+            "uid": "6111af29484f3fb0",
+            "instance_type": "g5g.xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g5g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-g5g-instances-aws-graviton2-processors/",
+                "published": "Nov 29, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-g5g-instances-powered-by-aws-graviton2-processors-and-nvidia-t4g-tensor-core-gpus/",
+                "published": "Nov 29, 2021"
+            }
+        },
+        {
+            "_index": 448,
+            "uid": "e7fb0736fc989ad9",
+            "instance_type": "g5g.2xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g5g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-g5g-instances-aws-graviton2-processors/",
+                "published": "Nov 29, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-g5g-instances-powered-by-aws-graviton2-processors-and-nvidia-t4g-tensor-core-gpus/",
+                "published": "Nov 29, 2021"
+            }
+        },
+        {
+            "_index": 449,
+            "uid": "5bde9ac9c55909ac",
+            "instance_type": "g5g.4xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g5g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-g5g-instances-aws-graviton2-processors/",
+                "published": "Nov 29, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-g5g-instances-powered-by-aws-graviton2-processors-and-nvidia-t4g-tensor-core-gpus/",
+                "published": "Nov 29, 2021"
+            }
+        },
+        {
+            "_index": 450,
+            "uid": "709ae56d132700cf",
+            "instance_type": "g5g.8xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g5g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-g5g-instances-aws-graviton2-processors/",
+                "published": "Nov 29, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-g5g-instances-powered-by-aws-graviton2-processors-and-nvidia-t4g-tensor-core-gpus/",
+                "published": "Nov 29, 2021"
+            }
+        },
+        {
+            "_index": 451,
+            "uid": "49cf0b8c3684a931",
+            "instance_type": "g5g.16xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g5g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-g5g-instances-aws-graviton2-processors/",
+                "published": "Nov 29, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-g5g-instances-powered-by-aws-graviton2-processors-and-nvidia-t4g-tensor-core-gpus/",
+                "published": "Nov 29, 2021"
+            }
+        },
+        {
+            "_index": 452,
+            "uid": "55d9bdfc98b30a9c",
+            "instance_type": "g5g.metal",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g5g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-g5g-instances-aws-graviton2-processors/",
+                "published": "Nov 29, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-g5g-instances-powered-by-aws-graviton2-processors-and-nvidia-t4g-tensor-core-gpus/",
+                "published": "Nov 29, 2021"
+            }
+        },
+        {
+            "_index": 453,
+            "uid": "46cf903062d231e3",
+            "instance_type": "m6a.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6a-instances/",
+                "published": "Nov 29, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6a-instances-powered-by-3rd-gen-amd-epyc-processors/",
+                "published": "Nov 29, 2021"
+            }
+        },
+        {
+            "_index": 454,
+            "uid": "32719354fe2b3bf0",
+            "instance_type": "m6a.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6a-instances/",
+                "published": "Nov 29, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6a-instances-powered-by-3rd-gen-amd-epyc-processors/",
+                "published": "Nov 29, 2021"
+            }
+        },
+        {
+            "_index": 455,
+            "uid": "3bbb62ae57df2e54",
+            "instance_type": "m6a.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6a-instances/",
+                "published": "Nov 29, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6a-instances-powered-by-3rd-gen-amd-epyc-processors/",
+                "published": "Nov 29, 2021"
+            }
+        },
+        {
+            "_index": 456,
+            "uid": "7d0a61ecac05b093",
+            "instance_type": "m6a.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6a-instances/",
+                "published": "Nov 29, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6a-instances-powered-by-3rd-gen-amd-epyc-processors/",
+                "published": "Nov 29, 2021"
+            }
+        },
+        {
+            "_index": 457,
+            "uid": "d22cec69e97ac9b7",
+            "instance_type": "m6a.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6a-instances/",
+                "published": "Nov 29, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6a-instances-powered-by-3rd-gen-amd-epyc-processors/",
+                "published": "Nov 29, 2021"
+            }
+        },
+        {
+            "_index": 458,
+            "uid": "ca1d014dc4d478c6",
+            "instance_type": "m6a.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6a-instances/",
+                "published": "Nov 29, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6a-instances-powered-by-3rd-gen-amd-epyc-processors/",
+                "published": "Nov 29, 2021"
+            }
+        },
+        {
+            "_index": 459,
+            "uid": "b22536ba8f12fc18",
+            "instance_type": "m6a.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6a-instances/",
+                "published": "Nov 29, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6a-instances-powered-by-3rd-gen-amd-epyc-processors/",
+                "published": "Nov 29, 2021"
+            }
+        },
+        {
+            "_index": 460,
+            "uid": "4c5a37121f1bd146",
+            "instance_type": "m6a.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6a-instances/",
+                "published": "Nov 29, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6a-instances-powered-by-3rd-gen-amd-epyc-processors/",
+                "published": "Nov 29, 2021"
+            }
+        },
+        {
+            "_index": 461,
+            "uid": "4fdaca39e702f6b0",
+            "instance_type": "m6a.32xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6a-instances/",
+                "published": "Nov 29, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6a-instances-powered-by-3rd-gen-amd-epyc-processors/",
+                "published": "Nov 29, 2021"
+            }
+        },
+        {
+            "_index": 462,
+            "uid": "1fa39d1f5d5ed28a",
+            "instance_type": "m6a.48xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6a-instances/",
+                "published": "Nov 29, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6a-instances-powered-by-3rd-gen-amd-epyc-processors/",
+                "published": "Nov 29, 2021"
             }
         }
     ]
