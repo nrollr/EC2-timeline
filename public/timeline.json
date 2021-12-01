@@ -1,7 +1,7 @@
 {
-    "release": "v1.4.3",
+    "release": "v1.4.4",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "November 30, 2021",
+    "published": "December 1, 2021",
     "instances": [
         {
             "_index": 1,
@@ -8317,6 +8317,222 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6a-instances-powered-by-3rd-gen-amd-epyc-processors/",
                 "published": "Nov 29, 2021"
+            }
+        },
+        {
+            "_index": 463,
+            "uid": "cecb47b52c185034",
+            "instance_type": "im4gn.large",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-im4gn-is4gen-aws-graviton2/",
+                "published": "Nov 30, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/",
+                "published": "Nov 30, 2021"
+            }
+        },
+        {
+            "_index": 464,
+            "uid": "cb5f82ca64ab9910",
+            "instance_type": "im4gn.xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-im4gn-is4gen-aws-graviton2/",
+                "published": "Nov 30, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/",
+                "published": "Nov 30, 2021"
+            }
+        },
+        {
+            "_index": 465,
+            "uid": "5fa24896a0584f43",
+            "instance_type": "im4gn.2xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-im4gn-is4gen-aws-graviton2/",
+                "published": "Nov 30, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/",
+                "published": "Nov 30, 2021"
+            }
+        },
+        {
+            "_index": 466,
+            "uid": "43afc00f5e3d7d99",
+            "instance_type": "im4gn.4xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-im4gn-is4gen-aws-graviton2/",
+                "published": "Nov 30, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/",
+                "published": "Nov 30, 2021"
+            }
+        },
+        {
+            "_index": 467,
+            "uid": "bee4eb7558e06bed",
+            "instance_type": "im4gn.8xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-im4gn-is4gen-aws-graviton2/",
+                "published": "Nov 30, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/",
+                "published": "Nov 30, 2021"
+            }
+        },
+        {
+            "_index": 468,
+            "uid": "cc777152a66c10d6",
+            "instance_type": "im4gn.16xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-im4gn-is4gen-aws-graviton2/",
+                "published": "Nov 30, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/",
+                "published": "Nov 30, 2021"
+            }
+        },
+        {
+            "_index": 469,
+            "uid": "bffc31d86671e049",
+            "instance_type": "is4gen.medium",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-im4gn-is4gen-aws-graviton2/",
+                "published": "Nov 30, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/",
+                "published": "Nov 30, 2021"
+            }
+        },
+        {
+            "_index": 470,
+            "uid": "1556b39e287f6ce7",
+            "instance_type": "is4gen.large",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-im4gn-is4gen-aws-graviton2/",
+                "published": "Nov 30, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/",
+                "published": "Nov 30, 2021"
+            }
+        },
+        {
+            "_index": 471,
+            "uid": "74f7fb34976b196c",
+            "instance_type": "is4gen.xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-im4gn-is4gen-aws-graviton2/",
+                "published": "Nov 30, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/",
+                "published": "Nov 30, 2021"
+            }
+        },
+        {
+            "_index": 472,
+            "uid": "6dcee6947d6d0570",
+            "instance_type": "is4gen.2xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-im4gn-is4gen-aws-graviton2/",
+                "published": "Nov 30, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/",
+                "published": "Nov 30, 2021"
+            }
+        },
+        {
+            "_index": 473,
+            "uid": "570c2bc966c4c1ba",
+            "instance_type": "is4gen.4xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-im4gn-is4gen-aws-graviton2/",
+                "published": "Nov 30, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/",
+                "published": "Nov 30, 2021"
+            }
+        },
+        {
+            "_index": 474,
+            "uid": "001af792d1296a7d",
+            "instance_type": "is4gen.8xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2021,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-im4gn-is4gen-aws-graviton2/",
+                "published": "Nov 30, 2021"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/",
+                "published": "Nov 30, 2021"
             }
         }
     ]
