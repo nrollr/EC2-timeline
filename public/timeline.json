@@ -1,7 +1,7 @@
 {
-    "release": "v1.4.4",
+    "release": "v1.4.5",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "December 1, 2021",
+    "published": "January 11, 2022",
     "instances": [
         {
             "_index": 1,
@@ -8533,6 +8533,24 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/",
                 "published": "Nov 30, 2021"
+            }
+        },
+        {
+            "_index": 475,
+            "uid": "4524582247bde97e",
+            "instance_type": "hpc6a.48xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/hpc6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-hpc6a-instances/",
+                "published": "Jan 10, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc6a-instance-optimized-for-high-performance-computing/",
+                "published": "Jan 10, 2022"
             }
         }
     ]
