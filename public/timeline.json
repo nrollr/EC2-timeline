@@ -1,7 +1,7 @@
 {
-    "release": "v1.4.5",
+    "release": "v1.4.6",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "January 11, 2022",
+    "published": "January 29, 2022",
     "instances": [
         {
             "_index": 1,
@@ -8551,6 +8551,114 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc6a-instance-optimized-for-high-performance-computing/",
                 "published": "Jan 10, 2022"
+            }
+        },
+        {
+            "_index": 476,
+            "uid": "5dfcff439eaa08d3",
+            "instance_type": "x2iezn.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x2i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-x2iezn/",
+                "published": "Jan 26, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2iezn-instances-powered-by-the-fastest-intel-xeon-scalable-cpu-for-memory-intensive-workloads/",
+                "published": "Jan 26, 2022"
+            }
+        },
+        {
+            "_index": 477,
+            "uid": "3c3897150a88da85",
+            "instance_type": "x2iezn.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x2i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-x2iezn/",
+                "published": "Jan 26, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2iezn-instances-powered-by-the-fastest-intel-xeon-scalable-cpu-for-memory-intensive-workloads/",
+                "published": "Jan 26, 2022"
+            }
+        },
+        {
+            "_index": 478,
+            "uid": "4b9df0d2e48fb38b",
+            "instance_type": "x2iezn.6xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x2i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-x2iezn/",
+                "published": "Jan 26, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2iezn-instances-powered-by-the-fastest-intel-xeon-scalable-cpu-for-memory-intensive-workloads/",
+                "published": "Jan 26, 2022"
+            }
+        },
+        {
+            "_index": 479,
+            "uid": "e7561e10486c515e",
+            "instance_type": "x2iezn.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x2i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-x2iezn/",
+                "published": "Jan 26, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2iezn-instances-powered-by-the-fastest-intel-xeon-scalable-cpu-for-memory-intensive-workloads/",
+                "published": "Jan 26, 2022"
+            }
+        },
+        {
+            "_index": 480,
+            "uid": "63387ec13e0bb725",
+            "instance_type": "x2iezn.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x2i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-x2iezn/",
+                "published": "Jan 26, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2iezn-instances-powered-by-the-fastest-intel-xeon-scalable-cpu-for-memory-intensive-workloads/",
+                "published": "Jan 26, 2022"
+            }
+        },
+        {
+            "_index": 481,
+            "uid": "cb4c35bba99ada72",
+            "instance_type": "x2iezn.metal",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x2i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-x2iezn/",
+                "published": "Jan 26, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2iezn-instances-powered-by-the-fastest-intel-xeon-scalable-cpu-for-memory-intensive-workloads/",
+                "published": "Jan 26, 2022"
             }
         }
     ]
