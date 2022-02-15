@@ -1,7 +1,7 @@
 {
-    "release": "v1.4.6",
+    "release": "v1.4.7",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "January 29, 2022",
+    "published": "February 15, 2022",
     "instances": [
         {
             "_index": 1,
@@ -8659,6 +8659,186 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2iezn-instances-powered-by-the-fastest-intel-xeon-scalable-cpu-for-memory-intensive-workloads/",
                 "published": "Jan 26, 2022"
+            }
+        },
+        {
+            "_index": 482,
+            "uid": "d9dd42e0ede0bacf",
+            "instance_type": "c6a.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-c6a-instances/",
+                "published": "Feb 14, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-compute-intensive-workloads/",
+                "published": "Feb 14, 2022"
+            }
+        },
+        {
+            "_index": 483,
+            "uid": "cbd229c43232258b",
+            "instance_type": "c6a.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-c6a-instances/",
+                "published": "Feb 14, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-compute-intensive-workloads/",
+                "published": "Feb 14, 2022"
+            }
+        },
+        {
+            "_index": 484,
+            "uid": "7211d38a5e9a15cf",
+            "instance_type": "c6a.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-c6a-instances/",
+                "published": "Feb 14, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-compute-intensive-workloads/",
+                "published": "Feb 14, 2022"
+            }
+        },
+        {
+            "_index": 485,
+            "uid": "a88d306bb3946c85",
+            "instance_type": "c6a.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-c6a-instances/",
+                "published": "Feb 14, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-compute-intensive-workloads/",
+                "published": "Feb 14, 2022"
+            }
+        },
+        {
+            "_index": 486,
+            "uid": "dc503f1fcabe45a2",
+            "instance_type": "c6a.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-c6a-instances/",
+                "published": "Feb 14, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-compute-intensive-workloads/",
+                "published": "Feb 14, 2022"
+            }
+        },
+        {
+            "_index": 487,
+            "uid": "9bb324655732b861",
+            "instance_type": "c6a.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-c6a-instances/",
+                "published": "Feb 14, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-compute-intensive-workloads/",
+                "published": "Feb 14, 2022"
+            }
+        },
+        {
+            "_index": 488,
+            "uid": "6d645e5f04299b64",
+            "instance_type": "c6a.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-c6a-instances/",
+                "published": "Feb 14, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-compute-intensive-workloads/",
+                "published": "Feb 14, 2022"
+            }
+        },
+        {
+            "_index": 489,
+            "uid": "8ec1a0bc254cf556",
+            "instance_type": "c6a.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-c6a-instances/",
+                "published": "Feb 14, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-compute-intensive-workloads/",
+                "published": "Feb 14, 2022"
+            }
+        },
+        {
+            "_index": 490,
+            "uid": "1d99c77afea43922",
+            "instance_type": "c6a.32xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-c6a-instances/",
+                "published": "Feb 14, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-compute-intensive-workloads/",
+                "published": "Feb 14, 2022"
+            }
+        },
+        {
+            "_index": 491,
+            "uid": "16c3d784202e999a",
+            "instance_type": "c6a.48xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-c6a-instances/",
+                "published": "Feb 14, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-compute-intensive-workloads/",
+                "published": "Feb 14, 2022"
             }
         }
     ]
