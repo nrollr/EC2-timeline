@@ -1,7 +1,7 @@
 {
-    "release": "v1.5.0",
+    "release": "v1.5.1",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "April 28, 2022",
+    "published": "May 22, 2022",
     "instances": [
         {
             "_index": 1,
@@ -7153,7 +7153,7 @@
             "_index": 398,
             "uid": "5e19aeba14795745",
             "instance_type": "x2gd.metal",
-            "instance_category": "Memory Optimized",
+            "instance_category": "Memory Optimized (bare metal)",
             "instance_generation": "Current generation",
             "release_month": "March",
             "release_year": 2021,
@@ -7981,7 +7981,7 @@
             "_index": 444,
             "uid": "8e9ac5d422b62380",
             "instance_type": "r6i.metal",
-            "instance_category": "Memory Optimized",
+            "instance_category": "Memory Optimized (bare metal)",
             "instance_generation": "Current generation",
             "release_month": "November",
             "release_year": 2021,
@@ -7999,7 +7999,7 @@
             "_index": 445,
             "uid": "2a8012bf91c079ae",
             "instance_type": "c6i.metal",
-            "instance_category": "Compute Optimized",
+            "instance_category": "Compute Optimized (bare metal)",
             "instance_generation": "Current generation",
             "release_month": "November",
             "release_year": 2021,
@@ -8017,7 +8017,7 @@
             "_index": 446,
             "uid": "a19af0e720e5f551",
             "instance_type": "m6i.metal",
-            "instance_category": "General Purpose",
+            "instance_category": "General Purpose (bare metal)",
             "instance_generation": "Current generation",
             "release_month": "November",
             "release_year": 2021,
@@ -8125,7 +8125,7 @@
             "_index": 452,
             "uid": "55d9bdfc98b30a9c",
             "instance_type": "g5g.metal",
-            "instance_category": "Accelerated Computing",
+            "instance_category": "Accelerated Computing (bare metal)",
             "instance_generation": "Current generation",
             "release_month": "November",
             "release_year": 2021,
@@ -8647,7 +8647,7 @@
             "_index": 481,
             "uid": "cb4c35bba99ada72",
             "instance_type": "x2iezn.metal",
-            "instance_category": "Memory Optimized",
+            "instance_category": "Memory Optimized (bare metal)",
             "instance_generation": "Current generation",
             "release_month": "January",
             "release_year": 2022,
@@ -9025,7 +9025,7 @@
             "_index": 502,
             "uid": "4758011f59878d68",
             "instance_type": "c6a.metal",
-            "instance_category": "Compute Optimized",
+            "instance_category": "Compute Optimized (bare metal)",
             "instance_generation": "Current generation",
             "release_month": "April",
             "release_year": 2022,
@@ -9043,7 +9043,7 @@
             "_index": 503,
             "uid": "c3c2cf945c7fe9e8",
             "instance_type": "m6a.metal",
-            "instance_category": "General Purpose",
+            "instance_category": "General Purpose (bare metal)",
             "instance_generation": "Current generation",
             "release_month": "April",
             "release_year": 2022,
@@ -9181,6 +9181,24 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-i4i-powered-by-intel-xeon-scalable-ice-lake-processors/",
                 "published": "Apr 27, 2022"
+            }
+        },
+        {
+            "_index": 511,
+            "uid": "d541d54e5dd5f69f",
+            "instance_type": "i4i.metal",
+            "instance_category": "Storage Optimized (bare metal)",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-i4i-metal-instances-now-available/",
+                "published": "May 16, 2022"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
