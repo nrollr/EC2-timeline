@@ -1,7 +1,7 @@
 {
-    "release": "v1.5.1",
+    "release": "v1.5.2",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "May 22, 2022",
+    "published": "May 24, 2022",
     "instances": [
         {
             "_index": 1,
@@ -9199,6 +9199,150 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 512,
+            "uid": "5d2abf3917308ee4",
+            "instance_type": "c7g.medium",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/",
+                "published": "May 23, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7g-instances-powered-by-aws-graviton3-processors/",
+                "published": "May 23, 2022"
+            }
+        },
+        {
+            "_index": 513,
+            "uid": "58e45583c3fed894",
+            "instance_type": "c7g.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/",
+                "published": "May 23, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7g-instances-powered-by-aws-graviton3-processors/",
+                "published": "May 23, 2022"
+            }
+        },
+        {
+            "_index": 514,
+            "uid": "85de8c5fcc7376d5",
+            "instance_type": "c7g.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/",
+                "published": "May 23, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7g-instances-powered-by-aws-graviton3-processors/",
+                "published": "May 23, 2022"
+            }
+        },
+        {
+            "_index": 515,
+            "uid": "a2bc09c156d9e355",
+            "instance_type": "c7g.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/",
+                "published": "May 23, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7g-instances-powered-by-aws-graviton3-processors/",
+                "published": "May 23, 2022"
+            }
+        },
+        {
+            "_index": 516,
+            "uid": "a435bb116d9dd669",
+            "instance_type": "c7g.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/",
+                "published": "May 23, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7g-instances-powered-by-aws-graviton3-processors/",
+                "published": "May 23, 2022"
+            }
+        },
+        {
+            "_index": 517,
+            "uid": "cfe5b777a0adf4de",
+            "instance_type": "c7g.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/",
+                "published": "May 23, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7g-instances-powered-by-aws-graviton3-processors/",
+                "published": "May 23, 2022"
+            }
+        },
+        {
+            "_index": 518,
+            "uid": "f53c7390f28d4071",
+            "instance_type": "c7g.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/",
+                "published": "May 23, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7g-instances-powered-by-aws-graviton3-processors/",
+                "published": "May 23, 2022"
+            }
+        },
+        {
+            "_index": 519,
+            "uid": "68b6bee579bde406",
+            "instance_type": "c7g.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/",
+                "published": "May 23, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7g-instances-powered-by-aws-graviton3-processors/",
+                "published": "May 23, 2022"
             }
         }
     ]
