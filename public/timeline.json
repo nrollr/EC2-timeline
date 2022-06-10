@@ -1,7 +1,7 @@
 {
-    "release": "v1.5.4",
+    "release": "v1.5.5",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "June 08, 2022",
+    "published": "June 10, 2022",
     "instances": [
         {
             "_index": 1,
@@ -9703,6 +9703,186 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6id-and-c6id-instances-with-up-to-7-6-tb-local-nvme-storage/",
                 "published": "May 26, 2022"
+            }
+        },
+        {
+            "_index": 540,
+            "uid": "e040917601b6dbf7",
+            "instance_type": "r6id.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/",
+                "published": "Jun 9, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/",
+                "published": "Jun 9, 2022"
+            }
+        },
+        {
+            "_index": 541,
+            "uid": "6b7f1be499f8f067",
+            "instance_type": "r6id.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/",
+                "published": "Jun 9, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/",
+                "published": "Jun 9, 2022"
+            }
+        },
+        {
+            "_index": 542,
+            "uid": "e46ba65a469f1503",
+            "instance_type": "r6id.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/",
+                "published": "Jun 9, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/",
+                "published": "Jun 9, 2022"
+            }
+        },
+        {
+            "_index": 543,
+            "uid": "188e5553a5a75c93",
+            "instance_type": "r6id.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/",
+                "published": "Jun 9, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/",
+                "published": "Jun 9, 2022"
+            }
+        },
+        {
+            "_index": 544,
+            "uid": "f5d728af0128fca2",
+            "instance_type": "r6id.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/",
+                "published": "Jun 9, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/",
+                "published": "Jun 9, 2022"
+            }
+        },
+        {
+            "_index": 545,
+            "uid": "fb94f1df2d8f21b3",
+            "instance_type": "r6id.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/",
+                "published": "Jun 9, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/",
+                "published": "Jun 9, 2022"
+            }
+        },
+        {
+            "_index": 546,
+            "uid": "48e2db8f2488e890",
+            "instance_type": "r6id.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/",
+                "published": "Jun 9, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/",
+                "published": "Jun 9, 2022"
+            }
+        },
+        {
+            "_index": 547,
+            "uid": "de608682ff227e65",
+            "instance_type": "r6id.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/",
+                "published": "Jun 9, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/",
+                "published": "Jun 9, 2022"
+            }
+        },
+        {
+            "_index": 548,
+            "uid": "b643f191b98ddcc6",
+            "instance_type": "r6id.32xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/",
+                "published": "Jun 9, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/",
+                "published": "Jun 9, 2022"
+            }
+        },
+        {
+            "_index": 549,
+            "uid": "a3ae7387e1eb0aad",
+            "instance_type": "r6id.metal",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/",
+                "published": "Jun 9, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/",
+                "published": "Jun 9, 2022"
             }
         }
     ]
