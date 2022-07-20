@@ -1,7 +1,7 @@
 {
-    "release": "v1.5.7",
+    "release": "v1.5.8",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "July 08, 2022",
+    "published": "July 20, 2022",
     "instances": [
         {
             "_index": 1,
@@ -9901,6 +9901,204 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m1-mac-instances/",
                 "published": "Jul 7, 2022"
+            }
+        },
+        {
+            "_index": 551,
+            "uid": "cbc2dc53ebe95d17",
+            "instance_type": "r6a.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/",
+                "published": "Jul 19, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Jul 19, 2022"
+            }
+        },
+        {
+            "_index": 552,
+            "uid": "c556991d037d20e9",
+            "instance_type": "r6a.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/",
+                "published": "Jul 19, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Jul 19, 2022"
+            }
+        },
+        {
+            "_index": 553,
+            "uid": "050c829de8d384fa",
+            "instance_type": "r6a.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/",
+                "published": "Jul 19, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Jul 19, 2022"
+            }
+        },
+        {
+            "_index": 554,
+            "uid": "763244602cdea35e",
+            "instance_type": "r6a.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/",
+                "published": "Jul 19, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Jul 19, 2022"
+            }
+        },
+        {
+            "_index": 555,
+            "uid": "0cbd51a463919b03",
+            "instance_type": "r6a.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/",
+                "published": "Jul 19, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Jul 19, 2022"
+            }
+        },
+        {
+            "_index": 556,
+            "uid": "1f63b65c774e224a",
+            "instance_type": "r6a.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/",
+                "published": "Jul 19, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Jul 19, 2022"
+            }
+        },
+        {
+            "_index": 557,
+            "uid": "288fdcb47161d41b",
+            "instance_type": "r6a.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/",
+                "published": "Jul 19, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Jul 19, 2022"
+            }
+        },
+        {
+            "_index": 558,
+            "uid": "f3e98c25af9d3308",
+            "instance_type": "r6a.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/",
+                "published": "Jul 19, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Jul 19, 2022"
+            }
+        },
+        {
+            "_index": 559,
+            "uid": "16e018ec2ae7f37a",
+            "instance_type": "r6a.32xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/",
+                "published": "Jul 19, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Jul 19, 2022"
+            }
+        },
+        {
+            "_index": 560,
+            "uid": "f229b44c273c57ad",
+            "instance_type": "r6a.48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/",
+                "published": "Jul 19, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Jul 19, 2022"
+            }
+        },
+        {
+            "_index": 561,
+            "uid": "0551603a79d763d2",
+            "instance_type": "r6a.metal",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/",
+                "published": "Jul 19, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Jul 19, 2022"
             }
         }
     ]
