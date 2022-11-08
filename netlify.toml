@@ -3,3 +3,6 @@ package = "@netlify/plugin-lighthouse"
 
 [plugins.inputs.settings]
 preset = "mobile"
+
+[[plugins.inputs.audits]]
+url = "https://instancetyp.es/"
