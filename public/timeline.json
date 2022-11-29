@@ -1,7 +1,7 @@
 {
-    "release": "v1.5.9",
+    "release": "v1.6.0",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "October 12, 2022",
+    "published": "November 29, 2022",
     "instances": [
         {
             "_index": 1,
@@ -10135,6 +10135,816 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-trn1-instances-for-high-performance-model-training-are-now-available/",
                 "published": "Oct 10, 2022"
+            }
+        },
+        {
+            "_index": 564,
+            "uid": "e28bac3a6bb20b4d",
+            "instance_type": "m6in.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 565,
+            "uid": "53f19fbe3cab3f34",
+            "instance_type": "m6in.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 566,
+            "uid": "a906e7f901292e81",
+            "instance_type": "m6in.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 567,
+            "uid": "6be95f572e1655bb",
+            "instance_type": "m6in.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 568,
+            "uid": "159bb0f0746a1d17",
+            "instance_type": "m6in.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 569,
+            "uid": "4eaf842ea0acaaf3",
+            "instance_type": "m6in.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 570,
+            "uid": "1814b1fa02b0f30a",
+            "instance_type": "m6in.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 571,
+            "uid": "a1e10ca0ed63db32",
+            "instance_type": "m6in.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 572,
+            "uid": "c9dae9acb907f80c",
+            "instance_type": "m6in.32xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 573,
+            "uid": "a5d4f47df9304267",
+            "instance_type": "m6idn.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 574,
+            "uid": "a8dbc2348e4b7c35",
+            "instance_type": "m6idn.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 575,
+            "uid": "0b45603c75741d12",
+            "instance_type": "m6idn.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 576,
+            "uid": "ab03e1089e73cc8e",
+            "instance_type": "m6idn.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 577,
+            "uid": "e9f75451e83ac24c",
+            "instance_type": "m6idn.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 578,
+            "uid": "5520c5bf9c89acf3",
+            "instance_type": "m6idn.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 579,
+            "uid": "d04a009005f75dea",
+            "instance_type": "m6idn.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 580,
+            "uid": "2d288083945c93ad",
+            "instance_type": "m6idn.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 581,
+            "uid": "3d8aefc4554dff2c",
+            "instance_type": "m6idn.32xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 582,
+            "uid": "afc257b50e427d9e",
+            "instance_type": "r6in.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 583,
+            "uid": "1ca3908c464cc3fa",
+            "instance_type": "r6in.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 584,
+            "uid": "c09002e1d79655ab",
+            "instance_type": "r6in.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 585,
+            "uid": "203a788e81774876",
+            "instance_type": "r6in.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 586,
+            "uid": "1e54e0f9eecf34ce",
+            "instance_type": "r6in.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 587,
+            "uid": "1c9d9444401144a3",
+            "instance_type": "r6in.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 588,
+            "uid": "acc0964e225c13fa",
+            "instance_type": "r6in.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 589,
+            "uid": "dbe6ab0e28c780ca",
+            "instance_type": "r6in.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 590,
+            "uid": "74b779c041fda105",
+            "instance_type": "r6in.32xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 591,
+            "uid": "6c157074ba561dd4",
+            "instance_type": "r6idn.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 592,
+            "uid": "a17837445be76381",
+            "instance_type": "r6idn.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 593,
+            "uid": "4a257b9d58764090",
+            "instance_type": "r6idn.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 594,
+            "uid": "cf1d6ffa819d6673",
+            "instance_type": "r6idn.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 595,
+            "uid": "55cc28be7ef33392",
+            "instance_type": "r6idn.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 596,
+            "uid": "a846a51f679a5260",
+            "instance_type": "r6idn.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 597,
+            "uid": "a63bcec1b5777a48",
+            "instance_type": "r6idn.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 598,
+            "uid": "2dc229feb177a85b",
+            "instance_type": "r6idn.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 599,
+            "uid": "e0748c162ede91c2",
+            "instance_type": "r6idn.32xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 600,
+            "uid": "0ff9e60a113d3fbf",
+            "instance_type": "c6in.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-c6in-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 601,
+            "uid": "2173fe4eee4f95e0",
+            "instance_type": "c6in.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-c6in-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 602,
+            "uid": "ccd6858f427374cd",
+            "instance_type": "c6in.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-c6in-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 603,
+            "uid": "f6fb9978e6fc7abc",
+            "instance_type": "c6in.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-c6in-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 604,
+            "uid": "51a993a67ec1d8a6",
+            "instance_type": "c6in.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-c6in-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 605,
+            "uid": "2ecb3cc547a7d1e5",
+            "instance_type": "c6in.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-c6in-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 606,
+            "uid": "718df2b3794f0f9b",
+            "instance_type": "c6in.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-c6in-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 607,
+            "uid": "61f1a186c495f5f2",
+            "instance_type": "c6in.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-c6in-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 608,
+            "uid": "b0227ae7e18442dc",
+            "instance_type": "c6in.32xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-c6in-instances/",
+                "published": "Nov 28, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
+                "published": "Nov 28, 2022"
             }
         }
     ]
