@@ -1,7 +1,7 @@
 {
-    "release": "v1.6.0",
+    "release": "v1.6.1",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "November 29, 2022",
+    "published": "November 30, 2022",
     "instances": [
         {
             "_index": 1,
@@ -8539,7 +8539,7 @@
             "_index": 475,
             "uid": "4524582247bde97e",
             "instance_type": "hpc6a.48xlarge",
-            "instance_category": "Compute Optimized",
+            "instance_category": "HPC Optimized",
             "instance_generation": "Current generation",
             "release_month": "January",
             "release_year": 2022,
@@ -10945,6 +10945,24 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/",
                 "published": "Nov 28, 2022"
+            }
+        },
+        {
+            "_index": 609,
+            "uid": "4a670b5a838a3cfc",
+            "instance_type": "hpc6id.32xlarge",
+            "instance_category": "HPC Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2022,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/hpc6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-amazon-ec2-hpc6id-instances/",
+                "published": "Nov 29, 2022"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc6id-instances-optimized-for-high-performance-computing/",
+                "published": "Nov 29, 2022"
             }
         }
     ]
