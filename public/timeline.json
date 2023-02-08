@@ -1,7 +1,7 @@
 {
-    "release": "v1.6.1",
+    "release": "v1.6.2",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "November 30, 2022",
+    "published": "February 08, 2023",
     "instances": [
         {
             "_index": 1,
@@ -10963,6 +10963,24 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc6id-instances-optimized-for-high-performance-computing/",
                 "published": "Nov 29, 2022"
+            }
+        },
+        {
+            "_index": 610,
+            "uid": "9bdf697f2cee3086",
+            "instance_type": "c7g.metal",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-c7g-metal-instances-available/",
+                "published": "Feb 6, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
