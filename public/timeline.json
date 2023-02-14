@@ -1,7 +1,7 @@
 {
-    "release": "v1.6.2",
+    "release": "v1.6.3",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "February 08, 2023",
+    "published": "February 14, 2023",
     "instances": [
         {
             "_index": 1,
@@ -10981,6 +10981,330 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 611,
+            "uid": "65460380b4a4a363",
+            "instance_type": "m7g.medium",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 612,
+            "uid": "03e7aaabf1597eb2",
+            "instance_type": "m7g.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 613,
+            "uid": "21699fe3ecdef6a2",
+            "instance_type": "m7g.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 614,
+            "uid": "ad2c9254bdc2c005",
+            "instance_type": "m7g.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 615,
+            "uid": "7fdba34059327ac3",
+            "instance_type": "m7g.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 616,
+            "uid": "fcdacf0ab3582162",
+            "instance_type": "m7g.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 617,
+            "uid": "ef0c717301109f47",
+            "instance_type": "m7g.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 618,
+            "uid": "d0226127db410fb3",
+            "instance_type": "m7g.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 619,
+            "uid": "e23f2e8d927fa6e0",
+            "instance_type": "m7g.metal",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 620,
+            "uid": "b6efdeddd11de3a3",
+            "instance_type": "r7g.medium",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 621,
+            "uid": "2993d3d4cbaf2c8a",
+            "instance_type": "r7g.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 622,
+            "uid": "9edd637ce5d60f27",
+            "instance_type": "r7g.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 623,
+            "uid": "8cb7c77699f88516",
+            "instance_type": "r7g.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 624,
+            "uid": "25f1c7437b19d556",
+            "instance_type": "r7g.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 625,
+            "uid": "d1003914331fb0ec",
+            "instance_type": "r7g.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 626,
+            "uid": "a7f69dfd0eafd53d",
+            "instance_type": "r7g.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 627,
+            "uid": "9fa9d53cca747e3d",
+            "instance_type": "r7g.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 628,
+            "uid": "066d3da9a5866c0b",
+            "instance_type": "r7g.metal",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/",
+                "published": "Feb 13, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
+                "published": "Feb 13, 2023"
             }
         }
     ]
