@@ -1,7 +1,7 @@
 {
-    "release": "v1.6.3",
+    "release": "v1.6.4",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "February 14, 2023",
+    "published": "March 22, 2023",
     "instances": [
         {
             "_index": 1,
@@ -11305,6 +11305,96 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/",
                 "published": "Feb 13, 2023"
+            }
+        },
+        {
+            "_index": 629,
+            "uid": "4b3b867f2e82152f",
+            "instance_type": "c6in.metal",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-c6in-m6in-m6idn-r6in-r6idn-metal-instances/",
+                "published": "Mar 21, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 630,
+            "uid": "7246eaa0f09f9d32",
+            "instance_type": "m6in.metal",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-c6in-m6in-m6idn-r6in-r6idn-metal-instances/",
+                "published": "Mar 21, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 631,
+            "uid": "3c40811fdbea3fc8",
+            "instance_type": "m6idn.metal",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-c6in-m6in-m6idn-r6in-r6idn-metal-instances/",
+                "published": "Mar 21, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 632,
+            "uid": "89d352fe437cd845",
+            "instance_type": "r6in.metal",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-c6in-m6in-m6idn-r6in-r6idn-metal-instances/",
+                "published": "Mar 21, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 633,
+            "uid": "d9d7cdf818657fa4",
+            "instance_type": "r6idn.metal",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r6i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-c6in-m6in-m6idn-r6in-r6idn-metal-instances/",
+                "published": "Mar 21, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
