@@ -1,7 +1,7 @@
 {
-    "release": "v1.6.5",
+    "release": "v1.6.6",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "April 16, 2023",
+    "published": "May 11, 2023",
     "instances": [
         {
             "_index": 1,
@@ -11485,6 +11485,114 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-inf2-instances-for-low-cost-high-performance-generative-ai-inference-are-now-generally-available/",
                 "published": "Apr 13, 2023"
+            }
+        },
+        {
+            "_index": 639,
+            "uid": "8af72f0c699d9b70",
+            "instance_type": "i4g.large",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-storage-optimized-instances/",
+                "published": "May 9, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-i4g-instances-graviton-processors-and-aws-nitro-ssds/",
+                "published": "May 9, 2023"
+            }
+        },
+        {
+            "_index": 640,
+            "uid": "151ed384909a811f",
+            "instance_type": "i4g.xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-storage-optimized-instances/",
+                "published": "May 9, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-i4g-instances-graviton-processors-and-aws-nitro-ssds/",
+                "published": "May 9, 2023"
+            }
+        },
+        {
+            "_index": 641,
+            "uid": "ae09b95ec9b122cd",
+            "instance_type": "i4g.2xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-storage-optimized-instances/",
+                "published": "May 9, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-i4g-instances-graviton-processors-and-aws-nitro-ssds/",
+                "published": "May 9, 2023"
+            }
+        },
+        {
+            "_index": 642,
+            "uid": "dd93769e177caee3",
+            "instance_type": "i4g.4xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-storage-optimized-instances/",
+                "published": "May 9, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-i4g-instances-graviton-processors-and-aws-nitro-ssds/",
+                "published": "May 9, 2023"
+            }
+        },
+        {
+            "_index": 643,
+            "uid": "7d2c8834ba6bb778",
+            "instance_type": "i4g.8xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-storage-optimized-instances/",
+                "published": "May 9, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-i4g-instances-graviton-processors-and-aws-nitro-ssds/",
+                "published": "May 9, 2023"
+            }
+        },
+        {
+            "_index": 644,
+            "uid": "756006afd7aa6be1",
+            "instance_type": "i4g.16xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i4g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-storage-optimized-instances/",
+                "published": "May 9, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-i4g-instances-graviton-processors-and-aws-nitro-ssds/",
+                "published": "May 9, 2023"
             }
         }
     ]
