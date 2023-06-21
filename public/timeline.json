@@ -1,7 +1,7 @@
 {
-    "release": "v1.6.6",
+    "release": "v1.6.7",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "May 11, 2023",
+    "published": "June 21, 2023",
     "instances": [
         {
             "_index": 1,
@@ -11593,6 +11593,204 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-i4g-instances-graviton-processors-and-aws-nitro-ssds/",
                 "published": "May 9, 2023"
+            }
+        },
+        {
+            "_index": 645,
+            "uid": "ccfdcd0ffc967cb2",
+            "instance_type": "hpc7g.4xlarge",
+            "instance_category": "HPC Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/hpc7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-hpc7g-instances/",
+                "published": "Jun 20, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc7g-instances-powered-by-aws-graviton3e-processors-optimized-for-high-performance-computing-workloads/",
+                "published": "Jun 20, 2023"
+            }
+        },
+        {
+            "_index": 646,
+            "uid": "e08d15c73d17d2b4",
+            "instance_type": "hpc7g.8xlarge",
+            "instance_category": "HPC Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/hpc7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-hpc7g-instances/",
+                "published": "Jun 20, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc7g-instances-powered-by-aws-graviton3e-processors-optimized-for-high-performance-computing-workloads/",
+                "published": "Jun 20, 2023"
+            }
+        },
+        {
+            "_index": 647,
+            "uid": "163187ca85082f0a",
+            "instance_type": "hpc7g.16xlarge",
+            "instance_category": "HPC Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/hpc7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-hpc7g-instances/",
+                "published": "Jun 20, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc7g-instances-powered-by-aws-graviton3e-processors-optimized-for-high-performance-computing-workloads/",
+                "published": "Jun 20, 2023"
+            }
+        },
+        {
+            "_index": 648,
+            "uid": "22e24966334b791e",
+            "instance_type": "c7gn.medium",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-c7gn-instances-general-availability/",
+                "published": "Jun 20, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7gn-instances-graviton3e-processors-and-up-to-200-gbps-network-bandwidth/",
+                "published": "Jun 20, 2023"
+            }
+        },
+        {
+            "_index": 649,
+            "uid": "82836c7c5adee4ba",
+            "instance_type": "c7gn.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-c7gn-instances-general-availability/",
+                "published": "Jun 20, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7gn-instances-graviton3e-processors-and-up-to-200-gbps-network-bandwidth/",
+                "published": "Jun 20, 2023"
+            }
+        },
+        {
+            "_index": 650,
+            "uid": "85c6e544b68884ca",
+            "instance_type": "c7gn.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-c7gn-instances-general-availability/",
+                "published": "Jun 20, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7gn-instances-graviton3e-processors-and-up-to-200-gbps-network-bandwidth/",
+                "published": "Jun 20, 2023"
+            }
+        },
+        {
+            "_index": 651,
+            "uid": "61cf88ab7cb976f2",
+            "instance_type": "c7gn.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-c7gn-instances-general-availability/",
+                "published": "Jun 20, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7gn-instances-graviton3e-processors-and-up-to-200-gbps-network-bandwidth/",
+                "published": "Jun 20, 2023"
+            }
+        },
+        {
+            "_index": 652,
+            "uid": "114444124e07d01c",
+            "instance_type": "c7gn.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-c7gn-instances-general-availability/",
+                "published": "Jun 20, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7gn-instances-graviton3e-processors-and-up-to-200-gbps-network-bandwidth/",
+                "published": "Jun 20, 2023"
+            }
+        },
+        {
+            "_index": 653,
+            "uid": "5933e48927975ca3",
+            "instance_type": "c7gn.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-c7gn-instances-general-availability/",
+                "published": "Jun 20, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7gn-instances-graviton3e-processors-and-up-to-200-gbps-network-bandwidth/",
+                "published": "Jun 20, 2023"
+            }
+        },
+        {
+            "_index": 654,
+            "uid": "964b6fc85f1b707f",
+            "instance_type": "c7gn.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-c7gn-instances-general-availability/",
+                "published": "Jun 20, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7gn-instances-graviton3e-processors-and-up-to-200-gbps-network-bandwidth/",
+                "published": "Jun 20, 2023"
+            }
+        },
+        {
+            "_index": 655,
+            "uid": "b83b8a996456af04",
+            "instance_type": "c7gn.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-c7gn-instances-general-availability/",
+                "published": "Jun 20, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7gn-instances-graviton3e-processors-and-up-to-200-gbps-network-bandwidth/",
+                "published": "Jun 20, 2023"
             }
         }
     ]
