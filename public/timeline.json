@@ -1,7 +1,7 @@
 {
-    "release": "v1.6.7",
+    "release": "v1.6.8",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "June 21, 2023",
+    "published": "July 28, 2023",
     "instances": [
         {
             "_index": 1,
@@ -11791,6 +11791,456 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7gn-instances-graviton3e-processors-and-up-to-200-gbps-network-bandwidth/",
                 "published": "Jun 20, 2023"
+            }
+        },
+        {
+            "_index": 656,
+            "uid": "fc643d6d501d0f87",
+            "instance_type": "p5.48xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/p5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-p5-instances-generative-ai-hpc-generally-available/",
+                "published": "Jul 26, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-p5-instances-powered-by-nvidia-h100-tensor-core-gpus-for-accelerating-generative-ai-and-hpc-applications/",
+                "published": "Jul 26, 2023"
+            }
+        },
+        {
+            "_index": 657,
+            "uid": "f6374b3e6abc101d",
+            "instance_type": "c7gd.medium",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 658,
+            "uid": "4beb2af5fbc01a5e",
+            "instance_type": "c7gd.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 659,
+            "uid": "fbb0c3e6fde7eaa8",
+            "instance_type": "c7gd.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 660,
+            "uid": "322efdea20867dc0",
+            "instance_type": "c7gd.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 661,
+            "uid": "bc0451c3d0aface7",
+            "instance_type": "c7gd.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 662,
+            "uid": "19bd25578e6d8988",
+            "instance_type": "c7gd.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 663,
+            "uid": "4325e0939d933a96",
+            "instance_type": "c7gd.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 664,
+            "uid": "bff337750659630a",
+            "instance_type": "c7gd.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 665,
+            "uid": "092875e1edcc2aac",
+            "instance_type": "m7gd.medium",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 666,
+            "uid": "ce310e26c5030e0e",
+            "instance_type": "m7gd.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 667,
+            "uid": "9abd8be7da91b359",
+            "instance_type": "m7gd.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 668,
+            "uid": "011ee667a150d3ca",
+            "instance_type": "m7gd.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 669,
+            "uid": "72bd6281fcf65f48",
+            "instance_type": "m7gd.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 670,
+            "uid": "bdcfadd569cb0b42",
+            "instance_type": "m7gd.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 671,
+            "uid": "946badaf6f778e50",
+            "instance_type": "m7gd.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 672,
+            "uid": "3606e29059f2aa0d",
+            "instance_type": "m7gd.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 673,
+            "uid": "4a12eb9a97256e0e",
+            "instance_type": "r7gd.medium",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 674,
+            "uid": "7c151886d8e06f53",
+            "instance_type": "r7gd.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 675,
+            "uid": "fa709e9550b1c8c6",
+            "instance_type": "r7gd.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 676,
+            "uid": "7d57641ce3d99feb",
+            "instance_type": "r7gd.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 677,
+            "uid": "012a03addecd37f9",
+            "instance_type": "r7gd.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 678,
+            "uid": "c837e6634bf33758",
+            "instance_type": "r7gd.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 679,
+            "uid": "1d51ac47a8f5fdcf",
+            "instance_type": "r7gd.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 680,
+            "uid": "d39006b41502581b",
+            "instance_type": "r7gd.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": null,
+                "published": null
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
+                "published": "Jul 27, 2023"
             }
         }
     ]
