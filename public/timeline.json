@@ -1,7 +1,7 @@
 {
-    "release": "v1.6.9",
+    "release": "v1.7.0",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "July 30, 2023",
+    "published": "August 03, 2023",
     "instances": [
         {
             "_index": 1,
@@ -12241,6 +12241,258 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/",
                 "published": "Jul 27, 2023"
+            }
+        },
+        {
+            "_index": 681,
+            "uid": "5af77d34e9749f84",
+            "instance_type": "m7i-flex.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/",
+                "published": "Aug 2, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-general-purpose-amazon-ec2-instances-m7i-flex-and-m7i/",
+                "published": "Aug 2, 2023"
+            }
+        },
+        {
+            "_index": 682,
+            "uid": "fdf46dff529c8414",
+            "instance_type": "m7i-flex.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/",
+                "published": "Aug 2, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-general-purpose-amazon-ec2-instances-m7i-flex-and-m7i/",
+                "published": "Aug 2, 2023"
+            }
+        },
+        {
+            "_index": 683,
+            "uid": "ab00526f1e215f8a",
+            "instance_type": "m7i-flex.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/",
+                "published": "Aug 2, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-general-purpose-amazon-ec2-instances-m7i-flex-and-m7i/",
+                "published": "Aug 2, 2023"
+            }
+        },
+        {
+            "_index": 684,
+            "uid": "300983516d1d5a81",
+            "instance_type": "m7i-flex.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/",
+                "published": "Aug 2, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-general-purpose-amazon-ec2-instances-m7i-flex-and-m7i/",
+                "published": "Aug 2, 2023"
+            }
+        },
+        {
+            "_index": 685,
+            "uid": "aa263f0c4cf35427",
+            "instance_type": "m7i-flex.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/",
+                "published": "Aug 2, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-general-purpose-amazon-ec2-instances-m7i-flex-and-m7i/",
+                "published": "Aug 2, 2023"
+            }
+        },
+        {
+            "_index": 686,
+            "uid": "69014cd2ba193112",
+            "instance_type": "m7i.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/",
+                "published": "Aug 2, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-general-purpose-amazon-ec2-instances-m7i-flex-and-m7i/",
+                "published": "Aug 2, 2023"
+            }
+        },
+        {
+            "_index": 687,
+            "uid": "4d0352d2c4c1338e",
+            "instance_type": "m7i.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/",
+                "published": "Aug 2, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-general-purpose-amazon-ec2-instances-m7i-flex-and-m7i/",
+                "published": "Aug 2, 2023"
+            }
+        },
+        {
+            "_index": 688,
+            "uid": "7c7106cfea35ee86",
+            "instance_type": "m7i.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/",
+                "published": "Aug 2, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-general-purpose-amazon-ec2-instances-m7i-flex-and-m7i/",
+                "published": "Aug 2, 2023"
+            }
+        },
+        {
+            "_index": 689,
+            "uid": "9169818ae9dcb9ff",
+            "instance_type": "m7i.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/",
+                "published": "Aug 2, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-general-purpose-amazon-ec2-instances-m7i-flex-and-m7i/",
+                "published": "Aug 2, 2023"
+            }
+        },
+        {
+            "_index": 690,
+            "uid": "fb404fb5ced479fa",
+            "instance_type": "m7i.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/",
+                "published": "Aug 2, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-general-purpose-amazon-ec2-instances-m7i-flex-and-m7i/",
+                "published": "Aug 2, 2023"
+            }
+        },
+        {
+            "_index": 691,
+            "uid": "b5679dccd751156b",
+            "instance_type": "m7i.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/",
+                "published": "Aug 2, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-general-purpose-amazon-ec2-instances-m7i-flex-and-m7i/",
+                "published": "Aug 2, 2023"
+            }
+        },
+        {
+            "_index": 692,
+            "uid": "6564439d9e4f7df4",
+            "instance_type": "m7i.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/",
+                "published": "Aug 2, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-general-purpose-amazon-ec2-instances-m7i-flex-and-m7i/",
+                "published": "Aug 2, 2023"
+            }
+        },
+        {
+            "_index": 693,
+            "uid": "b0379b2916b4ba4a",
+            "instance_type": "m7i.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/",
+                "published": "Aug 2, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-general-purpose-amazon-ec2-instances-m7i-flex-and-m7i/",
+                "published": "Aug 2, 2023"
+            }
+        },
+        {
+            "_index": 694,
+            "uid": "2bef209c77a75c18",
+            "instance_type": "m7i.48xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/",
+                "published": "Aug 2, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-general-purpose-amazon-ec2-instances-m7i-flex-and-m7i/",
+                "published": "Aug 2, 2023"
             }
         }
     ]
