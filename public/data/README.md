@@ -10,3 +10,7 @@ Data related to the content of [https://instancetyp.es](https://instancetyp.es) 
 Additionally `.csv` and `.sql` file formats are available within this directory:
 * [timeline.csv](https://github.com/nrollr/ec2-timeline/blob/master/public/data/timeline.csv)
 * [timeline.sql](https://github.com/nrollr/ec2-timeline/blob/master/public/data/timeline.sql)
+
+#### Instance Ids
+
+the The indexation/hash of new instance type is done through [a small python script using the hashlib library](https://gist.github.com/nrollr/cb678d4220f5226ee57480fb18f4f3a4).
