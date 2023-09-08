@@ -1,7 +1,7 @@
 {
-    "release": "v1.7.2",
+    "release": "v1.7.3",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "August 18, 2023",
+    "published": "September 8, 2023",
     "instances": [
         {
             "_index": 1,
@@ -12781,6 +12781,186 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc7a-instances-powered-by-4th-gen-amd-epyc-processors-optimized-for-high-performance-computing/",
                 "published": "Aug 17, 2023"
+            }
+        },
+        {
+            "_index": 711,
+            "uid": "782cc1321e4cba74",
+            "instance_type": "r7iz.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7iz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7iz-instances/",
+                "published": "Sep 7, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7iz-instances-memory-optimized-for-high-cpu-performance-memory-intensive-workloads/",
+                "published": "Sep 7, 2023"
+            }
+        },
+        {
+            "_index": 712,
+            "uid": "f4f0f93c6a25e4c8",
+            "instance_type": "r7iz.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7iz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7iz-instances/",
+                "published": "Sep 7, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7iz-instances-memory-optimized-for-high-cpu-performance-memory-intensive-workloads/",
+                "published": "Sep 7, 2023"
+            }
+        },
+        {
+            "_index": 713,
+            "uid": "e767a89262e6d99c",
+            "instance_type": "r7iz.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7iz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7iz-instances/",
+                "published": "Sep 7, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7iz-instances-memory-optimized-for-high-cpu-performance-memory-intensive-workloads/",
+                "published": "Sep 7, 2023"
+            }
+        },
+        {
+            "_index": 714,
+            "uid": "db0847bb6171cebc",
+            "instance_type": "r7iz.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7iz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7iz-instances/",
+                "published": "Sep 7, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7iz-instances-memory-optimized-for-high-cpu-performance-memory-intensive-workloads/",
+                "published": "Sep 7, 2023"
+            }
+        },
+        {
+            "_index": 715,
+            "uid": "634c2677e90b5ea3",
+            "instance_type": "r7iz.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7iz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7iz-instances/",
+                "published": "Sep 7, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7iz-instances-memory-optimized-for-high-cpu-performance-memory-intensive-workloads/",
+                "published": "Sep 7, 2023"
+            }
+        },
+        {
+            "_index": 716,
+            "uid": "d484d53876f54657",
+            "instance_type": "r7iz.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7iz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7iz-instances/",
+                "published": "Sep 7, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7iz-instances-memory-optimized-for-high-cpu-performance-memory-intensive-workloads/",
+                "published": "Sep 7, 2023"
+            }
+        },
+        {
+            "_index": 717,
+            "uid": "f8acd882c199de3f",
+            "instance_type": "r7iz.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7iz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7iz-instances/",
+                "published": "Sep 7, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7iz-instances-memory-optimized-for-high-cpu-performance-memory-intensive-workloads/",
+                "published": "Sep 7, 2023"
+            }
+        },
+        {
+            "_index": 718,
+            "uid": "e1c97420edd02f66",
+            "instance_type": "r7iz.32xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7iz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7iz-instances/",
+                "published": "Sep 7, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7iz-instances-memory-optimized-for-high-cpu-performance-memory-intensive-workloads/",
+                "published": "Sep 7, 2023"
+            }
+        },
+        {
+            "_index": 719,
+            "uid": "096b8d7239839a47",
+            "instance_type": "r7iz.metal-16xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7iz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7iz-instances/",
+                "published": "Sep 7, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7iz-instances-memory-optimized-for-high-cpu-performance-memory-intensive-workloads/",
+                "published": "Sep 7, 2023"
+            }
+        },
+        {
+            "_index": 720,
+            "uid": "4734f5c07fd1405b",
+            "instance_type": "r7iz.metal-32xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7iz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7iz-instances/",
+                "published": "Sep 7, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7iz-instances-memory-optimized-for-high-cpu-performance-memory-intensive-workloads/",
+                "published": "Sep 7, 2023"
             }
         }
     ]
