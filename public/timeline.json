@@ -1,7 +1,7 @@
 {
-    "release": "v1.7.3",
+    "release": "v1.7.4",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "September 8, 2023",
+    "published": "September 18, 2023",
     "instances": [
         {
             "_index": 1,
@@ -12961,6 +12961,204 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7iz-instances-memory-optimized-for-high-cpu-performance-memory-intensive-workloads/",
                 "published": "Sep 7, 2023"
+            }
+        },
+        {
+            "_index": 721,
+            "uid": "32b136d4e0c1b3e4",
+            "instance_type": "r7a.medium",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/memory-optimized-amazon-ec2-r7a-instances/",
+                "published": "Sep 12, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7a-instances-powered-by-4th-gen-amd-epyc-processors-for-memory-optimized-workloads/",
+                "published": "Sep 11, 2023"
+            }
+        },
+        {
+            "_index": 722,
+            "uid": "247adad71e766f7b",
+            "instance_type": "r7a.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/memory-optimized-amazon-ec2-r7a-instances/",
+                "published": "Sep 12, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7a-instances-powered-by-4th-gen-amd-epyc-processors-for-memory-optimized-workloads/",
+                "published": "Sep 11, 2023"
+            }
+        },
+        {
+            "_index": 723,
+            "uid": "976e2ba8dd34b8d3",
+            "instance_type": "r7a.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/memory-optimized-amazon-ec2-r7a-instances/",
+                "published": "Sep 12, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7a-instances-powered-by-4th-gen-amd-epyc-processors-for-memory-optimized-workloads/",
+                "published": "Sep 11, 2023"
+            }
+        },
+        {
+            "_index": 724,
+            "uid": "20ecb3f7b3fa11a5",
+            "instance_type": "r7a.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/memory-optimized-amazon-ec2-r7a-instances/",
+                "published": "Sep 12, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7a-instances-powered-by-4th-gen-amd-epyc-processors-for-memory-optimized-workloads/",
+                "published": "Sep 11, 2023"
+            }
+        },
+        {
+            "_index": 725,
+            "uid": "a166bf681d2d9be2",
+            "instance_type": "r7a.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/memory-optimized-amazon-ec2-r7a-instances/",
+                "published": "Sep 12, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7a-instances-powered-by-4th-gen-amd-epyc-processors-for-memory-optimized-workloads/",
+                "published": "Sep 11, 2023"
+            }
+        },
+        {
+            "_index": 726,
+            "uid": "8c0b9067efa269dd",
+            "instance_type": "r7a.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/memory-optimized-amazon-ec2-r7a-instances/",
+                "published": "Sep 12, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7a-instances-powered-by-4th-gen-amd-epyc-processors-for-memory-optimized-workloads/",
+                "published": "Sep 11, 2023"
+            }
+        },
+        {
+            "_index": 727,
+            "uid": "b1fc892d139a8dba",
+            "instance_type": "r7a.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/memory-optimized-amazon-ec2-r7a-instances/",
+                "published": "Sep 12, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7a-instances-powered-by-4th-gen-amd-epyc-processors-for-memory-optimized-workloads/",
+                "published": "Sep 11, 2023"
+            }
+        },
+        {
+            "_index": 728,
+            "uid": "612ca6a3f3215d61",
+            "instance_type": "r7a.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/memory-optimized-amazon-ec2-r7a-instances/",
+                "published": "Sep 12, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7a-instances-powered-by-4th-gen-amd-epyc-processors-for-memory-optimized-workloads/",
+                "published": "Sep 11, 2023"
+            }
+        },
+        {
+            "_index": 729,
+            "uid": "6fba2027a3ee75a0",
+            "instance_type": "r7a.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/memory-optimized-amazon-ec2-r7a-instances/",
+                "published": "Sep 12, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7a-instances-powered-by-4th-gen-amd-epyc-processors-for-memory-optimized-workloads/",
+                "published": "Sep 11, 2023"
+            }
+        },
+        {
+            "_index": 730,
+            "uid": "5f72f4abd61c4602",
+            "instance_type": "r7a.32xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/memory-optimized-amazon-ec2-r7a-instances/",
+                "published": "Sep 12, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7a-instances-powered-by-4th-gen-amd-epyc-processors-for-memory-optimized-workloads/",
+                "published": "Sep 11, 2023"
+            }
+        },
+        {
+            "_index": 731,
+            "uid": "ee3d8e08192c23a3",
+            "instance_type": "r7a.48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/memory-optimized-amazon-ec2-r7a-instances/",
+                "published": "Sep 12, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7a-instances-powered-by-4th-gen-amd-epyc-processors-for-memory-optimized-workloads/",
+                "published": "Sep 11, 2023"
             }
         }
     ]
