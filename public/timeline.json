@@ -1,5 +1,5 @@
 {
-    "release": "v1.7.4",
+    "release": "v1.7.5",
     "origin": "https://instancetyp.es/timeline.json",
     "published": "September 18, 2023",
     "instances": [
@@ -13159,6 +13159,168 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7a-instances-powered-by-4th-gen-amd-epyc-processors-for-memory-optimized-workloads/",
                 "published": "Sep 11, 2023"
+            }
+        },
+        {
+            "_index": 732,
+            "uid": "c1c4311d929fcba5",
+            "instance_type": "c7i.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c7i-instances/",
+                "published": "Sep 14, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 733,
+            "uid": "372d0fe347654d6b",
+            "instance_type": "c7i.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c7i-instances/",
+                "published": "Sep 14, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 734,
+            "uid": "2582257f0c8e2224",
+            "instance_type": "c7i.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c7i-instances/",
+                "published": "Sep 14, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 735,
+            "uid": "d10c9dfcc1b8d803",
+            "instance_type": "c7i.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c7i-instances/",
+                "published": "Sep 14, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 736,
+            "uid": "f312ffc31553ae80",
+            "instance_type": "c7i.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c7i-instances/",
+                "published": "Sep 14, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 737,
+            "uid": "475263cb05e9a64f",
+            "instance_type": "c7i.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c7i-instances/",
+                "published": "Sep 14, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 738,
+            "uid": "6827053b76b58c51",
+            "instance_type": "c7i.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c7i-instances/",
+                "published": "Sep 14, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 739,
+            "uid": "7b8f8801f001be88",
+            "instance_type": "c7i.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c7i-instances/",
+                "published": "Sep 14, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 740,
+            "uid": "1343a006dadca43b",
+            "instance_type": "c7i.48xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c7i-instances/",
+                "published": "Sep 14, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
