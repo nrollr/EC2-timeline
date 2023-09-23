@@ -1,7 +1,7 @@
 {
-    "release": "v1.7.5",
+    "release": "v1.7.6",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "September 18, 2023",
+    "published": "September 23, 2023",
     "instances": [
         {
             "_index": 1,
@@ -13321,6 +13321,24 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 741,
+            "uid": "201d34bc45a16b02",
+            "instance_type": "mac2-m2pro.metal",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/mac/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-m2-pro-mac-instances-macos/",
+                "published": "Sep 19, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m2-pro-mac-instances-built-on-apple-silicon-m2-pro-mac-mini-computers/",
+                "published": "Sep 19, 2023"
             }
         }
     ]
