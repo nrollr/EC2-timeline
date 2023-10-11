@@ -1,11 +1,12 @@
+/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ['./public/index.html'],
   theme: {
     extend: {
       width: {
-       0.1 : "0.1rem",
+        0.1: "0.1rem",
       },
-			colors: {
+      colors: {
         aws: {
           100: "#232f3e",
           200: "#1e73be",
@@ -14,8 +15,8 @@ module.exports = {
           100: "#dbdbdb",
           200: "#3298dc",
         },
-			},
-		},
+      },
+    },
   },
   variants: {
     extend: {},
