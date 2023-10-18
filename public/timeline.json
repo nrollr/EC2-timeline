@@ -1,7 +1,7 @@
 {
-    "release": "v1.7.7",
+    "release": "v1.7.8",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "October 07, 2023",
+    "published": "October 18, 2023",
     "instances": [
         {
             "_index": 1,
@@ -13555,6 +13555,168 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7a-instances-powered-by-4th-gen-amd-epyc-processors-for-compute-optimized-workloads/",
                 "published": "Oct 4, 2023"
+            }
+        },
+        {
+            "_index": 754,
+            "uid": "6a9570ecc7ef8360",
+            "instance_type": "r7i.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-r7i-instances/",
+                "published": "Oct 16, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-memory-optimized-amazon-ec2-instances-r7i/",
+                "published": "Oct 16, 2023"
+            }
+        },
+        {
+            "_index": 755,
+            "uid": "6445200b428d7079",
+            "instance_type": "r7i.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-r7i-instances/",
+                "published": "Oct 16, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-memory-optimized-amazon-ec2-instances-r7i/",
+                "published": "Oct 16, 2023"
+            }
+        },
+        {
+            "_index": 756,
+            "uid": "0764ecf659ce5138",
+            "instance_type": "r7i.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-r7i-instances/",
+                "published": "Oct 16, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-memory-optimized-amazon-ec2-instances-r7i/",
+                "published": "Oct 16, 2023"
+            }
+        },
+        {
+            "_index": 757,
+            "uid": "803fd321308a3a40",
+            "instance_type": "r7i.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-r7i-instances/",
+                "published": "Oct 16, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-memory-optimized-amazon-ec2-instances-r7i/",
+                "published": "Oct 16, 2023"
+            }
+        },
+        {
+            "_index": 758,
+            "uid": "1585c308aa7a605c",
+            "instance_type": "r7i.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-r7i-instances/",
+                "published": "Oct 16, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-memory-optimized-amazon-ec2-instances-r7i/",
+                "published": "Oct 16, 2023"
+            }
+        },
+        {
+            "_index": 759,
+            "uid": "24b893938a2791af",
+            "instance_type": "r7i.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-r7i-instances/",
+                "published": "Oct 16, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-memory-optimized-amazon-ec2-instances-r7i/",
+                "published": "Oct 16, 2023"
+            }
+        },
+        {
+            "_index": 760,
+            "uid": "5d116720664b398a",
+            "instance_type": "r7i.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-r7i-instances/",
+                "published": "Oct 16, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-memory-optimized-amazon-ec2-instances-r7i/",
+                "published": "Oct 16, 2023"
+            }
+        },
+        {
+            "_index": 761,
+            "uid": "6c3ab22793ec311c",
+            "instance_type": "r7i.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-r7i-instances/",
+                "published": "Oct 16, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-memory-optimized-amazon-ec2-instances-r7i/",
+                "published": "Oct 16, 2023"
+            }
+        },
+        {
+            "_index": 762,
+            "uid": "994c6eb71f173107",
+            "instance_type": "r7i.48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-r7i-instances/",
+                "published": "Oct 16, 2023"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-seventh-generation-memory-optimized-amazon-ec2-instances-r7i/",
+                "published": "Oct 16, 2023"
             }
         }
     ]
