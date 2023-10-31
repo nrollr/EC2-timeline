@@ -7,7 +7,7 @@
     "build:css": "npx tailwindcss -i ./build/tailwind.css -o ./public/assets/css/style.min.css --watch --minify"
   },
   "dependencies": {
-    "tailwindcss": "^3.3.3"
+    "tailwindcss": "^3.3.5"
   },
   "repository": {
     "type": "git",
