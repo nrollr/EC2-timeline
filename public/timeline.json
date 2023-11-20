@@ -1,7 +1,7 @@
 {
-    "release": "v1.7.9",
+    "release": "v1.8.0",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "October 31, 2023",
+    "published": "November 20, 2023",
     "instances": [
         {
             "_index": 1,
@@ -13857,6 +13857,24 @@
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2023/10/new-amazon-ec2-bare-metal-instances/",
                 "published": "Oct 30, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 771,
+            "uid": "57a83102c15642dc",
+            "instance_type": "dl2q.24xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2023,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/dl2q/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-dl2q-instances/",
+                "published": "Nov 15, 2023"
             },
             "blog_post": {
                 "url": null,
