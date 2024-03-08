@@ -1,7 +1,7 @@
 {
-    "release": "v1.8.0",
+    "release": "v1.8.1",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "November 20, 2023",
+    "published": "March 8, 2024",
     "instances": [
         {
             "_index": 1,
@@ -13875,6 +13875,60 @@
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-dl2q-instances/",
                 "published": "Nov 15, 2023"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 772,
+            "uid": "de83ee7d9de79592",
+            "instance_type": "c7gd.metal",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-c7gd-m7gd-r7gd-metal-instances/",
+                "published": "Mar 6, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 773,
+            "uid": "14441e4b7740d10e",
+            "instance_type": "m7gd.metal",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-c7gd-m7gd-r7gd-metal-instances/",
+                "published": "Mar 6, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 774,
+            "uid": "3e43a0ddf1c5e285",
+            "instance_type": "r7gd.metal",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-c7gd-m7gd-r7gd-metal-instances/",
+                "published": "Mar 6, 2024"
             },
             "blog_post": {
                 "url": null,
