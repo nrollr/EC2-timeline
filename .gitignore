@@ -19,3 +19,6 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+build
+build/hashlib.xlsx
+build/json_file.json

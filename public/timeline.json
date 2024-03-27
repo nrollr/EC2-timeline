@@ -1,7 +1,7 @@
 {
-    "release": "v1.8.1",
+    "release": "v1.8.2",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "March 8, 2024",
+    "published": "March 27, 2024",
     "instances": [
         {
             "_index": 1,
@@ -13929,6 +13929,24 @@
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-c7gd-m7gd-r7gd-metal-instances/",
                 "published": "Mar 6, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 775,
+            "uid": "3c6599aa9b6a18ec",
+            "instance_type": "c7gn.metal",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-c7gn-metal-instance-available/",
+                "published": "Mar 26, 2024"
             },
             "blog_post": {
                 "url": null,
