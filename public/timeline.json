@@ -1,7 +1,7 @@
 {
-    "release": "v1.8.2",
+    "release": "v1.8.3",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "March 27, 2024",
+    "published": "April 11, 2024",
     "instances": [
         {
             "_index": 1,
@@ -13947,6 +13947,186 @@
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-c7gn-metal-instance-available/",
                 "published": "Mar 26, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 776,
+            "uid": "c0e868a16d7ca2d6",
+            "instance_type": "g6.xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/04/general-availability-amazon-ec2-g6-instances/",
+                "published": "Apr 4, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 777,
+            "uid": "ab2182877dabd7c1",
+            "instance_type": "g6.2xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/04/general-availability-amazon-ec2-g6-instances/",
+                "published": "Apr 4, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 778,
+            "uid": "1b50bab8a1070a44",
+            "instance_type": "g6.4xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/04/general-availability-amazon-ec2-g6-instances/",
+                "published": "Apr 4, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 779,
+            "uid": "1b33e26003095fe9",
+            "instance_type": "g6.8xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/04/general-availability-amazon-ec2-g6-instances/",
+                "published": "Apr 4, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 780,
+            "uid": "4c2de41dbb2b5120",
+            "instance_type": "g6.16xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/04/general-availability-amazon-ec2-g6-instances/",
+                "published": "Apr 4, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 781,
+            "uid": "27b0dcb3f6452f5e",
+            "instance_type": "gr6.4xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/04/general-availability-amazon-ec2-g6-instances/",
+                "published": "Apr 4, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 782,
+            "uid": "2a1e28c6aec54cc9",
+            "instance_type": "gr6.8xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/04/general-availability-amazon-ec2-g6-instances/",
+                "published": "Apr 4, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 783,
+            "uid": "e8d38e78b8e5c628",
+            "instance_type": "g6.12xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/04/general-availability-amazon-ec2-g6-instances/",
+                "published": "Apr 4, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 784,
+            "uid": "a91e72a00f4413c1",
+            "instance_type": "g6.24xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/04/general-availability-amazon-ec2-g6-instances/",
+                "published": "Apr 4, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 785,
+            "uid": "afe1a997d82a1f01",
+            "instance_type": "g6.48xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/04/general-availability-amazon-ec2-g6-instances/",
+                "published": "Apr 4, 2024"
             },
             "blog_post": {
                 "url": null,
