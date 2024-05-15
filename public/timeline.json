@@ -1,7 +1,7 @@
 {
-    "release": "v1.8.3",
+    "release": "v1.8.4",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "April 11, 2024",
+    "published": "May 14, 2024",
     "instances": [
         {
             "_index": 1,
@@ -14131,6 +14131,96 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 786,
+            "uid": "f2008870880c6ae5",
+            "instance_type": "c7i-flex.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-c7i-flex-instances/",
+                "published": "May 14, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-compute-optimized-c7i-flex-amazon-ec2-flex-instances/",
+                "published": "May 14, 2024"
+            }
+        },
+        {
+            "_index": 787,
+            "uid": "6419b53e544ed2c2",
+            "instance_type": "c7i-flex.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-c7i-flex-instances/",
+                "published": "May 14, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-compute-optimized-c7i-flex-amazon-ec2-flex-instances/",
+                "published": "May 14, 2024"
+            }
+        },
+        {
+            "_index": 788,
+            "uid": "00f6f17a9755f5ef",
+            "instance_type": "c7i-flex.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-c7i-flex-instances/",
+                "published": "May 14, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-compute-optimized-c7i-flex-amazon-ec2-flex-instances/",
+                "published": "May 14, 2024"
+            }
+        },
+        {
+            "_index": 789,
+            "uid": "6b9b5b69f335ee19",
+            "instance_type": "c7i-flex.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-c7i-flex-instances/",
+                "published": "May 14, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-compute-optimized-c7i-flex-amazon-ec2-flex-instances/",
+                "published": "May 14, 2024"
+            }
+        },
+        {
+            "_index": 790,
+            "uid": "9d90a27df78d8886",
+            "instance_type": "c7i-flex.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-c7i-flex-instances/",
+                "published": "May 14, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-compute-optimized-c7i-flex-amazon-ec2-flex-instances/",
+                "published": "May 14, 2024"
             }
         }
     ]
