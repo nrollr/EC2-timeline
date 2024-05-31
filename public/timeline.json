@@ -1,7 +1,7 @@
 {
-    "release": "v1.8.4",
+    "release": "v1.8.5",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "May 14, 2024",
+    "published": "May 31, 2024",
     "instances": [
         {
             "_index": 1,
@@ -14221,6 +14221,78 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-compute-optimized-c7i-flex-amazon-ec2-flex-instances/",
                 "published": "May 14, 2024"
+            }
+        },
+        {
+            "_index": 791,
+            "uid": "9cb188cb3e7c42aa",
+            "instance_type": "u7i-12tb.224xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/u7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-high-memory-u7i-instances/",
+                "published": "May 29, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-high-memory-u7i-instances-for-large-in-memory-databases/",
+                "published": "May 29, 2024"
+            }
+        },
+        {
+            "_index": 792,
+            "uid": "5fc7a019d99ef971",
+            "instance_type": "u7in-16tb.224xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/u7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-high-memory-u7i-instances/",
+                "published": "May 29, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-high-memory-u7i-instances-for-large-in-memory-databases/",
+                "published": "May 29, 2024"
+            }
+        },
+        {
+            "_index": 793,
+            "uid": "215fa2b1199d816d",
+            "instance_type": "u7in-24tb.224xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/u7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-high-memory-u7i-instances/",
+                "published": "May 29, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-high-memory-u7i-instances-for-large-in-memory-databases/",
+                "published": "May 29, 2024"
+            }
+        },
+        {
+            "_index": 794,
+            "uid": "abc127e9daea43f2",
+            "instance_type": "u7in-32tb.224xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/u7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-high-memory-u7i-instances/",
+                "published": "May 29, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-high-memory-u7i-instances-for-large-in-memory-databases/",
+                "published": "May 29, 2024"
             }
         }
     ]
