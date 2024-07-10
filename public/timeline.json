@@ -1,7 +1,7 @@
 {
-    "release": "v1.8.5",
+    "release": "v1.8.6",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "May 31, 2024",
+    "published": "July 10, 2024",
     "instances": [
         {
             "_index": 1,
@@ -14293,6 +14293,222 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-high-memory-u7i-instances-for-large-in-memory-databases/",
                 "published": "May 29, 2024"
+            }
+        },
+        {
+            "_index": 795,
+            "uid": "5a84f6ce48e2b33a",
+            "instance_type": "r8g.medium",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-r8g-instances-aws-graviton4-generally-available/",
+                "published": "Jul 9, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/aws-graviton4-based-amazon-ec2-r8g-instances-best-price-performance-in-amazon-ec2/",
+                "published": "Jul 9, 2024"
+            }
+        },
+        {
+            "_index": 796,
+            "uid": "b8a2ff0799264ea7",
+            "instance_type": "r8g.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-r8g-instances-aws-graviton4-generally-available/",
+                "published": "Jul 9, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/aws-graviton4-based-amazon-ec2-r8g-instances-best-price-performance-in-amazon-ec2/",
+                "published": "Jul 9, 2024"
+            }
+        },
+        {
+            "_index": 797,
+            "uid": "9e1a0f8995865613",
+            "instance_type": "r8g.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-r8g-instances-aws-graviton4-generally-available/",
+                "published": "Jul 9, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/aws-graviton4-based-amazon-ec2-r8g-instances-best-price-performance-in-amazon-ec2/",
+                "published": "Jul 9, 2024"
+            }
+        },
+        {
+            "_index": 798,
+            "uid": "6ac01251cce22fe4",
+            "instance_type": "r8g.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-r8g-instances-aws-graviton4-generally-available/",
+                "published": "Jul 9, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/aws-graviton4-based-amazon-ec2-r8g-instances-best-price-performance-in-amazon-ec2/",
+                "published": "Jul 9, 2024"
+            }
+        },
+        {
+            "_index": 799,
+            "uid": "230ba91c35ff7713",
+            "instance_type": "r8g.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-r8g-instances-aws-graviton4-generally-available/",
+                "published": "Jul 9, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/aws-graviton4-based-amazon-ec2-r8g-instances-best-price-performance-in-amazon-ec2/",
+                "published": "Jul 9, 2024"
+            }
+        },
+        {
+            "_index": 800,
+            "uid": "285047ad306a70aa",
+            "instance_type": "r8g.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-r8g-instances-aws-graviton4-generally-available/",
+                "published": "Jul 9, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/aws-graviton4-based-amazon-ec2-r8g-instances-best-price-performance-in-amazon-ec2/",
+                "published": "Jul 9, 2024"
+            }
+        },
+        {
+            "_index": 801,
+            "uid": "1da51507686f90e9",
+            "instance_type": "r8g.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-r8g-instances-aws-graviton4-generally-available/",
+                "published": "Jul 9, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/aws-graviton4-based-amazon-ec2-r8g-instances-best-price-performance-in-amazon-ec2/",
+                "published": "Jul 9, 2024"
+            }
+        },
+        {
+            "_index": 802,
+            "uid": "368c21974a54fef8",
+            "instance_type": "r8g.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-r8g-instances-aws-graviton4-generally-available/",
+                "published": "Jul 9, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/aws-graviton4-based-amazon-ec2-r8g-instances-best-price-performance-in-amazon-ec2/",
+                "published": "Jul 9, 2024"
+            }
+        },
+        {
+            "_index": 803,
+            "uid": "128dc9c9973a4f43",
+            "instance_type": "r8g.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-r8g-instances-aws-graviton4-generally-available/",
+                "published": "Jul 9, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/aws-graviton4-based-amazon-ec2-r8g-instances-best-price-performance-in-amazon-ec2/",
+                "published": "Jul 9, 2024"
+            }
+        },
+        {
+            "_index": 804,
+            "uid": "dd4d6ae1b144dd33",
+            "instance_type": "r8g.48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-r8g-instances-aws-graviton4-generally-available/",
+                "published": "Jul 9, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/aws-graviton4-based-amazon-ec2-r8g-instances-best-price-performance-in-amazon-ec2/",
+                "published": "Jul 9, 2024"
+            }
+        },
+        {
+            "_index": 805,
+            "uid": "a217a7e93869288c",
+            "instance_type": "r8g.metal-24xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-r8g-instances-aws-graviton4-generally-available/",
+                "published": "Jul 9, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/aws-graviton4-based-amazon-ec2-r8g-instances-best-price-performance-in-amazon-ec2/",
+                "published": "Jul 9, 2024"
+            }
+        },
+        {
+            "_index": 806,
+            "uid": "2a30aae1526c15b0",
+            "instance_type": "r8g.metal-48xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-r8g-instances-aws-graviton4-generally-available/",
+                "published": "Jul 9, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/aws-graviton4-based-amazon-ec2-r8g-instances-best-price-performance-in-amazon-ec2/",
+                "published": "Jul 9, 2024"
             }
         }
     ]
