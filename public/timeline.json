@@ -1,7 +1,7 @@
 {
-    "release": "v1.8.6",
+    "release": "v1.8.7",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "July 10, 2024",
+    "published": "August 16, 2024",
     "instances": [
         {
             "_index": 1,
@@ -14509,6 +14509,150 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/aws-graviton4-based-amazon-ec2-r8g-instances-best-price-performance-in-amazon-ec2/",
                 "published": "Jul 9, 2024"
+            }
+        },
+        {
+            "_index": 807,
+            "uid": "3dbf4e47be06bfa2",
+            "instance_type": "g6e.xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6e/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-g6e-instances/",
+                "published": "Aug 15, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 808,
+            "uid": "9a9bc9eca21c8cc9",
+            "instance_type": "g6e.2xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6e/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-g6e-instances/",
+                "published": "Aug 15, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 809,
+            "uid": "aec09cff31ae05a6",
+            "instance_type": "g6e.4xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6e/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-g6e-instances/",
+                "published": "Aug 15, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 810,
+            "uid": "e505ec9f632d8980",
+            "instance_type": "g6e.8xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6e/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-g6e-instances/",
+                "published": "Aug 15, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 811,
+            "uid": "3020abb09105222d",
+            "instance_type": "g6e.12xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6e/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-g6e-instances/",
+                "published": "Aug 15, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 812,
+            "uid": "e19a98575b99de86",
+            "instance_type": "g6e.16xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6e/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-g6e-instances/",
+                "published": "Aug 15, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 813,
+            "uid": "99d361c60f008b53",
+            "instance_type": "g6e.24xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6e/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-g6e-instances/",
+                "published": "Aug 15, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 814,
+            "uid": "71006f9ee43917fc",
+            "instance_type": "g6e.48xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6e/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-g6e-instances/",
+                "published": "Aug 15, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
