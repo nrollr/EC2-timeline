@@ -1,7 +1,7 @@
 {
-    "release": "v1.8.7",
+    "release": "v1.8.8",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "August 16, 2024",
+    "published": "September 28, 2024",
     "instances": [
         {
             "_index": 1,
@@ -14653,6 +14653,672 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 815,
+            "uid": "0370686886fc1b60",
+            "instance_type": "p5e.48xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/p5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-p5e-instances-ec2-capacity-blocks/",
+                "published": "Sep 9, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 816,
+            "uid": "4b0fa9ff4b0727c3",
+            "instance_type": "x8g.medium",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-graviton4-powered-memory-optimized-amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            }
+        },
+        {
+            "_index": 817,
+            "uid": "645858db08c2ee65",
+            "instance_type": "x8g.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-graviton4-powered-memory-optimized-amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            }
+        },
+        {
+            "_index": 818,
+            "uid": "61e6232e099416df",
+            "instance_type": "x8g.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-graviton4-powered-memory-optimized-amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            }
+        },
+        {
+            "_index": 819,
+            "uid": "74ecfa9c4a9150c3",
+            "instance_type": "x8g.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-graviton4-powered-memory-optimized-amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            }
+        },
+        {
+            "_index": 820,
+            "uid": "77b06c8791816ace",
+            "instance_type": "x8g.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-graviton4-powered-memory-optimized-amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            }
+        },
+        {
+            "_index": 821,
+            "uid": "e1ab64cd7a0661a6",
+            "instance_type": "x8g.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-graviton4-powered-memory-optimized-amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            }
+        },
+        {
+            "_index": 822,
+            "uid": "2c7fa5bfd548c101",
+            "instance_type": "x8g.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-graviton4-powered-memory-optimized-amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            }
+        },
+        {
+            "_index": 823,
+            "uid": "ef7bb35ce587d98b",
+            "instance_type": "x8g.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-graviton4-powered-memory-optimized-amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            }
+        },
+        {
+            "_index": 824,
+            "uid": "b075fea471e117cb",
+            "instance_type": "x8g.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-graviton4-powered-memory-optimized-amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            }
+        },
+        {
+            "_index": 825,
+            "uid": "564a2937284fe7de",
+            "instance_type": "x8g.48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-graviton4-powered-memory-optimized-amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            }
+        },
+        {
+            "_index": 826,
+            "uid": "91d97b9755341331",
+            "instance_type": "x8g.metal-24xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-graviton4-powered-memory-optimized-amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            }
+        },
+        {
+            "_index": 827,
+            "uid": "75feea5396c6517d",
+            "instance_type": "x8g.metal-48xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-graviton4-powered-memory-optimized-amazon-ec2-x8g-instances/",
+                "published": "Sep 18, 2024"
+            }
+        },
+        {
+            "_index": 828,
+            "uid": "3a672cd2e1f41531",
+            "instance_type": "m8g.medium",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 829,
+            "uid": "23cecfcba284db15",
+            "instance_type": "m8g.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 830,
+            "uid": "0070b95fa011ad74",
+            "instance_type": "m8g.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 831,
+            "uid": "f5bb3241d4863a27",
+            "instance_type": "m8g.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 832,
+            "uid": "b51f6b46b0eadb04",
+            "instance_type": "m8g.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 833,
+            "uid": "c930266098dc3952",
+            "instance_type": "m8g.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 834,
+            "uid": "366088d841302302",
+            "instance_type": "m8g.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 835,
+            "uid": "20ce3d7f6a3a41a6",
+            "instance_type": "m8g.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 836,
+            "uid": "856e5d228154fb1b",
+            "instance_type": "m8g.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 837,
+            "uid": "0429e96f62338bfb",
+            "instance_type": "m8g.48xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 838,
+            "uid": "eef831ac8e2d08bb",
+            "instance_type": "m8g.metal-24xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 839,
+            "uid": "f8439490af3889f1",
+            "instance_type": "m8g.metal-48xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 840,
+            "uid": "1e541ac7a640cf39",
+            "instance_type": "c8g.medium",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 841,
+            "uid": "2255983e4158bab7",
+            "instance_type": "c8g.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 842,
+            "uid": "166e841451a740e1",
+            "instance_type": "c8g.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 843,
+            "uid": "e60cf625c3012493",
+            "instance_type": "c8g.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 844,
+            "uid": "ee9c19f52e86ccc2",
+            "instance_type": "c8g.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 845,
+            "uid": "bf6ccbca0b9df37b",
+            "instance_type": "c8g.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 846,
+            "uid": "1a1d3f5439c02606",
+            "instance_type": "c8g.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 847,
+            "uid": "e27f8598ee4afc17",
+            "instance_type": "c8g.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 848,
+            "uid": "0184b2a90ca0d961",
+            "instance_type": "c8g.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 849,
+            "uid": "9a49882095470d05",
+            "instance_type": "c8g.48xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 850,
+            "uid": "a16f9eb8f95a3be2",
+            "instance_type": "c8g.metal-24xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 851,
+            "uid": "d4152e9fe15fe062",
+            "instance_type": "c8g.metal-48xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
+                "published": "Sep 25, 2024"
             }
         }
     ]
