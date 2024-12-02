@@ -1,7 +1,7 @@
 {
-    "release": "v1.8.8",
+    "release": "v1.8.9",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "September 28, 2024",
+    "published": "December 02, 2024",
     "instances": [
         {
             "_index": 1,
@@ -15319,6 +15319,330 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/",
                 "published": "Sep 25, 2024"
+            }
+        },
+        {
+            "_index": 852,
+            "uid": "026cefd4b196146f",
+            "instance_type": "i8g.large",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-storage-optimized-amazon-ec2-i8g-instances-powered-by-aws-graviton4-processors-and-3rd-gen-aws-nitro-ssds/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 853,
+            "uid": "5540b61d469aa8fa",
+            "instance_type": "i8g.xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-storage-optimized-amazon-ec2-i8g-instances-powered-by-aws-graviton4-processors-and-3rd-gen-aws-nitro-ssds/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 854,
+            "uid": "632543813711ca52",
+            "instance_type": "i8g.2xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-storage-optimized-amazon-ec2-i8g-instances-powered-by-aws-graviton4-processors-and-3rd-gen-aws-nitro-ssds/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 855,
+            "uid": "f643d21a3e7557b6",
+            "instance_type": "i8g.4xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-storage-optimized-amazon-ec2-i8g-instances-powered-by-aws-graviton4-processors-and-3rd-gen-aws-nitro-ssds/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 856,
+            "uid": "4a42bdc80fc70187",
+            "instance_type": "i8g.8xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-storage-optimized-amazon-ec2-i8g-instances-powered-by-aws-graviton4-processors-and-3rd-gen-aws-nitro-ssds/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 857,
+            "uid": "78c8ff86f2d8f374",
+            "instance_type": "i8g.12xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-storage-optimized-amazon-ec2-i8g-instances-powered-by-aws-graviton4-processors-and-3rd-gen-aws-nitro-ssds/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 858,
+            "uid": "c1e9a7ae8ca3a540",
+            "instance_type": "i8g.16xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-storage-optimized-amazon-ec2-i8g-instances-powered-by-aws-graviton4-processors-and-3rd-gen-aws-nitro-ssds/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 859,
+            "uid": "e97334a1867c1d0c",
+            "instance_type": "i8g.24xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-storage-optimized-amazon-ec2-i8g-instances-powered-by-aws-graviton4-processors-and-3rd-gen-aws-nitro-ssds/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 860,
+            "uid": "d7dcfef58179e0b5",
+            "instance_type": "i8g.metal-24xl",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-storage-optimized-amazon-ec2-i8g-instances-powered-by-aws-graviton4-processors-and-3rd-gen-aws-nitro-ssds/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 861,
+            "uid": "250bbb956d86a7d2",
+            "instance_type": "i7ie.large",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7ie/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-next-generation-high-density-storage-optimized-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-storage-optimized-amazon-ec2-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 862,
+            "uid": "6babdd1d73d5f60b",
+            "instance_type": "i7ie.xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7ie/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-next-generation-high-density-storage-optimized-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-storage-optimized-amazon-ec2-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 863,
+            "uid": "39543f06d3408754",
+            "instance_type": "i7ie.2xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7ie/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-next-generation-high-density-storage-optimized-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-storage-optimized-amazon-ec2-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 864,
+            "uid": "b4548b33d40e823e",
+            "instance_type": "i7ie.3xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7ie/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-next-generation-high-density-storage-optimized-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-storage-optimized-amazon-ec2-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 865,
+            "uid": "c56263a11f854a58",
+            "instance_type": "i7ie.6xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7ie/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-next-generation-high-density-storage-optimized-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-storage-optimized-amazon-ec2-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 866,
+            "uid": "874967e57b1fb64f",
+            "instance_type": "i7ie.12xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7ie/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-next-generation-high-density-storage-optimized-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-storage-optimized-amazon-ec2-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 867,
+            "uid": "a8d743446127f965",
+            "instance_type": "i7ie.18xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7ie/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-next-generation-high-density-storage-optimized-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-storage-optimized-amazon-ec2-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 868,
+            "uid": "08d865c0701683f3",
+            "instance_type": "i7ie.24xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7ie/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-next-generation-high-density-storage-optimized-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-storage-optimized-amazon-ec2-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 869,
+            "uid": "57cfef507cc950b3",
+            "instance_type": "i7ie.48xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7ie/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-next-generation-high-density-storage-optimized-i7ie-instances/",
+                "published": "Dec 1, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-storage-optimized-amazon-ec2-i7ie-instances/",
+                "published": "Dec 1, 2024"
             }
         }
     ]
