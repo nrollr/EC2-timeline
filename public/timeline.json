@@ -1,7 +1,7 @@
 {
-    "release": "v1.8.9",
+    "release": "v1.9.0",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "December 02, 2024",
+    "published": "December 03, 2024",
     "instances": [
         {
             "_index": 1,
@@ -15643,6 +15643,60 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/now-available-storage-optimized-amazon-ec2-i7ie-instances/",
                 "published": "Dec 1, 2024"
+            }
+        },
+        {
+            "_index": 870,
+            "uid": "f7b71e9e09e3f23f",
+            "instance_type": "p5en.48xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/p5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-p5en-instances-generative-ai-hpc-generally-available/",
+                "published": "Dec 2, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-p5en-instances-with-nvidia-h200-tensor-core-gpus-and-efav3-networking/",
+                "published": "Dec 2, 2024"
+            }
+        },
+        {
+            "_index": 871,
+            "uid": "f217f7208174b399",
+            "instance_type": "trn2.48xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/trn2/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-trn2-instances-available/",
+                "published": "Dec 3, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-trn2-instances-and-trn2-ultraservers-for-aiml-training-and-inference-is-now-available/",
+                "published": "Dec 3, 2024"
+            }
+        },
+        {
+            "_index": 872,
+            "uid": "f48a782a6db35ff5",
+            "instance_type": "trn2u.48xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/trn2/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-trn2-instances-available/",
+                "published": "Dec 3, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-trn2-instances-and-trn2-ultraservers-for-aiml-training-and-inference-is-now-available/",
+                "published": "Dec 3, 2024"
             }
         }
     ]
