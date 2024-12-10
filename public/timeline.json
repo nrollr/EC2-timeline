@@ -1,7 +1,7 @@
 {
-    "release": "v1.9.0",
+    "release": "v1.9.1",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "December 03, 2024",
+    "published": "December 10, 2024",
     "instances": [
         {
             "_index": 1,
@@ -15697,6 +15697,42 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-trn2-instances-and-trn2-ultraservers-for-aiml-training-and-inference-is-now-available/",
                 "published": "Dec 3, 2024"
+            }
+        },
+        {
+            "_index": 873,
+            "uid": "11e7d931528431fe",
+            "instance_type": "u7i-6tb.112xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/u7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-u7i-instances-6tib-8tib-memory/",
+                "published": "Dec 9, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 874,
+            "uid": "4c5dce8a8f4fdcfc",
+            "instance_type": "u7i-8tb.112xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/u7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-u7i-instances-6tib-8tib-memory/",
+                "published": "Dec 9, 2024"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
