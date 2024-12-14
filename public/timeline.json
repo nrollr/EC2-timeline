@@ -1,7 +1,7 @@
 {
-    "release": "v1.9.1",
+    "release": "v1.9.2",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "December 10, 2024",
+    "published": "December 14, 2024",
     "instances": [
         {
             "_index": 1,
@@ -15733,6 +15733,42 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 875,
+            "uid": "b880b8764d931643",
+            "instance_type": "f2.12xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/f2/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-f2-instances-8-fpgas/",
+                "published": "Dec 12, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-second-generation-fpga-powered-amazon-ec2-instances-f2/",
+                "published": "Dec 12, 2024"
+            }
+        },
+        {
+            "_index": 876,
+            "uid": "3d5ff7ea9f093e9e",
+            "instance_type": "f2.48xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2024,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/f2/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-f2-instances-8-fpgas/",
+                "published": "Dec 12, 2024"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/now-available-second-generation-fpga-powered-amazon-ec2-instances-f2/",
+                "published": "Dec 12, 2024"
             }
         }
     ]
