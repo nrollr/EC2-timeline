@@ -1,7 +1,7 @@
 {
-    "release": "v1.9.3",
+    "release": "v1.9.4",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "December 17, 2024",
+    "published": "January 20, 2025",
     "instances": [
         {
             "_index": 1,
@@ -15787,6 +15787,78 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-high-memory-u7inh-instance-on-hpe-server-for-large-in-memory-databases/",
                 "published": "Dec 16, 2024"
+            }
+        },
+        {
+            "_index": 878,
+            "uid": "37e38bc3b14db6d0",
+            "instance_type": "c7i-flex.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-flex-instances-new-larger-sizes/",
+                "published": "Jan 16, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 879,
+            "uid": "9f3b71ee6a135c0a",
+            "instance_type": "c7i-flex.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-flex-instances-new-larger-sizes/",
+                "published": "Jan 16, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 880,
+            "uid": "6e5c3435c25d02d6",
+            "instance_type": "m7i-flex.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-flex-instances-new-larger-sizes/",
+                "published": "Jan 16, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 881,
+            "uid": "6aadce3f7c297c7b",
+            "instance_type": "m7i-flex.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-flex-instances-new-larger-sizes/",
+                "published": "Jan 16, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
