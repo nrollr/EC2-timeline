@@ -1,0 +1,23 @@
+---
+//Components
+import Content from "../components/Concept.astro";
+
+//Layouts
+import Main from "../layouts/Main.astro";
+
+//Styles
+import "../styles/global.css"
+---
+<Main>
+	<div class="bg-aws-100 mx-auto h-2 w-full"></div>
+	<main>
+		<div class="flex justify-center w-full mx-auto">
+			<!-- TIMELINE -->
+			<div class="flow-root px-2 ml-6">
+				<ul class="-mb-8 mt-12">
+					<Content />
+				</ul>
+			</div>
+		</div>
+	</main>
+</Main>

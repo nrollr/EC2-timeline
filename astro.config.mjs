@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import tailwindcss from "@tailwindcss/vite";
 import sitemap from "@astrojs/sitemap";
 
-// import db from "@astrojs/db";
+import db from "@astrojs/db";
 
 // https://astro.build/config
 export default defineConfig({
@@ -10,5 +10,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: 'https://instancetyp.es/',
-  integrations: [sitemap()]
+  integrations: [sitemap(), db()]
 });
