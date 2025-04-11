@@ -1,7 +1,7 @@
 {
-    "release": "v1.9.5",
+    "release": "v1.9.6",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "February 6, 2025",
+    "published": "April 11, 2025",
     "instances": [
         {
             "_index": 1,
@@ -15873,6 +15873,42 @@
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-f2-6xlarge-new-f2-instance-size/",
                 "published": "Feb 5, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 883,
+            "uid": "149586bc83b5b36e",
+            "instance_type": "i7ie.metal-24xl",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7ie/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7ie-bare-metal-instances-sizes/",
+                "published": "Apr 10, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 884,
+            "uid": "3ab391c8436962d8",
+            "instance_type": "i7ie.metal-48xl",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7ie/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7ie-bare-metal-instances-sizes/",
+                "published": "Apr 10, 2025"
             },
             "blog_post": {
                 "url": null,
