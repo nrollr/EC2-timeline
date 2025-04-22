@@ -1,7 +1,7 @@
 {
-    "release": "v1.9.6",
+    "release": "v1.9.7",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "April 11, 2025",
+    "published": "April 22, 2025",
     "instances": [
         {
             "_index": 1,
@@ -15913,6 +15913,654 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 885,
+            "uid": "de2c6764e531481a",
+            "instance_type": "c8gd.medium",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 886,
+            "uid": "56266831410f28a3",
+            "instance_type": "c8gd.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 887,
+            "uid": "007c2420c3d5ac93",
+            "instance_type": "c8gd.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 888,
+            "uid": "7db16bada1fd09f2",
+            "instance_type": "c8gd.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 889,
+            "uid": "ebce328c2e5174b4",
+            "instance_type": "c8gd.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 890,
+            "uid": "895481c1d613ba59",
+            "instance_type": "c8gd.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 891,
+            "uid": "4449923b2720b7fa",
+            "instance_type": "c8gd.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 892,
+            "uid": "5cb7f47ae5bfab3d",
+            "instance_type": "c8gd.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 893,
+            "uid": "ed3ae908a5dcb025",
+            "instance_type": "c8gd.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 894,
+            "uid": "646e36cf322c7960",
+            "instance_type": "c8gd.48xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 895,
+            "uid": "7afa158ecd9e1a78",
+            "instance_type": "c8gd.metal-24xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 896,
+            "uid": "5f9862c023123a1d",
+            "instance_type": "c8gd.metal-48xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 897,
+            "uid": "4bbc697e53b85b15",
+            "instance_type": "m8gd.medium",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 898,
+            "uid": "ab532894deda0279",
+            "instance_type": "m8gd.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 899,
+            "uid": "c027aff7b561451a",
+            "instance_type": "m8gd.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 900,
+            "uid": "ef5cb59970b3a71f",
+            "instance_type": "m8gd.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 901,
+            "uid": "29518f16d843c9ea",
+            "instance_type": "m8gd.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 902,
+            "uid": "082d86d941e0e68b",
+            "instance_type": "m8gd.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 903,
+            "uid": "00bff0c44868c219",
+            "instance_type": "m8gd.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 904,
+            "uid": "f27a1f7dd2e954bf",
+            "instance_type": "m8gd.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 905,
+            "uid": "b329779656a2164a",
+            "instance_type": "m8gd.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 906,
+            "uid": "7a6eb88a3f150457",
+            "instance_type": "m8gd.48xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 907,
+            "uid": "1fdb4f1bca0ca97b",
+            "instance_type": "m8gd.metal-24xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 908,
+            "uid": "e76911937e8bfb6c",
+            "instance_type": "m8gd.metal-48xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 909,
+            "uid": "42150a45da999059",
+            "instance_type": "r8gd.medium",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 910,
+            "uid": "cae0c511688e781a",
+            "instance_type": "r8gd.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 911,
+            "uid": "0c37513b904d5e0f",
+            "instance_type": "r8gd.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 912,
+            "uid": "611193ba428cf730",
+            "instance_type": "r8gd.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 913,
+            "uid": "bcf334b8df17edc0",
+            "instance_type": "r8gd.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 914,
+            "uid": "03cf042aa8573625",
+            "instance_type": "r8gd.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 915,
+            "uid": "033ec0ffd0e90403",
+            "instance_type": "r8gd.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 916,
+            "uid": "58a8188acf0cbae0",
+            "instance_type": "r8gd.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 917,
+            "uid": "50b79d298b41a001",
+            "instance_type": "r8gd.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 918,
+            "uid": "054b290c1388713d",
+            "instance_type": "r8gd.48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 919,
+            "uid": "4460a154fd469034",
+            "instance_type": "r8gd.metal-24xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 920,
+            "uid": "9ec3c77454db68de",
+            "instance_type": "r8gd.metal-48xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+                "published": "Apr 21, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
+                "published": "Apr 21, 2025"
             }
         }
     ]
