@@ -1,7 +1,7 @@
 {
-    "release": "v1.9.7",
+    "release": "v1.9.8",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "April 22, 2025",
+    "published": "April 29, 2025",
     "instances": [
         {
             "_index": 1,
@@ -15810,7 +15810,7 @@
         {
             "_index": 879,
             "uid": "9f3b71ee6a135c0a",
-            "instance_type": "c7i-flex.12xlarge",
+            "instance_type": "c7i-flex.16xlarge",
             "instance_category": "Compute Optimized",
             "instance_generation": "Current generation",
             "release_month": "January",
@@ -16561,6 +16561,204 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/",
                 "published": "Apr 21, 2025"
+            }
+        },
+        {
+            "_index": 921,
+            "uid": "c54d56443aca9e20",
+            "instance_type": "i7i.large",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7i-high-performance-storage-optimized-instances/",
+                "published": "Apr 28, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 922,
+            "uid": "6af950b89f575b32",
+            "instance_type": "i7i.xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7i-high-performance-storage-optimized-instances/",
+                "published": "Apr 28, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 923,
+            "uid": "648982d01809b786",
+            "instance_type": "i7i.2xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7i-high-performance-storage-optimized-instances/",
+                "published": "Apr 28, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 924,
+            "uid": "d6dc7760b52727e7",
+            "instance_type": "i7i.4xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7i-high-performance-storage-optimized-instances/",
+                "published": "Apr 28, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 925,
+            "uid": "cc95b0cd8717a862",
+            "instance_type": "i7i.8xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7i-high-performance-storage-optimized-instances/",
+                "published": "Apr 28, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 926,
+            "uid": "47fb5bf5e0f1a39d",
+            "instance_type": "i7i.12xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7i-high-performance-storage-optimized-instances/",
+                "published": "Apr 28, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 927,
+            "uid": "6e43f90e0c69bd75",
+            "instance_type": "i7i.16xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7i-high-performance-storage-optimized-instances/",
+                "published": "Apr 28, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 928,
+            "uid": "7d60663267430ed2",
+            "instance_type": "i7i.24xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7i-high-performance-storage-optimized-instances/",
+                "published": "Apr 28, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 929,
+            "uid": "046e065795589b4e",
+            "instance_type": "i7i.48xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7i-high-performance-storage-optimized-instances/",
+                "published": "Apr 28, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 930,
+            "uid": "4d47c8b700b4d6f1",
+            "instance_type": "i7i.metal-24xl",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7i-high-performance-storage-optimized-instances/",
+                "published": "Apr 28, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 931,
+            "uid": "48a3caee72ab1c3a",
+            "instance_type": "i7i.metal-48xl",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i7i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7i-high-performance-storage-optimized-instances/",
+                "published": "Apr 28, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
