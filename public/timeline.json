@@ -1,7 +1,7 @@
 {
-    "release": "v1.9.8",
+    "release": "v1.9.9",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "April 29, 2025",
+    "published": "April 30, 2025",
     "instances": [
         {
             "_index": 1,
@@ -1034,10 +1034,10 @@
             "uid": "5814625a9f0bbae7",
             "instance_type": "p2.xlarge",
             "instance_category": "Accelerated Computing",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "September",
             "release_year": 2016,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/p2/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2016/09/introducing-amazon-ec2-p2-instances-the-largest-gpu-powered-virtual-machine-in-the-cloud/",
                 "published": "Sep 29, 2016"
@@ -1052,10 +1052,10 @@
             "uid": "3228ce5b326c49d8",
             "instance_type": "p2.8xlarge",
             "instance_category": "Accelerated Computing",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "September",
             "release_year": 2016,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/p2/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2016/09/introducing-amazon-ec2-p2-instances-the-largest-gpu-powered-virtual-machine-in-the-cloud/",
                 "published": "Sep 29, 2016"
@@ -1070,10 +1070,10 @@
             "uid": "fef30902a8ab2544",
             "instance_type": "p2.16xlarge",
             "instance_category": "Accelerated Computing",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "September",
             "release_year": 2016,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/p2/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2016/09/introducing-amazon-ec2-p2-instances-the-largest-gpu-powered-virtual-machine-in-the-cloud/",
                 "published": "Sep 29, 2016"
@@ -1214,10 +1214,10 @@
             "uid": "d821f375cbd16aee",
             "instance_type": "f1.2xlarge",
             "instance_category": "Accelerated Computing",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "November",
             "release_year": 2016,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/f1/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2016/11/available-for-preview-amazon-ec2-f1-instances-custom-fpgas-for-hardware-acceleration/",
                 "published": "Nov 30, 2016"
@@ -1232,10 +1232,10 @@
             "uid": "1c07427ea1823aea",
             "instance_type": "f1.16xlarge",
             "instance_category": "Accelerated Computing",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "November",
             "release_year": 2016,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/f1/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2016/11/available-for-preview-amazon-ec2-f1-instances-custom-fpgas-for-hardware-acceleration/",
                 "published": "Nov 30, 2016"
@@ -1502,10 +1502,10 @@
             "uid": "83536faa73c3d995",
             "instance_type": "g3.4xlarge",
             "instance_category": "Accelerated Computing",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "July",
             "release_year": 2017,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/g3/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2017/07/introducing-amazon-ec2-g3-instances-the-next-generation-of-gpu-powered-instances-for-graphics-intensive-applications/",
                 "published": "Jul 13, 2017"
@@ -1520,10 +1520,10 @@
             "uid": "d0587cdfcbfc0e26",
             "instance_type": "g3.8xlarge",
             "instance_category": "Accelerated Computing",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "July",
             "release_year": 2017,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/g3/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2017/07/introducing-amazon-ec2-g3-instances-the-next-generation-of-gpu-powered-instances-for-graphics-intensive-applications/",
                 "published": "Jul 13, 2017"
@@ -1538,10 +1538,10 @@
             "uid": "4daeb6c1cd154adf",
             "instance_type": "g3.16xlarge",
             "instance_category": "Accelerated Computing",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "July",
             "release_year": 2017,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/g3/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2017/07/introducing-amazon-ec2-g3-instances-the-next-generation-of-gpu-powered-instances-for-graphics-intensive-applications/",
                 "published": "Jul 13, 2017"
@@ -1574,10 +1574,10 @@
             "uid": "abdae992e9ffdb12",
             "instance_type": "p3.2xlarge",
             "instance_category": "Accelerated Computing",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "October",
             "release_year": 2017,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/p3/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2017/10/introducing-amazon-ec2-p3-instances/",
                 "published": "Oct 25, 2017"
@@ -1592,10 +1592,10 @@
             "uid": "575ebff884e79a37",
             "instance_type": "p3.8xlarge",
             "instance_category": "Accelerated Computing",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "October",
             "release_year": 2017,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/p3/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2017/10/introducing-amazon-ec2-p3-instances/",
                 "published": "Oct 25, 2017"
@@ -1610,10 +1610,10 @@
             "uid": "514111d9f4ef431d",
             "instance_type": "p3.16xlarge",
             "instance_category": "Accelerated Computing",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "October",
             "release_year": 2017,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/p3/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2017/10/introducing-amazon-ec2-p3-instances/",
                 "published": "Oct 25, 2017"
@@ -2582,10 +2582,10 @@
             "uid": "8d0accd5d01b2263",
             "instance_type": "f1.4xlarge",
             "instance_category": "Accelerated Computing",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "September",
             "release_year": 2018,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/f1/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2018/09/amazon-ec2-f1-instances-now-available-in-an-additional-size/",
                 "published": "Sep 25, 2018"
@@ -2654,10 +2654,10 @@
             "uid": "5520c3bd6d56dbb8",
             "instance_type": "g3s.xlarge",
             "instance_category": "Accelerated Computing",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "October",
             "release_year": 2018,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/g3/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2018/10/introducing-a-new-size-for-amazon-ec2-g3-graphics-accelerated-instances/",
                 "published": "Oct 11, 2018"
@@ -2888,10 +2888,10 @@
             "uid": "87acf012f70fe2ca",
             "instance_type": "a1.medium",
             "instance_category": "General Purpose",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "November",
             "release_year": 2018,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/a1/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-ec2-a1-instances/",
                 "published": "Nov 26, 2018"
@@ -2906,10 +2906,10 @@
             "uid": "9af160bf521c7467",
             "instance_type": "a1.large",
             "instance_category": "General Purpose",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "November",
             "release_year": 2018,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/a1/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-ec2-a1-instances/",
                 "published": "Nov 26, 2018"
@@ -2924,10 +2924,10 @@
             "uid": "953c5a6e7a4240d3",
             "instance_type": "a1.xlarge",
             "instance_category": "General Purpose",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "November",
             "release_year": 2018,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/a1/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-ec2-a1-instances/",
                 "published": "Nov 26, 2018"
@@ -2942,10 +2942,10 @@
             "uid": "5852eb05112d8cae",
             "instance_type": "a1.2xlarge",
             "instance_category": "General Purpose",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "November",
             "release_year": 2018,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/a1/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-ec2-a1-instances/",
                 "published": "Nov 26, 2018"
@@ -2960,10 +2960,10 @@
             "uid": "b7e5f578e131eb3b",
             "instance_type": "a1.4xlarge",
             "instance_category": "General Purpose",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "November",
             "release_year": 2018,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/a1/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-ec2-a1-instances/",
                 "published": "Nov 26, 2018"
@@ -3086,10 +3086,10 @@
             "uid": "2d685e9e567763be",
             "instance_type": "p3dn.24xlarge",
             "instance_category": "Accelerated Computing",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "December",
             "release_year": 2018,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/p3/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2018/12/introducing-amazon-ec2-p3dn-instances-our-most-powerful-gpu-instance-yet/",
                 "published": "Dec 7, 2018"
@@ -4112,10 +4112,10 @@
             "uid": "cb7d3249be0c9fec",
             "instance_type": "a1.metal",
             "instance_category": "General Purpose",
-            "instance_generation": "Current generation",
+            "instance_generation": "Previous generation",
             "release_month": "October",
             "release_year": 2019,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/a1/",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-availability-of-amazon-ec2-a1-bare-metal-instances/",
                 "published": "Oct 9, 2019"
