@@ -1,7 +1,7 @@
 {
-    "release": "v2.0.0",
+    "release": "v2.0.1",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "May 16, 2025",
+    "published": "July 1, 2025",
     "instances": [
         {
             "_index": 1,
@@ -16777,6 +16777,222 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-p6-b200-instances-powered-by-nvidia-blackwell-gpus-to-accelerate-ai-innovations/",
                 "published": "May 15, 2025"
+            }
+        },
+        {
+            "_index": 933,
+            "uid": "3b2fcd9a44de607c",
+            "instance_type": "c8gn.medium",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance/",
+                "published": "Jun 30, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/",
+                "published": "Jun 30, 2025"
+            }
+        },
+        {
+            "_index": 934,
+            "uid": "96d218567356b912",
+            "instance_type": "c8gn.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance/",
+                "published": "Jun 30, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/",
+                "published": "Jun 30, 2025"
+            }
+        },
+        {
+            "_index": 935,
+            "uid": "d806f0303bff170c",
+            "instance_type": "c8gn.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance/",
+                "published": "Jun 30, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/",
+                "published": "Jun 30, 2025"
+            }
+        },
+        {
+            "_index": 936,
+            "uid": "86aef2d5c8abf958",
+            "instance_type": "c8gn.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance/",
+                "published": "Jun 30, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/",
+                "published": "Jun 30, 2025"
+            }
+        },
+        {
+            "_index": 937,
+            "uid": "79dd998d55308031",
+            "instance_type": "c8gn.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance/",
+                "published": "Jun 30, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/",
+                "published": "Jun 30, 2025"
+            }
+        },
+        {
+            "_index": 938,
+            "uid": "162573822a967bc2",
+            "instance_type": "c8gn.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance/",
+                "published": "Jun 30, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/",
+                "published": "Jun 30, 2025"
+            }
+        },
+        {
+            "_index": 939,
+            "uid": "d80aa72541263023",
+            "instance_type": "c8gn.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance/",
+                "published": "Jun 30, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/",
+                "published": "Jun 30, 2025"
+            }
+        },
+        {
+            "_index": 940,
+            "uid": "f7b63debd56c992b",
+            "instance_type": "c8gn.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance/",
+                "published": "Jun 30, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/",
+                "published": "Jun 30, 2025"
+            }
+        },
+        {
+            "_index": 941,
+            "uid": "8675064a3e6ccba8",
+            "instance_type": "c8gn.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance/",
+                "published": "Jun 30, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/",
+                "published": "Jun 30, 2025"
+            }
+        },
+        {
+            "_index": 942,
+            "uid": "11673685f0894207",
+            "instance_type": "c8gn.48xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance/",
+                "published": "Jun 30, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/",
+                "published": "Jun 30, 2025"
+            }
+        },
+        {
+            "_index": 943,
+            "uid": "2a11d0e129c5eb95",
+            "instance_type": "c8gn.metal-24xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance/",
+                "published": "Jun 30, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/",
+                "published": "Jun 30, 2025"
+            }
+        },
+        {
+            "_index": 944,
+            "uid": "1097b65bcc8fff34",
+            "instance_type": "c8gn.metal-48xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "June",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance/",
+                "published": "Jun 30, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/",
+                "published": "Jun 30, 2025"
             }
         }
     ]
