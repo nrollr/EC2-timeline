@@ -1,6 +1,3 @@
-[[plugins]]
-package = "@netlify/plugin-lighthouse"
-
 [plugins.inputs.settings]
 preset = "mobile"
 
