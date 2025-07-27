@@ -1,5 +1,5 @@
 {
-    "release": "v2.0.4",
+    "release": "v2.0.5",
     "origin": "https://instancetyp.es/timeline.json",
     "published": "July 27, 2025",
     "instances": [
@@ -139,7 +139,7 @@
             "release_year": 2010,
             "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
-                "url": "https://aws.amazon.com/about-aws/whats-new/2010/02/23/Amazon-EC2-Now-Offers-Extra-Large-High-Memory-Instances/",
+                "url": "https://aws.amazon.com/about-aws/whats-new/2010/02/23/amazon-ec2-now-offers-extra-large-high-memory-instances/",
                 "published": "Feb 23, 2010"
             },
             "blog_post": {
@@ -155,7 +155,7 @@
             "instance_generation": "Previous generation",
             "release_month": "July",
             "release_year": 2010,
-            "product_page": null,
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2010/07/13/announcing-cluster-compute-instances-for-amazon-ec2/",
                 "published": "Jul 13, 2010"
@@ -191,7 +191,7 @@
             "instance_generation": "Previous generation",
             "release_month": "November",
             "release_year": 2010,
-            "product_page": null,
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2010/11/15/announcing-cluster-gpu-instances-for-amazon-ec2/",
                 "published": "Nov 15, 2010"
@@ -205,7 +205,7 @@
             "_index": 12,
             "uid": "580ffe5a7c96457f",
             "instance_type": "cc2.8xlarge",
-            "instance_category": "Compute Optimized",
+            "instance_category": "Cluster Compute",
             "instance_generation": "Previous generation",
             "release_month": "November",
             "release_year": 2011,
@@ -229,7 +229,7 @@
             "release_year": 2012,
             "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
-                "url": "https://aws.amazon.com/about-aws/whats-new/2012/03/07/three-new-Amazon-EC2-features/",
+                "url": "https://aws.amazon.com/about-aws/whats-new/2012/03/07/three-new-amazon-ec2-features/",
                 "published": "Mar 07, 2012"
             },
             "blog_post": {
@@ -245,7 +245,7 @@
             "instance_generation": "Previous generation",
             "release_month": "July",
             "release_year": 2012,
-            "product_page": null,
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2012/07/18/announcing-high-io-instances-for-amazon-ec2/",
                 "published": "Jul 18, 2012"
@@ -331,7 +331,7 @@
             "_index": 19,
             "uid": "621c80075156ac27",
             "instance_type": "g2.2xlarge",
-            "instance_category": "GPU Optimized",
+            "instance_category": "Accelerated Computing",
             "instance_generation": "Previous generation",
             "release_month": "November",
             "release_year": 2013,
@@ -695,7 +695,7 @@
             "instance_generation": "Previous generation",
             "release_month": "January",
             "release_year": 2015,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#Compute_Optimized",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2015/01/11/amazon-ec2-c4-instances-now-available/",
                 "published": "Jan 11, 2015"
@@ -713,7 +713,7 @@
             "instance_generation": "Previous generation",
             "release_month": "January",
             "release_year": 2015,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#Compute_Optimized",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2015/01/11/amazon-ec2-c4-instances-now-available/",
                 "published": "Jan 11, 2015"
@@ -731,7 +731,7 @@
             "instance_generation": "Previous generation",
             "release_month": "January",
             "release_year": 2015,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#Compute_Optimized",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2015/01/11/amazon-ec2-c4-instances-now-available/",
                 "published": "Jan 11, 2015"
@@ -749,7 +749,7 @@
             "instance_generation": "Previous generation",
             "release_month": "January",
             "release_year": 2015,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#Compute_Optimized",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2015/01/11/amazon-ec2-c4-instances-now-available/",
                 "published": "Jan 11, 2015"
@@ -767,7 +767,7 @@
             "instance_generation": "Previous generation",
             "release_month": "January",
             "release_year": 2015,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#Compute_Optimized",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2015/01/11/amazon-ec2-c4-instances-now-available/",
                 "published": "Jan 11, 2015"
@@ -785,7 +785,7 @@
             "instance_generation": "Previous generation",
             "release_month": "March",
             "release_year": 2015,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#Storage_Optimized",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2015/03/now-available-d2-instances-the-latest-generation-of-amazon-ec2-dense-storage-instances/",
                 "published": "Mar 30, 2015"
@@ -803,7 +803,7 @@
             "instance_generation": "Previous generation",
             "release_month": "March",
             "release_year": 2015,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#Storage_Optimized",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2015/03/now-available-d2-instances-the-latest-generation-of-amazon-ec2-dense-storage-instances/",
                 "published": "Mar 30, 2015"
@@ -821,7 +821,7 @@
             "instance_generation": "Previous generation",
             "release_month": "March",
             "release_year": 2015,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#Storage_Optimized",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2015/03/now-available-d2-instances-the-latest-generation-of-amazon-ec2-dense-storage-instances/",
                 "published": "Mar 30, 2015"
@@ -839,7 +839,7 @@
             "instance_generation": "Previous generation",
             "release_month": "March",
             "release_year": 2015,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#Storage_Optimized",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2015/03/now-available-d2-instances-the-latest-generation-of-amazon-ec2-dense-storage-instances/",
                 "published": "Mar 30, 2015"
@@ -853,7 +853,7 @@
             "_index": 48,
             "uid": "b7dbd4041ea30d37",
             "instance_type": "g2.8xlarge",
-            "instance_category": "GPU Optimized",
+            "instance_category": "Accelerated Computing",
             "instance_generation": "Previous generation",
             "release_month": "April",
             "release_year": 2015,
@@ -875,7 +875,7 @@
             "instance_generation": "Previous generation",
             "release_month": "June",
             "release_year": 2015,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#General_Purpose",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2015/06/introducing-m4-instances-and-lower-amazon-ec2-instance-prices/",
                 "published": "Jun 11, 2015"
@@ -893,7 +893,7 @@
             "instance_generation": "Previous generation",
             "release_month": "June",
             "release_year": 2015,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#General_Purpose",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2015/06/introducing-m4-instances-and-lower-amazon-ec2-instance-prices/",
                 "published": "Jun 11, 2015"
@@ -911,7 +911,7 @@
             "instance_generation": "Previous generation",
             "release_month": "June",
             "release_year": 2015,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#General_Purpose",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2015/06/introducing-m4-instances-and-lower-amazon-ec2-instance-prices/",
                 "published": "Jun 11, 2015"
@@ -929,7 +929,7 @@
             "instance_generation": "Previous generation",
             "release_month": "June",
             "release_year": 2015,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#General_Purpose",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2015/06/introducing-m4-instances-and-lower-amazon-ec2-instance-prices/",
                 "published": "Jun 11, 2015"
@@ -947,7 +947,7 @@
             "instance_generation": "Previous generation",
             "release_month": "June",
             "release_year": 2015,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#General_Purpose",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2015/06/introducing-m4-instances-and-lower-amazon-ec2-instance-prices/",
                 "published": "Jun 11, 2015"
@@ -1019,7 +1019,7 @@
             "instance_generation": "Previous generation",
             "release_month": "September",
             "release_year": 2016,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#General_Purpose",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2016/09/introducing-new-m4-instance-size-m4-16xlarge-and-new-region-availability-of-m4-instances/",
                 "published": "Sep 27, 2016"
@@ -1361,7 +1361,7 @@
             "instance_generation": "Previous generation",
             "release_month": "November",
             "release_year": 2016,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#Memory_Optimized",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-amazon-ec2-r4-instances-the-next-generation-of-memory-optimized-instances/",
                 "published": "Nov 30, 2016"
@@ -1379,7 +1379,7 @@
             "instance_generation": "Previous generation",
             "release_month": "November",
             "release_year": 2016,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#Memory_Optimized",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-amazon-ec2-r4-instances-the-next-generation-of-memory-optimized-instances/",
                 "published": "Nov 30, 2016"
@@ -1397,7 +1397,7 @@
             "instance_generation": "Previous generation",
             "release_month": "November",
             "release_year": 2016,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#Memory_Optimized",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-amazon-ec2-r4-instances-the-next-generation-of-memory-optimized-instances/",
                 "published": "Nov 30, 2016"
@@ -1415,7 +1415,7 @@
             "instance_generation": "Previous generation",
             "release_month": "November",
             "release_year": 2016,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#Memory_Optimized",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-amazon-ec2-r4-instances-the-next-generation-of-memory-optimized-instances/",
                 "published": "Nov 30, 2016"
@@ -1433,7 +1433,7 @@
             "instance_generation": "Previous generation",
             "release_month": "November",
             "release_year": 2016,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#Memory_Optimized",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-amazon-ec2-r4-instances-the-next-generation-of-memory-optimized-instances/",
                 "published": "Nov 30, 2016"
@@ -1451,7 +1451,7 @@
             "instance_generation": "Previous generation",
             "release_month": "November",
             "release_year": 2016,
-            "product_page": "https://aws.amazon.com/ec2/instance-types/#Memory_Optimized",
+            "product_page": "https://aws.amazon.com/ec2/previous-generation/",
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-amazon-ec2-r4-instances-the-next-generation-of-memory-optimized-instances/",
                 "published": "Nov 30, 2016"
@@ -15821,8 +15821,8 @@
                 "published": "Dec 9, 2024"
             },
             "blog_post": {
-                "url": "",
-                "published": ""
+                "url": null,
+                "published": null
             }
         },
         {
@@ -15839,8 +15839,8 @@
                 "published": "Dec 9, 2024"
             },
             "blog_post": {
-                "url": "",
-                "published": ""
+                "url": null,
+                "published": null
             }
         },
         {
@@ -15989,6 +15989,24 @@
         },
         {
             "_index": 889,
+            "uid": "54fbe0f1354c68ee",
+            "instance_type": "i8g.48xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "March",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-i8g-48xlarge-instances-n-virginia-oregon/",
+                "published": "Mar 13, 2025 "
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 890,
             "uid": "149586bc83b5b36e",
             "instance_type": "i7ie.metal-24xl",
             "instance_category": "Storage Optimized",
@@ -16006,7 +16024,7 @@
             }
         },
         {
-            "_index": 890,
+            "_index": 891,
             "uid": "3ab391c8436962d8",
             "instance_type": "i7ie.metal-48xl",
             "instance_category": "Storage Optimized",
@@ -16024,7 +16042,7 @@
             }
         },
         {
-            "_index": 891,
+            "_index": 892,
             "uid": "de2c6764e531481a",
             "instance_type": "c8gd.medium",
             "instance_category": "Compute Optimized",
@@ -16042,7 +16060,7 @@
             }
         },
         {
-            "_index": 892,
+            "_index": 893,
             "uid": "56266831410f28a3",
             "instance_type": "c8gd.large",
             "instance_category": "Compute Optimized",
@@ -16060,7 +16078,7 @@
             }
         },
         {
-            "_index": 893,
+            "_index": 894,
             "uid": "007c2420c3d5ac93",
             "instance_type": "c8gd.xlarge",
             "instance_category": "Compute Optimized",
@@ -16078,7 +16096,7 @@
             }
         },
         {
-            "_index": 894,
+            "_index": 895,
             "uid": "7db16bada1fd09f2",
             "instance_type": "c8gd.2xlarge",
             "instance_category": "Compute Optimized",
@@ -16096,7 +16114,7 @@
             }
         },
         {
-            "_index": 895,
+            "_index": 896,
             "uid": "ebce328c2e5174b4",
             "instance_type": "c8gd.4xlarge",
             "instance_category": "Compute Optimized",
@@ -16114,7 +16132,7 @@
             }
         },
         {
-            "_index": 896,
+            "_index": 897,
             "uid": "895481c1d613ba59",
             "instance_type": "c8gd.8xlarge",
             "instance_category": "Compute Optimized",
@@ -16132,7 +16150,7 @@
             }
         },
         {
-            "_index": 897,
+            "_index": 898,
             "uid": "4449923b2720b7fa",
             "instance_type": "c8gd.12xlarge",
             "instance_category": "Compute Optimized",
@@ -16150,7 +16168,7 @@
             }
         },
         {
-            "_index": 898,
+            "_index": 899,
             "uid": "5cb7f47ae5bfab3d",
             "instance_type": "c8gd.16xlarge",
             "instance_category": "Compute Optimized",
@@ -16168,7 +16186,7 @@
             }
         },
         {
-            "_index": 899,
+            "_index": 900,
             "uid": "ed3ae908a5dcb025",
             "instance_type": "c8gd.24xlarge",
             "instance_category": "Compute Optimized",
@@ -16186,7 +16204,7 @@
             }
         },
         {
-            "_index": 900,
+            "_index": 901,
             "uid": "646e36cf322c7960",
             "instance_type": "c8gd.48xlarge",
             "instance_category": "Compute Optimized",
@@ -16204,7 +16222,7 @@
             }
         },
         {
-            "_index": 901,
+            "_index": 902,
             "uid": "7afa158ecd9e1a78",
             "instance_type": "c8gd.metal-24xl",
             "instance_category": "Compute Optimized",
@@ -16222,7 +16240,7 @@
             }
         },
         {
-            "_index": 902,
+            "_index": 903,
             "uid": "5f9862c023123a1d",
             "instance_type": "c8gd.metal-48xl",
             "instance_category": "Compute Optimized",
@@ -16240,7 +16258,7 @@
             }
         },
         {
-            "_index": 903,
+            "_index": 904,
             "uid": "4bbc697e53b85b15",
             "instance_type": "m8gd.medium",
             "instance_category": "General Purpose",
@@ -16258,7 +16276,7 @@
             }
         },
         {
-            "_index": 904,
+            "_index": 905,
             "uid": "ab532894deda0279",
             "instance_type": "m8gd.large",
             "instance_category": "General Purpose",
@@ -16276,7 +16294,7 @@
             }
         },
         {
-            "_index": 905,
+            "_index": 906,
             "uid": "c027aff7b561451a",
             "instance_type": "m8gd.xlarge",
             "instance_category": "General Purpose",
@@ -16294,7 +16312,7 @@
             }
         },
         {
-            "_index": 906,
+            "_index": 907,
             "uid": "ef5cb59970b3a71f",
             "instance_type": "m8gd.2xlarge",
             "instance_category": "General Purpose",
@@ -16312,7 +16330,7 @@
             }
         },
         {
-            "_index": 907,
+            "_index": 908,
             "uid": "29518f16d843c9ea",
             "instance_type": "m8gd.4xlarge",
             "instance_category": "General Purpose",
@@ -16330,7 +16348,7 @@
             }
         },
         {
-            "_index": 908,
+            "_index": 909,
             "uid": "082d86d941e0e68b",
             "instance_type": "m8gd.8xlarge",
             "instance_category": "General Purpose",
@@ -16348,7 +16366,7 @@
             }
         },
         {
-            "_index": 909,
+            "_index": 910,
             "uid": "00bff0c44868c219",
             "instance_type": "m8gd.12xlarge",
             "instance_category": "General Purpose",
@@ -16366,7 +16384,7 @@
             }
         },
         {
-            "_index": 910,
+            "_index": 911,
             "uid": "f27a1f7dd2e954bf",
             "instance_type": "m8gd.16xlarge",
             "instance_category": "General Purpose",
@@ -16384,7 +16402,7 @@
             }
         },
         {
-            "_index": 911,
+            "_index": 912,
             "uid": "b329779656a2164a",
             "instance_type": "m8gd.24xlarge",
             "instance_category": "General Purpose",
@@ -16402,7 +16420,7 @@
             }
         },
         {
-            "_index": 912,
+            "_index": 913,
             "uid": "7a6eb88a3f150457",
             "instance_type": "m8gd.48xlarge",
             "instance_category": "General Purpose",
@@ -16420,7 +16438,7 @@
             }
         },
         {
-            "_index": 913,
+            "_index": 914,
             "uid": "1fdb4f1bca0ca97b",
             "instance_type": "m8gd.metal-24xl",
             "instance_category": "General Purpose",
@@ -16438,7 +16456,7 @@
             }
         },
         {
-            "_index": 914,
+            "_index": 915,
             "uid": "e76911937e8bfb6c",
             "instance_type": "m8gd.metal-48xl",
             "instance_category": "General Purpose",
@@ -16456,7 +16474,7 @@
             }
         },
         {
-            "_index": 915,
+            "_index": 916,
             "uid": "42150a45da999059",
             "instance_type": "r8gd.medium",
             "instance_category": "Memory Optimized",
@@ -16474,7 +16492,7 @@
             }
         },
         {
-            "_index": 916,
+            "_index": 917,
             "uid": "cae0c511688e781a",
             "instance_type": "r8gd.large",
             "instance_category": "Memory Optimized",
@@ -16492,7 +16510,7 @@
             }
         },
         {
-            "_index": 917,
+            "_index": 918,
             "uid": "0c37513b904d5e0f",
             "instance_type": "r8gd.xlarge",
             "instance_category": "Memory Optimized",
@@ -16510,7 +16528,7 @@
             }
         },
         {
-            "_index": 918,
+            "_index": 919,
             "uid": "611193ba428cf730",
             "instance_type": "r8gd.2xlarge",
             "instance_category": "Memory Optimized",
@@ -16528,7 +16546,7 @@
             }
         },
         {
-            "_index": 919,
+            "_index": 920,
             "uid": "bcf334b8df17edc0",
             "instance_type": "r8gd.4xlarge",
             "instance_category": "Memory Optimized",
@@ -16546,7 +16564,7 @@
             }
         },
         {
-            "_index": 920,
+            "_index": 921,
             "uid": "03cf042aa8573625",
             "instance_type": "r8gd.8xlarge",
             "instance_category": "Memory Optimized",
@@ -16564,7 +16582,7 @@
             }
         },
         {
-            "_index": 921,
+            "_index": 922,
             "uid": "033ec0ffd0e90403",
             "instance_type": "r8gd.12xlarge",
             "instance_category": "Memory Optimized",
@@ -16582,7 +16600,7 @@
             }
         },
         {
-            "_index": 922,
+            "_index": 923,
             "uid": "58a8188acf0cbae0",
             "instance_type": "r8gd.16xlarge",
             "instance_category": "Memory Optimized",
@@ -16600,7 +16618,7 @@
             }
         },
         {
-            "_index": 923,
+            "_index": 924,
             "uid": "50b79d298b41a001",
             "instance_type": "r8gd.24xlarge",
             "instance_category": "Memory Optimized",
@@ -16618,7 +16636,7 @@
             }
         },
         {
-            "_index": 924,
+            "_index": 925,
             "uid": "054b290c1388713d",
             "instance_type": "r8gd.48xlarge",
             "instance_category": "Memory Optimized",
@@ -16636,7 +16654,7 @@
             }
         },
         {
-            "_index": 925,
+            "_index": 926,
             "uid": "4460a154fd469034",
             "instance_type": "r8gd.metal-24xl",
             "instance_category": "Memory Optimized",
@@ -16654,7 +16672,7 @@
             }
         },
         {
-            "_index": 926,
+            "_index": 927,
             "uid": "9ec3c77454db68de",
             "instance_type": "r8gd.metal-48xl",
             "instance_category": "Memory Optimized",
@@ -16672,7 +16690,7 @@
             }
         },
         {
-            "_index": 927,
+            "_index": 928,
             "uid": "c54d56443aca9e20",
             "instance_type": "i7i.large",
             "instance_category": "Storage Optimized",
@@ -16690,7 +16708,7 @@
             }
         },
         {
-            "_index": 928,
+            "_index": 929,
             "uid": "6af950b89f575b32",
             "instance_type": "i7i.xlarge",
             "instance_category": "Storage Optimized",
@@ -16708,7 +16726,7 @@
             }
         },
         {
-            "_index": 929,
+            "_index": 930,
             "uid": "648982d01809b786",
             "instance_type": "i7i.2xlarge",
             "instance_category": "Storage Optimized",
@@ -16726,7 +16744,7 @@
             }
         },
         {
-            "_index": 930,
+            "_index": 931,
             "uid": "d6dc7760b52727e7",
             "instance_type": "i7i.4xlarge",
             "instance_category": "Storage Optimized",
@@ -16744,7 +16762,7 @@
             }
         },
         {
-            "_index": 931,
+            "_index": 932,
             "uid": "cc95b0cd8717a862",
             "instance_type": "i7i.8xlarge",
             "instance_category": "Storage Optimized",
@@ -16762,7 +16780,7 @@
             }
         },
         {
-            "_index": 932,
+            "_index": 933,
             "uid": "47fb5bf5e0f1a39d",
             "instance_type": "i7i.12xlarge",
             "instance_category": "Storage Optimized",
@@ -16780,7 +16798,7 @@
             }
         },
         {
-            "_index": 933,
+            "_index": 934,
             "uid": "6e43f90e0c69bd75",
             "instance_type": "i7i.16xlarge",
             "instance_category": "Storage Optimized",
@@ -16798,7 +16816,7 @@
             }
         },
         {
-            "_index": 934,
+            "_index": 935,
             "uid": "7d60663267430ed2",
             "instance_type": "i7i.24xlarge",
             "instance_category": "Storage Optimized",
@@ -16816,7 +16834,7 @@
             }
         },
         {
-            "_index": 935,
+            "_index": 936,
             "uid": "046e065795589b4e",
             "instance_type": "i7i.48xlarge",
             "instance_category": "Storage Optimized",
@@ -16834,7 +16852,7 @@
             }
         },
         {
-            "_index": 936,
+            "_index": 937,
             "uid": "4d47c8b700b4d6f1",
             "instance_type": "i7i.metal-24xl",
             "instance_category": "Storage Optimized",
@@ -16852,7 +16870,7 @@
             }
         },
         {
-            "_index": 937,
+            "_index": 938,
             "uid": "48a3caee72ab1c3a",
             "instance_type": "i7i.metal-48xl",
             "instance_category": "Storage Optimized",
@@ -16870,7 +16888,7 @@
             }
         },
         {
-            "_index": 938,
+            "_index": 939,
             "uid": "169d9e90484a2257",
             "instance_type": "p6-b200.48xlarge",
             "instance_category": "Accelerated Computing",
@@ -16888,7 +16906,7 @@
             }
         },
         {
-            "_index": 939,
+            "_index": 940,
             "uid": "3b2fcd9a44de607c",
             "instance_type": "c8gn.medium",
             "instance_category": "Compute Optimized",
@@ -16906,7 +16924,7 @@
             }
         },
         {
-            "_index": 940,
+            "_index": 941,
             "uid": "96d218567356b912",
             "instance_type": "c8gn.large",
             "instance_category": "Compute Optimized",
@@ -16924,7 +16942,7 @@
             }
         },
         {
-            "_index": 941,
+            "_index": 942,
             "uid": "d806f0303bff170c",
             "instance_type": "c8gn.xlarge",
             "instance_category": "Compute Optimized",
@@ -16942,7 +16960,7 @@
             }
         },
         {
-            "_index": 942,
+            "_index": 943,
             "uid": "86aef2d5c8abf958",
             "instance_type": "c8gn.2xlarge",
             "instance_category": "Compute Optimized",
@@ -16960,7 +16978,7 @@
             }
         },
         {
-            "_index": 943,
+            "_index": 944,
             "uid": "79dd998d55308031",
             "instance_type": "c8gn.4xlarge",
             "instance_category": "Compute Optimized",
@@ -16978,7 +16996,7 @@
             }
         },
         {
-            "_index": 944,
+            "_index": 945,
             "uid": "162573822a967bc2",
             "instance_type": "c8gn.8xlarge",
             "instance_category": "Compute Optimized",
@@ -16996,7 +17014,7 @@
             }
         },
         {
-            "_index": 945,
+            "_index": 946,
             "uid": "d80aa72541263023",
             "instance_type": "c8gn.12xlarge",
             "instance_category": "Compute Optimized",
@@ -17014,7 +17032,7 @@
             }
         },
         {
-            "_index": 946,
+            "_index": 947,
             "uid": "f7b63debd56c992b",
             "instance_type": "c8gn.16xlarge",
             "instance_category": "Compute Optimized",
@@ -17032,7 +17050,7 @@
             }
         },
         {
-            "_index": 947,
+            "_index": 948,
             "uid": "8675064a3e6ccba8",
             "instance_type": "c8gn.24xlarge",
             "instance_category": "Compute Optimized",
@@ -17050,7 +17068,7 @@
             }
         },
         {
-            "_index": 948,
+            "_index": 949,
             "uid": "11673685f0894207",
             "instance_type": "c8gn.48xlarge",
             "instance_category": "Compute Optimized",
@@ -17068,7 +17086,7 @@
             }
         },
         {
-            "_index": 949,
+            "_index": 950,
             "uid": "2a11d0e129c5eb95",
             "instance_type": "c8gn.metal-24xl",
             "instance_category": "Compute Optimized",
@@ -17086,7 +17104,7 @@
             }
         },
         {
-            "_index": 950,
+            "_index": 951,
             "uid": "1097b65bcc8fff34",
             "instance_type": "c8gn.metal-48xl",
             "instance_category": "Compute Optimized",
