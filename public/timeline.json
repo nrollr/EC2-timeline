@@ -1,7 +1,7 @@
 {
-    "release": "v2.0.5",
+    "release": "v2.0.6",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "July 27, 2025",
+    "published": "August 10, 2025",
     "instances": [
         {
             "_index": 1,
@@ -17119,6 +17119,96 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/",
                 "published": "Jun 30, 2025"
+            }
+        },
+        {
+            "_index": 952,
+            "uid": "232768cff401e0ac",
+            "instance_type": "g6f.large",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-g6f-instances-fractional-gpus/",
+                "published": "Jul 29, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 953,
+            "uid": "85a9e9a8f8ea46ad",
+            "instance_type": "g6f.xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-g6f-instances-fractional-gpus/",
+                "published": "Jul 29, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 954,
+            "uid": "5d66925ea74565d2",
+            "instance_type": "g6f.2xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-g6f-instances-fractional-gpus/",
+                "published": "Jul 29, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 955,
+            "uid": "257ac130b1d6ad10",
+            "instance_type": "g6f.4xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-g6f-instances-fractional-gpus/",
+                "published": "Jul 29, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 966,
+            "uid": "9fb81869f5f7d429",
+            "instance_type": "gr6f.4xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "July",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g6/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-g6f-instances-fractional-gpus/",
+                "published": "Jul 29, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
