@@ -1,6 +1,6 @@
 {
   "name": "ec2-timeline",
-  "version": "1.9.4",
+  "version": "2.0.7",
   "description": "A historical overview of AWS EC2 instance releases",
   "type": "module",
   "scripts": {
@@ -13,10 +13,10 @@
   "dependencies": {
     "@astrojs/check": "^0.9.4",
     "@astrojs/db": "^0.17.1",
-    "@astrojs/sitemap": "^3.4.2",
-    "@tailwindcss/vite": "^4.1.11",
-    "astro": "^5.12.9",
-    "tailwindcss": "^4.1.11",
+    "@astrojs/sitemap": "^3.5.1",
+    "@tailwindcss/vite": "^4.1.12",
+    "astro": "^5.13.4",
+    "tailwindcss": "^4.1.12",
     "typescript": "^5.9.2"
   },
   "repository": {

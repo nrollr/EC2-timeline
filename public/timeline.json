@@ -1,7 +1,7 @@
 {
-    "release": "v2.0.6",
+    "release": "v2.0.7",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "August 10, 2025",
+    "published": "August 27, 2025",
     "instances": [
         {
             "_index": 1,
@@ -17194,7 +17194,7 @@
             }
         },
         {
-            "_index": 966,
+            "_index": 956,
             "uid": "9fb81869f5f7d429",
             "instance_type": "gr6f.4xlarge",
             "instance_category": "Accelerated Computing",
@@ -17209,6 +17209,384 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 957,
+            "uid": "5f6ae04a7b05963c",
+            "instance_type": "p5.4xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/p5/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-p5-single-gpu-instances-now-available/",
+                "published": "Aug 12, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 958,
+            "uid": "cb49197d61ed6bd9",
+            "instance_type": "r8i.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 959,
+            "uid": "b7061140f8c2f174",
+            "instance_type": "r8i.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 960,
+            "uid": "3d6128b24df3019a",
+            "instance_type": "r8i.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 961,
+            "uid": "c819af6efc690e09",
+            "instance_type": "r8i.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 962,
+            "uid": "89b478df49cec634",
+            "instance_type": "r8i.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 963,
+            "uid": "251ac47e79046709",
+            "instance_type": "r8i.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 964,
+            "uid": "e38366c1c624f28d",
+            "instance_type": "r8i.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 965,
+            "uid": "e03b6decb187f5af",
+            "instance_type": "r8i.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 966,
+            "uid": "3d052c187b71d527",
+            "instance_type": "r8i.32xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 967,
+            "uid": "21e33ed24cd92b46",
+            "instance_type": "r8i.48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 968,
+            "uid": "4ddabd2d90326947",
+            "instance_type": "r8i.96xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 969,
+            "uid": "fbb12c6987f4d1f2",
+            "instance_type": "r8i.metal-48xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 970,
+            "uid": "3dd794196109be77",
+            "instance_type": "r8i.metal-96xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 971,
+            "uid": "48cd14c3a615fc45",
+            "instance_type": "r8i-flex.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 972,
+            "uid": "486c67e68cebe03f",
+            "instance_type": "r8i-flex.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 973,
+            "uid": "e5ce25cfa07eb362",
+            "instance_type": "r8i-flex.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 974,
+            "uid": "81ef61d14f65c7b6",
+            "instance_type": "r8i-flex.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 975,
+            "uid": "ccb7f0828b3c1832",
+            "instance_type": "r8i-flex.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 976,
+            "uid": "3c4ac7fee505ed12",
+            "instance_type": "r8i-flex.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 977,
+            "uid": "982ff97f50b8d46e",
+            "instance_type": "r8i-flex.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
+                "published": "Aug 19, 2025"
             }
         }
     ]
