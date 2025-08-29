@@ -1,7 +1,7 @@
 {
-    "release": "v2.0.7",
+    "release": "v2.0.8",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "August 27, 2025",
+    "published": "August 29, 2025",
     "instances": [
         {
             "_index": 1,
@@ -17587,6 +17587,366 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/",
                 "published": "Aug 19, 2025"
+            }
+        },
+        {
+            "_index": 978,
+            "uid": "f25a961307a204a2",
+            "instance_type": "m8i.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 979,
+            "uid": "7de5bf0506d5adba",
+            "instance_type": "m8i.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 980,
+            "uid": "457c1d99193944cb",
+            "instance_type": "m8i.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 981,
+            "uid": "9133693dc0fb6eee",
+            "instance_type": "m8i.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 982,
+            "uid": "479914cb8db0ce29",
+            "instance_type": "m8i.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 983,
+            "uid": "fe2e387208292cee",
+            "instance_type": "m8i.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 984,
+            "uid": "00a6a107ba381142",
+            "instance_type": "m8i.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 985,
+            "uid": "332a8a57c4462037",
+            "instance_type": "m8i.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 986,
+            "uid": "644a8b30fc3513d3",
+            "instance_type": "m8i.32xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 987,
+            "uid": "b49c9249cc1df6f7",
+            "instance_type": "m8i.48xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 988,
+            "uid": "8b99665933188eff",
+            "instance_type": "m8i.96xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 989,
+            "uid": "96b35c6867274130",
+            "instance_type": "m8i.metal-48xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 990,
+            "uid": "d4926301ce0b18ef",
+            "instance_type": "m8i.metal-96xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 991,
+            "uid": "86c0e5f058237729",
+            "instance_type": "m8i-flex.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 992,
+            "uid": "2af3aa3df558e4b5",
+            "instance_type": "m8i-flex.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 993,
+            "uid": "5cf1f83ab0b3d85d",
+            "instance_type": "m8i-flex.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 994,
+            "uid": "e646c8437368a0c7",
+            "instance_type": "m8i-flex.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 995,
+            "uid": "49b711acf01e07b5",
+            "instance_type": "m8i-flex.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 996,
+            "uid": "084cdd87ffb7a11d",
+            "instance_type": "m8i-flex.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 997,
+            "uid": "8f3c613d23d081db",
+            "instance_type": "m8i-flex.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/",
+                "published": "Aug 28, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
+                "published": "Aug 28, 2025"
             }
         }
     ]
