@@ -1,7 +1,7 @@
 {
-    "release": "v2.0.8",
+    "release": "v2.0.9",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "August 29, 2025",
+    "published": "August 30, 2025",
     "instances": [
         {
             "_index": 1,
@@ -17947,6 +17947,204 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/",
                 "published": "Aug 28, 2025"
+            }
+        },
+        {
+            "_index": 998,
+            "uid": "e4b64e209f3a2afc",
+            "instance_type": "i8ge.large",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i8ge-instances-generally-available/",
+                "published": "Aug 29, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 999,
+            "uid": "e1c29463dfda4f36",
+            "instance_type": "i8ge.xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i8ge-instances-generally-available/",
+                "published": "Aug 29, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1000,
+            "uid": "6f1cc8a38ce51c93",
+            "instance_type": "i8ge.2xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i8ge-instances-generally-available/",
+                "published": "Aug 29, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1001,
+            "uid": "c59bd9947e72e763",
+            "instance_type": "i8ge.3xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i8ge-instances-generally-available/",
+                "published": "Aug 29, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1002,
+            "uid": "5134bf8ca14532b3",
+            "instance_type": "i8ge.6xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i8ge-instances-generally-available/",
+                "published": "Aug 29, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1003,
+            "uid": "eb86a98ce0f5ef6f",
+            "instance_type": "i8ge.12xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i8ge-instances-generally-available/",
+                "published": "Aug 29, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1004,
+            "uid": "b53319f48422026f",
+            "instance_type": "i8ge.18xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i8ge-instances-generally-available/",
+                "published": "Aug 29, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1005,
+            "uid": "9a585c52ab27e74a",
+            "instance_type": "i8ge.24xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i8ge-instances-generally-available/",
+                "published": "Aug 29, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1006,
+            "uid": "68e562db80fc1773",
+            "instance_type": "i8ge.48xlarge",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i8ge-instances-generally-available/",
+                "published": "Aug 29, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1007,
+            "uid": "b528c75c0f637fbf",
+            "instance_type": "i8ge.metal-24xl",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i8ge-instances-generally-available/",
+                "published": "Aug 29, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1008,
+            "uid": "77cc4b218c6cd355",
+            "instance_type": "i8ge.metal-48xl",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "August",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i8ge-instances-generally-available/",
+                "published": "Aug 29, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
