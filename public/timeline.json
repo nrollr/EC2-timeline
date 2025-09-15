@@ -1,7 +1,7 @@
 {
-    "release": "v2.0.9",
+    "release": "v2.1.0",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "August 30, 2025",
+    "published": "September 15, 2025",
     "instances": [
         {
             "_index": 1,
@@ -18145,6 +18145,42 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 1009,
+            "uid": "9eb0c982999a6bb3",
+            "instance_type": "mac-m4.metal",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/mac/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-m4-pro-mac-instances-generally-available/",
+                "published": "Sep 12, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-m4-and-m4-pro-mac-instances/",
+                "published": "Sep 12, 2025"
+            }
+        },
+        {
+            "_index": 1010,
+            "uid": "0bf7b94653c37784",
+            "instance_type": "mac-m4pro.metal",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/mac/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-m4-pro-mac-instances-generally-available/",
+                "published": "Sep 12, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-m4-and-m4-pro-mac-instances/",
+                "published": "Sep 12, 2025"
             }
         }
     ]
