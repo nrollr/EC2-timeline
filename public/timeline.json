@@ -1,7 +1,7 @@
 {
-    "release": "v2.1.0",
+    "release": "v2.1.1",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "September 15, 2025",
+    "published": "September 16, 2025",
     "instances": [
         {
             "_index": 1,
@@ -18181,6 +18181,222 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-m4-and-m4-pro-mac-instances/",
                 "published": "Sep 12, 2025"
+            }
+        },
+        {
+            "_index": 1011,
+            "uid": "ea66b91762986ff9",
+            "instance_type": "r8gn.medium",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/generally-available-amazon-ec2-r8gn-instances/",
+                "published": "Sep 15, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1012,
+            "uid": "9da1fc6f6b96086c",
+            "instance_type": "r8gn.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/generally-available-amazon-ec2-r8gn-instances/",
+                "published": "Sep 15, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1013,
+            "uid": "56383d09f7140962",
+            "instance_type": "r8gn.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/generally-available-amazon-ec2-r8gn-instances/",
+                "published": "Sep 15, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1014,
+            "uid": "285bc6abeee75232",
+            "instance_type": "r8gn.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/generally-available-amazon-ec2-r8gn-instances/",
+                "published": "Sep 15, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1015,
+            "uid": "6d75c37e4938ce31",
+            "instance_type": "r8gn.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/generally-available-amazon-ec2-r8gn-instances/",
+                "published": "Sep 15, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1016,
+            "uid": "08b92b393e7dc172",
+            "instance_type": "r8gn.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/generally-available-amazon-ec2-r8gn-instances/",
+                "published": "Sep 15, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1017,
+            "uid": "337b4577a64bb614",
+            "instance_type": "r8gn.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/generally-available-amazon-ec2-r8gn-instances/",
+                "published": "Sep 15, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1018,
+            "uid": "f243335a87eee50c",
+            "instance_type": "r8gn.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/generally-available-amazon-ec2-r8gn-instances/",
+                "published": "Sep 15, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1019,
+            "uid": "6c77ebc4d5303c2d",
+            "instance_type": "r8gn.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/generally-available-amazon-ec2-r8gn-instances/",
+                "published": "Sep 15, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1020,
+            "uid": "420bfee8a273067d",
+            "instance_type": "r8gn.48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/generally-available-amazon-ec2-r8gn-instances/",
+                "published": "Sep 15, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1021,
+            "uid": "aaf44b0b76a692a0",
+            "instance_type": "r8gn.metal-24xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/generally-available-amazon-ec2-r8gn-instances/",
+                "published": "Sep 15, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1022,
+            "uid": "9b6fb8e91704bd3e",
+            "instance_type": "r8gn.metal-48xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/generally-available-amazon-ec2-r8gn-instances/",
+                "published": "Sep 15, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
