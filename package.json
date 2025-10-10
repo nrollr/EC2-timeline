@@ -1,6 +1,6 @@
 {
   "name": "ec2-timeline",
-  "version": "2.0.9",
+  "version": "2.1.2",
   "description": "A historical overview of AWS EC2 instance releases",
   "type": "module",
   "scripts": {

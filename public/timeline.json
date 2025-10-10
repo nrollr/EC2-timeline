@@ -1,7 +1,7 @@
 {
-    "release": "v2.1.1",
+    "release": "v2.1.2",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "September 16, 2025",
+    "published": "October 10, 2025",
     "instances": [
         {
             "_index": 1,
@@ -18397,6 +18397,726 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 1023,
+            "uid": "17f09d77cc40e0df",
+            "instance_type": "r8gb.medium",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/",
+                "published": "Sep 23, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1024,
+            "uid": "04908341ac86da4d",
+            "instance_type": "r8gb.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/",
+                "published": "Sep 23, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1025,
+            "uid": "a4f1e5bdc1228f8f",
+            "instance_type": "r8gb.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/",
+                "published": "Sep 23, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1026,
+            "uid": "7cc33983f56d3ccc",
+            "instance_type": "r8gb.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/",
+                "published": "Sep 23, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1027,
+            "uid": "3602f811c9150aa6",
+            "instance_type": "r8gb.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/",
+                "published": "Sep 23, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1028,
+            "uid": "e2b8d0e783ba0940",
+            "instance_type": "r8gb.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/",
+                "published": "Sep 23, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1029,
+            "uid": "54770f5f6897f049",
+            "instance_type": "r8gb.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/",
+                "published": "Sep 23, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1030,
+            "uid": "174aaa57f4cb0655",
+            "instance_type": "r8gb.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/",
+                "published": "Sep 23, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1031,
+            "uid": "38b763095ba8238c",
+            "instance_type": "r8gb.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/",
+                "published": "Sep 23, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1032,
+            "uid": "3336b81211ea2720",
+            "instance_type": "r8gb.metal-24xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "September",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/",
+                "published": "Sep 23, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1033,
+            "uid": "c988c484f849a768",
+            "instance_type": "c8i-flex.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1034,
+            "uid": "fc8a7c30e18ba9ed",
+            "instance_type": "c8i-flex.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1035,
+            "uid": "2fd185c6f023a60c",
+            "instance_type": "c8i-flex.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1036,
+            "uid": "e80586a7cb69754f",
+            "instance_type": "c8i-flex.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1037,
+            "uid": "88cd8c6b41a4b18e",
+            "instance_type": "c8i-flex.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1038,
+            "uid": "e14a08ea70a7e8e4",
+            "instance_type": "c8i-flex.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1039,
+            "uid": "dff1f233ebea6bf4",
+            "instance_type": "c8i-flex.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1040,
+            "uid": "de79261e443b4fdd",
+            "instance_type": "c8i.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1041,
+            "uid": "e0dd301a2d1f3ee0",
+            "instance_type": "c8i.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1042,
+            "uid": "86820dad3188fd30",
+            "instance_type": "c8i.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1043,
+            "uid": "52e3ab696ed85ff0",
+            "instance_type": "c8i.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1044,
+            "uid": "766927cfe6709654",
+            "instance_type": "c8i.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1045,
+            "uid": "4bfe048c1e025da9",
+            "instance_type": "c8i.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1046,
+            "uid": "a9493916f60809c1",
+            "instance_type": "c8i.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1047,
+            "uid": "36fd663f98bafba6",
+            "instance_type": "c8i.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1048,
+            "uid": "7429e7a6a588706f",
+            "instance_type": "c8i.32xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1049,
+            "uid": "4963979a63ad15da",
+            "instance_type": "c8i.48xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1050,
+            "uid": "994062c20862fa3b",
+            "instance_type": "c8i.96xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1051,
+            "uid": "b01ef3997feb95fd",
+            "instance_type": "c8i.metal-48xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1052,
+            "uid": "a06ded70412c7aea",
+            "instance_type": "c8i.metal-96xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available/",
+                "published": "Oct 6, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+                "published": "Oct 6, 2025"
+            }
+        },
+        {
+            "_index": 1053,
+            "uid": "9064f1050761bf13",
+            "instance_type": "m8a.medium",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/general-purpose-amazon-ec2-m8a-instances/",
+                "published": "Oct 8, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/",
+                "published": "Oct 8, 2025"
+            }
+        },
+        {
+            "_index": 1054,
+            "uid": "2439ff44f30bb833",
+            "instance_type": "m8a.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/general-purpose-amazon-ec2-m8a-instances/",
+                "published": "Oct 8, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/",
+                "published": "Oct 8, 2025"
+            }
+        },
+        {
+            "_index": 1055,
+            "uid": "d61103e590d7d875",
+            "instance_type": "m8a.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/general-purpose-amazon-ec2-m8a-instances/",
+                "published": "Oct 8, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/",
+                "published": "Oct 8, 2025"
+            }
+        },
+        {
+            "_index": 1056,
+            "uid": "1218e21cf1b58810",
+            "instance_type": "m8a.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/general-purpose-amazon-ec2-m8a-instances/",
+                "published": "Oct 8, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/",
+                "published": "Oct 8, 2025"
+            }
+        },
+        {
+            "_index": 1057,
+            "uid": "571b6de94e6fcc34",
+            "instance_type": "m8a.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/general-purpose-amazon-ec2-m8a-instances/",
+                "published": "Oct 8, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/",
+                "published": "Oct 8, 2025"
+            }
+        },
+        {
+            "_index": 1058,
+            "uid": "966b5e6a97d0159a",
+            "instance_type": "m8a.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/general-purpose-amazon-ec2-m8a-instances/",
+                "published": "Oct 8, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/",
+                "published": "Oct 8, 2025"
+            }
+        },
+        {
+            "_index": 1059,
+            "uid": "37de3a9f8c40d3ee",
+            "instance_type": "m8a.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/general-purpose-amazon-ec2-m8a-instances/",
+                "published": "Oct 8, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/",
+                "published": "Oct 8, 2025"
+            }
+        },
+        {
+            "_index": 1060,
+            "uid": "0f08978754af6c83",
+            "instance_type": "m8a.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/general-purpose-amazon-ec2-m8a-instances/",
+                "published": "Oct 8, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/",
+                "published": "Oct 8, 2025"
+            }
+        },
+        {
+            "_index": 1061,
+            "uid": "08be6cc048fc1733",
+            "instance_type": "m8a.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/general-purpose-amazon-ec2-m8a-instances/",
+                "published": "Oct 8, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/",
+                "published": "Oct 8, 2025"
+            }
+        },
+        {
+            "_index": 1062,
+            "uid": "e594d9fe4da3692e",
+            "instance_type": "m8a.48xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "October",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/general-purpose-amazon-ec2-m8a-instances/",
+                "published": "Oct 8, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/",
+                "published": "Oct 8, 2025"
             }
         }
     ]
