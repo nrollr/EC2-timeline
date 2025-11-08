@@ -1,7 +1,7 @@
 {
-    "release": "v2.1.2",
+    "release": "v2.1.3",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "October 10, 2025",
+    "published": "November 8, 2025",
     "instances": [
         {
             "_index": 1,
@@ -19117,6 +19117,186 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/",
                 "published": "Oct 8, 2025"
+            }
+        },
+        {
+            "_index": 1063,
+            "uid": "49fa348404b1719e",
+            "instance_type": "r8a.medium",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/",
+                "published": "Nov 5, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1064,
+            "uid": "b990084dc55c1ceb",
+            "instance_type": "r8a.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/",
+                "published": "Nov 5, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1065,
+            "uid": "3bc74fea9485163e",
+            "instance_type": "r8a.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/",
+                "published": "Nov 5, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1066,
+            "uid": "505d9dac09eb0ccb",
+            "instance_type": "r8a.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/",
+                "published": "Nov 5, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1067,
+            "uid": "d08109038e070090",
+            "instance_type": "r8a.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/",
+                "published": "Nov 5, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1068,
+            "uid": "3d154463771b075d",
+            "instance_type": "r8a.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/",
+                "published": "Nov 5, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1069,
+            "uid": "8816091f9048ec64",
+            "instance_type": "r8a.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/",
+                "published": "Nov 5, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1070,
+            "uid": "1ef227a41df5f9e9",
+            "instance_type": "r8a.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/",
+                "published": "Nov 5, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1071,
+            "uid": "86a1776263254f33",
+            "instance_type": "r8a.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/",
+                "published": "Nov 5, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1072,
+            "uid": "3f9771ca1352dc0a",
+            "instance_type": "r8a.48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "November",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/",
+                "published": "Nov 5, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
