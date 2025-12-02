@@ -1,7 +1,7 @@
 {
-    "release": "v2.1.4",
+    "release": "v2.1.5",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "November 19, 2025",
+    "published": "December 2, 2025",
     "instances": [
         {
             "_index": 1,
@@ -19315,6 +19315,366 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/accelerate-large-scale-ai-applications-with-the-new-amazon-ec2-p6-b300-instances/",
                 "published": "Nov 18, 2025"
+            }
+        },
+        {
+            "_index": 1074,
+            "uid": "e5553334ae072d47",
+            "instance_type": "c8a.medium",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/compute-optimized-amazon-ec2-c8a-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1075,
+            "uid": "af1dc053842f3493",
+            "instance_type": "c8a.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/compute-optimized-amazon-ec2-c8a-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1076,
+            "uid": "29daf268b9acec56",
+            "instance_type": "c8a.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/compute-optimized-amazon-ec2-c8a-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1077,
+            "uid": "5b0d678ccd596845",
+            "instance_type": "c8a.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/compute-optimized-amazon-ec2-c8a-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1078,
+            "uid": "4a595010dbaf98c6",
+            "instance_type": "c8a.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/compute-optimized-amazon-ec2-c8a-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1079,
+            "uid": "502478bf2fa3b5ae",
+            "instance_type": "c8a.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/compute-optimized-amazon-ec2-c8a-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1080,
+            "uid": "5a97ec98704a8365",
+            "instance_type": "c8a.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/compute-optimized-amazon-ec2-c8a-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1081,
+            "uid": "2f4a474f3a806d2a",
+            "instance_type": "c8a.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/compute-optimized-amazon-ec2-c8a-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1082,
+            "uid": "c28dace1fc1e853f",
+            "instance_type": "c8a.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/compute-optimized-amazon-ec2-c8a-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1083,
+            "uid": "d461029db2ea1dde",
+            "instance_type": "c8a.48xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/compute-optimized-amazon-ec2-c8a-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1084,
+            "uid": "61079305b5310958",
+            "instance_type": "c8a.metal-24xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/compute-optimized-amazon-ec2-c8a-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1085,
+            "uid": "948d2212151fd55e",
+            "instance_type": "c8a.metal-48xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/compute-optimized-amazon-ec2-c8a-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1086,
+            "uid": "2476a169f44c3d17",
+            "instance_type": "x8aedz.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8aedz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/memory-optimized-amazon-ec2-x8aedz-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Dec 2, 2025"
+            }
+        },
+        {
+            "_index": 1087,
+            "uid": "955050eb08b85c98",
+            "instance_type": "x8aedz.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8aedz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/memory-optimized-amazon-ec2-x8aedz-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Dec 2, 2025"
+            }
+        },
+        {
+            "_index": 1088,
+            "uid": "92be63215fd07092",
+            "instance_type": "x8aedz.3xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8aedz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/memory-optimized-amazon-ec2-x8aedz-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Dec 2, 2025"
+            }
+        },
+        {
+            "_index": 1089,
+            "uid": "1c2762e26cdef941",
+            "instance_type": "x8aedz.6xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8aedz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/memory-optimized-amazon-ec2-x8aedz-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Dec 2, 2025"
+            }
+        },
+        {
+            "_index": 1090,
+            "uid": "ac44efd23d3cbdfd",
+            "instance_type": "x8aedz.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8aedz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/memory-optimized-amazon-ec2-x8aedz-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Dec 2, 2025"
+            }
+        },
+        {
+            "_index": 1091,
+            "uid": "8fa98a81671f7dc1",
+            "instance_type": "x8aedz.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8aedz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/memory-optimized-amazon-ec2-x8aedz-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Dec 2, 2025"
+            }
+        },
+        {
+            "_index": 1092,
+            "uid": "2ee8ecb126963350",
+            "instance_type": "x8aedz.metal-12xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8aedz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/memory-optimized-amazon-ec2-x8aedz-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Dec 2, 2025"
+            }
+        },
+        {
+            "_index": 1093,
+            "uid": "2b4684d1459e1f45",
+            "instance_type": "x8aedz.metal-24xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8aedz/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/memory-optimized-amazon-ec2-x8aedz-instances/",
+                "published": "Dec 2, 2025"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+                "published": "Dec 2, 2025"
             }
         }
     ]
