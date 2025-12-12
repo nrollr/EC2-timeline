@@ -1,7 +1,7 @@
 {
-    "release": "v2.1.5",
+    "release": "v2.1.6",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "December 2, 2025",
+    "published": "December 10, 2025",
     "instances": [
         {
             "_index": 1,
@@ -19675,6 +19675,186 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/",
                 "published": "Dec 2, 2025"
+            }
+        },
+        {
+            "_index": 1094,
+            "uid": "415ffdd0f75715f7",
+            "instance_type": "c8gb.medium",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances/",
+                "published": "Dec 10, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1095,
+            "uid": "18946308499ce38f",
+            "instance_type": "c8gb.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances/",
+                "published": "Dec 10, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1096,
+            "uid": "e6e6ca89d48a7031",
+            "instance_type": "c8gb.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances/",
+                "published": "Dec 10, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1097,
+            "uid": "9e3f13671b049ee7",
+            "instance_type": "c8gb.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances/",
+                "published": "Dec 10, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1098,
+            "uid": "bff11eaba362ab2f",
+            "instance_type": "c8gb.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances/",
+                "published": "Dec 10, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1099,
+            "uid": "ca217b486ccfd155",
+            "instance_type": "c8gb.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances/",
+                "published": "Dec 10, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1100,
+            "uid": "c5f8c90e8914cb99",
+            "instance_type": "c8gb.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances/",
+                "published": "Dec 10, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1101,
+            "uid": "ee20853dec90b768",
+            "instance_type": "c8gb.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances/",
+                "published": "Dec 10, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1102,
+            "uid": "3939d96a5a9b6110",
+            "instance_type": "c8gb.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances/",
+                "published": "Dec 10, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1103,
+            "uid": "aaf6b4c44fa1142c",
+            "instance_type": "c8gb.metal-24xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances/",
+                "published": "Dec 10, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
