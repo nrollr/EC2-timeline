@@ -1,7 +1,7 @@
 {
-    "release": "v2.1.6",
+    "release": "v2.1.7",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "December 10, 2025",
+    "published": "December 18, 2025",
     "instances": [
         {
             "_index": 1,
@@ -19851,6 +19851,348 @@
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances/",
                 "published": "Dec 10, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1104,
+            "uid": "e1079d347f7b5c33",
+            "instance_type": "m8gn.medium",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1105,
+            "uid": "ff692b01fe5a83cc",
+            "instance_type": "m8gn.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1106,
+            "uid": "b5cad5f63117c471",
+            "instance_type": "m8gn.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1107,
+            "uid": "23863a58916139af",
+            "instance_type": "m8gn.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1108,
+            "uid": "da577893cfbffa7b",
+            "instance_type": "m8gn.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1109,
+            "uid": "aeb42979a2d03bc7",
+            "instance_type": "m8gn.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1110,
+            "uid": "da75a47bb7d03de5",
+            "instance_type": "m8gn.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1111,
+            "uid": "d2ee6b8b3d79129e",
+            "instance_type": "m8gn.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1112,
+            "uid": "b5ad6d69fa3f6eea",
+            "instance_type": "m8gn.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1113,
+            "uid": "72887e550a509649",
+            "instance_type": "m8gn.48xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1114,
+            "uid": "fffd36f34afcfc6b",
+            "instance_type": "m8gb.medium",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1115,
+            "uid": "556879710e456181",
+            "instance_type": "m8gb.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1116,
+            "uid": "0921f51315b35386",
+            "instance_type": "m8gb.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1117,
+            "uid": "82443bb59ad825a8",
+            "instance_type": "m8gb.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1118,
+            "uid": "198ac3c95c0f6e6a",
+            "instance_type": "m8gb.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1119,
+            "uid": "a3dac6a9f31e90b7",
+            "instance_type": "m8gb.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1120,
+            "uid": "c9fe1e6b8f03ee20",
+            "instance_type": "m8gb.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1121,
+            "uid": "e17de6511b3967da",
+            "instance_type": "m8gb.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1122,
+            "uid": "e0c7e914cc3b97be",
+            "instance_type": "m8gb.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "December",
+            "release_year": 2025,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances/",
+                "published": "Dec 17, 2025"
             },
             "blog_post": {
                 "url": null,

@@ -7,15 +7,13 @@
     "start": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
-    "astro": "astro",
-    "push": "astro db execute db/seed.ts --remote"
+    "astro": "astro"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.6",
-    "@astrojs/db": "^0.18.3",
     "@astrojs/sitemap": "^3.6.0",
     "@tailwindcss/vite": "^4.1.18",
-    "astro": "^5.16.5",
+    "astro": "^5.16.6",
     "tailwindcss": "^4.1.18",
     "typescript": "^5.9.3"
   },
