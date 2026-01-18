@@ -1,7 +1,7 @@
 {
-    "release": "v2.1.7",
+    "release": "v2.1.8",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "December 18, 2025",
+    "published": "January 18, 2026",
     "instances": [
         {
             "_index": 1,
@@ -20197,6 +20197,258 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 1123,
+            "uid": "3271b517d602cdf4",
+            "instance_type": "x8i.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available/",
+                "published": "Jan 15, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+                "published": "Jan 15, 2026"
+            }
+        },
+        {
+            "_index": 1124,
+            "uid": "0ddbd646687a3d25",
+            "instance_type": "x8i.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available/",
+                "published": "Jan 15, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+                "published": "Jan 15, 2026"
+            }
+        },
+        {
+            "_index": 1125,
+            "uid": "21bb5391a56c7e71",
+            "instance_type": "x8i.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available/",
+                "published": "Jan 15, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+                "published": "Jan 15, 2026"
+            }
+        },
+        {
+            "_index": 1126,
+            "uid": "aea1c2b598943315",
+            "instance_type": "x8i.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available/",
+                "published": "Jan 15, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+                "published": "Jan 15, 2026"
+            }
+        },
+        {
+            "_index": 1127,
+            "uid": "efc88027dadf870c",
+            "instance_type": "x8i.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available/",
+                "published": "Jan 15, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+                "published": "Jan 15, 2026"
+            }
+        },
+        {
+            "_index": 1128,
+            "uid": "d52c5d0c0683812c",
+            "instance_type": "x8i.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available/",
+                "published": "Jan 15, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+                "published": "Jan 15, 2026"
+            }
+        },
+        {
+            "_index": 1129,
+            "uid": "84551ce8fe1c62d8",
+            "instance_type": "x8i.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available/",
+                "published": "Jan 15, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+                "published": "Jan 15, 2026"
+            }
+        },
+        {
+            "_index": 1130,
+            "uid": "5ce50941738e9c3f",
+            "instance_type": "x8i.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available/",
+                "published": "Jan 15, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+                "published": "Jan 15, 2026"
+            }
+        },
+        {
+            "_index": 1131,
+            "uid": "c8e95053201f5a97",
+            "instance_type": "x8i.32xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available/",
+                "published": "Jan 15, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+                "published": "Jan 15, 2026"
+            }
+        },
+        {
+            "_index": 1132,
+            "uid": "06b4c7f46d0f5dd7",
+            "instance_type": "x8i.48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available/",
+                "published": "Jan 15, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+                "published": "Jan 15, 2026"
+            }
+        },
+        {
+            "_index": 1133,
+            "uid": "7d9b4d0e5c317f9a",
+            "instance_type": "x8i.64xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available/",
+                "published": "Jan 15, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+                "published": "Jan 15, 2026"
+            }
+        },
+        {
+            "_index": 1134,
+            "uid": "56d243a8025399af",
+            "instance_type": "x8i.96xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available/",
+                "published": "Jan 15, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+                "published": "Jan 15, 2026"
+            }
+        },
+        {
+            "_index": 1135,
+            "uid": "b600e271c08c11d6",
+            "instance_type": "x8i.metal-48xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available/",
+                "published": "Jan 15, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+                "published": "Jan 15, 2026"
+            }
+        },
+        {
+            "_index": 1136,
+            "uid": "942778889cac1bf4",
+            "instance_type": "x8i.metal-96xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/x8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available/",
+                "published": "Jan 15, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+                "published": "Jan 15, 2026"
             }
         }
     ]
