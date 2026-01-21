@@ -1,7 +1,7 @@
 {
-    "release": "v2.1.8",
+    "release": "v2.1.9",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "January 18, 2026",
+    "published": "January 21, 2026",
     "instances": [
         {
             "_index": 1,
@@ -20449,6 +20449,114 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
                 "published": "Jan 15, 2026"
+            }
+        },
+        {
+            "_index": 1137,
+            "uid": "11adb019bb6c7f06",
+            "instance_type": "g7e.2xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g7e/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-g7e-instances-generally-available/",
+                "published": "Jan 20, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7e-instances-accelerated-by-nvidia-rtx-pro-6000-blackwell-server-edition-gpus/",
+                "published": "Jan 20, 2026"
+            }
+        },
+        {
+            "_index": 1138,
+            "uid": "4454ba4466c33199",
+            "instance_type": "g7e.4xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g7e/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-g7e-instances-generally-available/",
+                "published": "Jan 20, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7e-instances-accelerated-by-nvidia-rtx-pro-6000-blackwell-server-edition-gpus/",
+                "published": "Jan 20, 2026"
+            }
+        },
+        {
+            "_index": 1139,
+            "uid": "10b4a81abd2b40e2",
+            "instance_type": "g7e.8xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g7e/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-g7e-instances-generally-available/",
+                "published": "Jan 20, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7e-instances-accelerated-by-nvidia-rtx-pro-6000-blackwell-server-edition-gpus/",
+                "published": "Jan 20, 2026"
+            }
+        },
+        {
+            "_index": 1140,
+            "uid": "449e16403e8021c7",
+            "instance_type": "g7e.12xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g7e/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-g7e-instances-generally-available/",
+                "published": "Jan 20, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7e-instances-accelerated-by-nvidia-rtx-pro-6000-blackwell-server-edition-gpus/",
+                "published": "Jan 20, 2026"
+            }
+        },
+        {
+            "_index": 1141,
+            "uid": "117936f20d9de8db",
+            "instance_type": "g7e.24xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g7e/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-g7e-instances-generally-available/",
+                "published": "Jan 20, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7e-instances-accelerated-by-nvidia-rtx-pro-6000-blackwell-server-edition-gpus/",
+                "published": "Jan 20, 2026"
+            }
+        },
+        {
+            "_index": 1142,
+            "uid": "8377828a56baa33b",
+            "instance_type": "g7e.48xlarge",
+            "instance_category": "Accelerated Computing",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/g7e/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-g7e-instances-generally-available/",
+                "published": "Jan 20, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7e-instances-accelerated-by-nvidia-rtx-pro-6000-blackwell-server-edition-gpus/",
+                "published": "Jan 20, 2026"
             }
         }
     ]
