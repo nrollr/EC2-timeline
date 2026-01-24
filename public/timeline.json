@@ -1,7 +1,7 @@
 {
-    "release": "v2.2.0",
+    "release": "v2.2.1",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "January 23, 2026",
+    "published": "January 24, 2026",
     "instances": [
         {
             "_index": 1,
@@ -20643,6 +20643,24 @@
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/graviton4-ebs-optimized-larger-sizes/",
                 "published": "Jan 22, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1148,
+            "uid": "971bea473d42b141",
+            "instance_type": "mac-m4max.metal",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "January",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/mac/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-m4-max-mac-instances-ga/",
+                "published": "Jan 23, 2026"
             },
             "blog_post": {
                 "url": null,
