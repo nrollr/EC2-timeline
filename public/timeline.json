@@ -1,7 +1,7 @@
 {
-    "release": "v2.2.2",
+    "release": "v2.2.3",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "January 25, 2026",
+    "published": "February 5, 2026",
     "instances": [
         {
             "_index": 1,
@@ -20719,6 +20719,708 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 1152,
+            "uid": "9c6ae172c99d2453",
+            "instance_type": "c8id.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1153,
+            "uid": "df0b4c3a09e11294",
+            "instance_type": "c8id.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1154,
+            "uid": "50112d4b66f3397c",
+            "instance_type": "c8id.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1155,
+            "uid": "72bd5eb3541146c5",
+            "instance_type": "c8id.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1156,
+            "uid": "a74e84cb1987db74",
+            "instance_type": "c8id.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1157,
+            "uid": "db270067f0526ca9",
+            "instance_type": "c8id.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1158,
+            "uid": "bc6d2b4a00ee0a19",
+            "instance_type": "c8id.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1159,
+            "uid": "8b7adbba70a4abcf",
+            "instance_type": "c8id.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1160,
+            "uid": "401eec41c1b4c641",
+            "instance_type": "c8id.32xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1161,
+            "uid": "8732ed89964bb138",
+            "instance_type": "c8id.48xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1162,
+            "uid": "654c102bf9177d39",
+            "instance_type": "c8id.96xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1163,
+            "uid": "9465b5f8a5d82773",
+            "instance_type": "c8id.metal-48xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1164,
+            "uid": "6be91c153e07ece5",
+            "instance_type": "c8id.metal-96xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1165,
+            "uid": "3b68baf73db219ea",
+            "instance_type": "m8id.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1166,
+            "uid": "262f9c8b29df4e0d",
+            "instance_type": "m8id.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1167,
+            "uid": "5512fa78b2abb9b1",
+            "instance_type": "m8id.2xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1168,
+            "uid": "7067fd8530b23e77",
+            "instance_type": "m8id.4xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1169,
+            "uid": "7ed4cbb8001e1abf",
+            "instance_type": "m8id.8xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1170,
+            "uid": "95b2393c57a47057",
+            "instance_type": "m8id.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1171,
+            "uid": "35e30105fd86719f",
+            "instance_type": "m8id.16xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1172,
+            "uid": "29c989dcc95dd2a7",
+            "instance_type": "m8id.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1173,
+            "uid": "c44e264b7b6bfedc",
+            "instance_type": "m8id.32xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1174,
+            "uid": "5cf0e13fa88bda58",
+            "instance_type": "m8id.48xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1175,
+            "uid": "2fc334ae7a3821d8",
+            "instance_type": "m8id.96xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1176,
+            "uid": "aa35da3e4115ac8a",
+            "instance_type": "m8id.metal-48xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1177,
+            "uid": "e84c5a073da50eeb",
+            "instance_type": "m8id.metal-96xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1178,
+            "uid": "e55a312315870554",
+            "instance_type": "r8id.large",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1179,
+            "uid": "458181b36d14dfd9",
+            "instance_type": "r8id.xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1180,
+            "uid": "51963cbb4a96b334",
+            "instance_type": "r8id.2xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1181,
+            "uid": "ef186879b826718b",
+            "instance_type": "r8id.4xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1182,
+            "uid": "702f7c36959c6003",
+            "instance_type": "r8id.8xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1183,
+            "uid": "8a896568506441fa",
+            "instance_type": "r8id.12xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1184,
+            "uid": "5b1fae37a6bce582",
+            "instance_type": "r8id.16xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1185,
+            "uid": "b964d185986c4db8",
+            "instance_type": "r8id.24xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1186,
+            "uid": "7210f202ae311028",
+            "instance_type": "r8id.32xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1187,
+            "uid": "49868e8c6bf04f52",
+            "instance_type": "r8id.48xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1188,
+            "uid": "6b6bdff4c20d3921",
+            "instance_type": "r8id.96xlarge",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1189,
+            "uid": "84a3afa6a689b064",
+            "instance_type": "r8id.metal-48xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1190,
+            "uid": "ba80309ef46f993e",
+            "instance_type": "r8id.metal-96xl",
+            "instance_category": "Memory Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/r8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/",
+                "published": "Feb 4, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+                "published": "Feb 4, 2026"
             }
         }
     ]
