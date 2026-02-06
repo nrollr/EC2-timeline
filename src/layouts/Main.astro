@@ -1,5 +1,17 @@
 ---
 import "../styles/global.css";
+
+interface Props {
+	title?: string;
+	description?: string;
+}
+
+const {
+	title = "EC2 instance timeline",
+	description = "A historical overview of AWS EC2 instance releases",
+} = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -7,15 +19,25 @@ import "../styles/global.css";
 		<meta charset="utf-8" />
 		<meta http-equiv="x-ua-compatible" content="ie=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" />
-		<meta name="description" content="A historical overview of AWS EC2 instance releases" />
+		<meta name="description" content={description} />
 		<meta name="keywords" content="AWS, Amazon Web Services, Amazon Elastic Cloud Compute, EC2, Instance Types, Timeline" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>EC2 instance timeline</title>
-		<link rel="icon" href="svg/favicon.svg">
-		<link rel="mask-icon" href="svg/favicon.svg">
+		<title>{title}</title>
+		<link rel="canonical" href={canonicalURL} />
+		<link rel="icon" href="/svg/favicon.svg">
+		<link rel="mask-icon" href="/svg/favicon.svg">
 		<link rel="sitemap" href="/sitemap-index.xml" />
+		<!-- Open Graph -->
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content={title} />
+		<meta property="og:description" content={description} />
+		<meta property="og:url" content={canonicalURL} />
+		<meta property="og:site_name" content="EC2 instance timeline" />
+		<!-- Twitter -->
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content={title} />
+		<meta name="twitter:description" content={description} />
 	</head>
-	<body class="font-inter">
+	<body class="font-sans">
 		<slot />
 	</body>
 </html>

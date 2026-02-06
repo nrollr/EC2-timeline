@@ -1,0 +1,99 @@
+---
+import '../../styles/prism.css';
+---
+
+<main class="grid grid-cols-1 xl:grid-cols-2">
+    <!-- INPUT -->
+    <section class="grid grid-cols-1 h-1/2 xl:h-full content-start my-32 ">
+        <div class="flex flex-col mx-16 justify-center">
+            <!-- INSTANCE -->
+            <div class="pb-2">
+                <label for="instance" class="block text-sm font-medium text-gray-700 mb-1">Instance type(s)</label>
+                <input type="text" name="instance" id="instance" class="w-72 text-sm font-mono border-neutral-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50" autocomplete="off" placeholder="e.g. m5.xlarge;c5.large">
+            </div>
+
+            <!-- CREATE -->
+            <button type="button" name="create" id="create" class="w-36 relative inline-flex space-x-2 items-center px-4 py-2 text-sm font-medium text-white bg-[#2E3440] focus:outline-none disabled:opacity-50 disabled:cursor-not-allowed">
+                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M529 377c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0l-55 55L440 56c0-13.3-10.7-24-24-24s-24 10.7-24 24l0 342.1-55-55c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l96 96c9.4 9.4 24.6 9.4 33.9 0l96-96zM177 39c-9.4-9.4-24.6-9.4-33.9 0L47 135c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l55-55L136 456c0 13.3 10.7 24 24 24s24-10.7 24-24l0-342.1 55 55c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9L177 39z"/>
+                </svg>
+                <span id="button-text" class="text-sm font-medium">request hash</span>
+            </button>
+
+            <!-- ERROR -->
+            <div id="error" class="hidden mt-2 text-sm text-red-600" role="alert"></div>
+        </div>
+    </section>
+
+    <!-- RESPONSE -->
+    <section class="grid grid-cols-1 h-1/2 xl:h-full">
+        <div id="output" class="h-svh w-full bg-[#2E3440] pt-10 px-6">
+            <pre class="text-sm font-mono"><code id="message" class="language-json"></code></pre>
+        </div>
+    </section>
+</main>
+
+<script>
+	import * as Prism from 'prismjs';
+	const API_ENDPOINT = "https://api.instancetyp.es/hash";
+
+	const createButton = document.getElementById("create") as HTMLButtonElement;
+	const instanceInput = document.getElementById("instance") as HTMLInputElement;
+	const buttonText = document.getElementById("button-text") as HTMLSpanElement;
+	const errorDiv = document.getElementById("error") as HTMLDivElement;
+	const outputElement = document.getElementById("output") as HTMLDivElement;
+	const messageElement = document.getElementById("message") as HTMLElement;
+
+	function showError(message: string) {
+		errorDiv.textContent = message;
+		errorDiv.classList.remove("hidden");
+	}
+
+	function clearError() {
+		errorDiv.textContent = "";
+		errorDiv.classList.add("hidden");
+	}
+
+	function setLoading(loading: boolean) {
+		createButton.disabled = loading;
+		buttonText.textContent = loading ? "loading..." : "request hash";
+	}
+
+	createButton.onclick = function () {
+		clearError();
+
+		const value = instanceInput.value.trim();
+		if (!value) {
+			showError("Please enter at least one instance type.");
+			return;
+		}
+
+		const inputData = { instance: value.split(";") };
+		setLoading(true);
+
+		fetch(API_ENDPOINT, {
+			method: "POST",
+			headers: { "Content-Type": "application/json; charset=utf-8" },
+			body: JSON.stringify(inputData),
+		})
+			.then((response) => {
+				if (!response.ok) {
+					throw new Error(`Request failed (${response.status})`);
+				}
+				return response.json();
+			})
+			.then((data) => {
+				const formattedData = JSON.stringify(data, null, 2);
+				messageElement.textContent = formattedData;
+				outputElement.style.display = "block";
+				Prism.highlightAll();
+				instanceInput.value = "";
+			})
+			.catch((error) => {
+				showError(error.message);
+			})
+			.finally(() => {
+				setLoading(false);
+			});
+	};
+</script>
