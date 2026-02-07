@@ -1,0 +1,147 @@
+---
+import ServerIcon from "./ServerIcon.astro";
+import timelineData from "../../public/timeline.json";
+
+interface Props {
+	year: number;
+}
+
+const { year } = Astro.props;
+
+const MONTH_ORDER = [
+	"December", "November", "October", "September",
+	"August", "July", "June", "May",
+	"April", "March", "February", "January",
+];
+
+interface Instance {
+	instance_type: string;
+	instance_category: string;
+	instance_generation: string;
+	release_month: string;
+	release_year: number;
+	product_page: string;
+}
+
+interface FamilyGroup {
+	family: string;
+	instances: string[];
+	productPage: string;
+	generation: string;
+}
+
+interface CategoryGroup {
+	category: string;
+	families: FamilyGroup[];
+}
+
+interface MonthGroup {
+	month: string;
+	categories: CategoryGroup[];
+}
+
+function getFamily(instanceType: string): string {
+	const dotIndex = instanceType.lastIndexOf(".");
+	return dotIndex !== -1 ? instanceType.substring(0, dotIndex) : instanceType;
+}
+
+function getLinkLabel(generation: string): string {
+	return generation === "Previous generation" ? "Previous generation" : "Product page";
+}
+
+function getLinkStyle(generation: string): string {
+	return generation === "Previous generation"
+		? "text-sm text-gray-500 hover:text-gray-900 border-b border-gray-200"
+		: "text-sm font-medium text-gray-600 hover:text-gray-900 border-b border-gray-200";
+}
+
+const yearInstances = (timelineData.instances as Instance[]).filter(
+	(i) => i.release_year === year
+);
+
+const months: MonthGroup[] = [];
+const monthMap = new Map<string, MonthGroup>();
+
+for (const inst of yearInstances) {
+	let monthGroup = monthMap.get(inst.release_month);
+	if (!monthGroup) {
+		monthGroup = { month: inst.release_month, categories: [] };
+		monthMap.set(inst.release_month, monthGroup);
+	}
+
+	const family = getFamily(inst.instance_type);
+
+	// Find or create category group
+	let catGroup = monthGroup.categories.find((c) => c.category === inst.instance_category);
+	if (!catGroup) {
+		catGroup = { category: inst.instance_category, families: [] };
+		monthGroup.categories.push(catGroup);
+	}
+
+	// Find or create family group within category (same product_page + family)
+	let famGroup = catGroup.families.find(
+		(f) => f.family === family && f.productPage === inst.product_page
+	);
+	if (!famGroup) {
+		famGroup = {
+			family,
+			instances: [],
+			productPage: inst.product_page,
+			generation: inst.instance_generation,
+		};
+		catGroup.families.push(famGroup);
+	}
+
+	famGroup.instances.push(inst.instance_type);
+}
+
+// Sort months in descending order
+for (const monthName of MONTH_ORDER) {
+	const group = monthMap.get(monthName);
+	if (group) months.push(group);
+}
+---
+<li>
+	<div class="relative pb-8 mt-4">
+		<span class="absolute top-5 left-8 -ml-px h-full w-timeline bg-timeline-100" aria-hidden="true"></span>
+		<div class="relative flex items-start space-x-3">
+			<div class="relative">
+				<button class="flex items-center justify-center rounded bg-aws-100 text-white py-1 px-3">{year}</button>
+			</div>
+		</div>
+	</div>
+</li>
+{months.map((monthGroup) => (
+<li>
+	<div class="relative pb-8 mt-4">
+		<span class="absolute top-5 left-8 -ml-px h-full w-timeline bg-timeline-100" aria-hidden="true"></span>
+		<div class="relative flex left-3 space-x-3">
+			<div>
+				<div class="relative px-1">
+					<div class="h-8 w-8 bg-gray-100 rounded-full ring-4 ring-white flex items-center justify-center">
+						<ServerIcon />
+					</div>
+				</div>
+			</div>
+			<div class="min-w-0 flex-1 py-0">
+				<div class="flex items-center text-sm font-medium text-gray-600 pt-1.5">{monthGroup.month.toUpperCase()} {year}</div>
+				{monthGroup.categories.map((catGroup) => (
+					<>
+						<div class="mt-8 relative inline-flex items-center rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+							<div class="font-medium text-sm text-gray-600">{catGroup.category}</div>
+						</div>
+						{catGroup.families.map((famGroup, famIdx) => (
+							<div class={famIdx === 0 ? "mt-1 mx-3 text-gray-700" : "mt-3 mx-3 text-gray-700"}>
+								<p class="font-light text-sm">Release of {famGroup.instances.length === 1 ? "instance" : "instances"}: <span class="font-medium text-aws-200">{famGroup.instances.join(", ")}</span></p>
+								<span class="relative inline-flex items-center">
+									<a href={famGroup.productPage} class={getLinkStyle(famGroup.generation)}>{getLinkLabel(famGroup.generation)}</a>
+								</span>
+							</div>
+						))}
+					</>
+				))}
+			</div>
+		</div>
+	</div>
+</li>
+))}

@@ -1,34 +1,9 @@
 ---
-//Components
 import Header from "../components/Header.astro";
-
-import EC2_2026 from "../components/202x/EC2_2026.astro";
-import EC2_2025 from "../components/202x/EC2_2025.astro";
-import EC2_2024 from "../components/202x/EC2_2024.astro";
-import EC2_2023 from "../components/202x/EC2_2023.astro";
-import EC2_2022 from "../components/202x/EC2_2022.astro";
-import EC2_2021 from "../components/202x/EC2_2021.astro";
-import EC2_2020 from "../components/202x/EC2_2020.astro";
-
-import EC2_2019 from "../components/201x/EC2_2019.astro";
-import EC2_2018 from "../components/201x/EC2_2018.astro";
-import EC2_2017 from "../components/201x/EC2_2017.astro";
-import EC2_2016 from "../components/201x/EC2_2016.astro";
-import EC2_2015 from "../components/201x/EC2_2015.astro";
-import EC2_2014 from "../components/201x/EC2_2014.astro";
-import EC2_2013 from "../components/201x/EC2_2013.astro";
-import EC2_2012 from "../components/201x/EC2_2012.astro";
-import EC2_2011 from "../components/201x/EC2_2011.astro";
-import EC2_2010 from "../components/201x/EC2_2010.astro";
-
-import EC2_2009 from "../components/200x/EC2_2009.astro";
-import EC2_2008 from "../components/200x/EC2_2008.astro";
-import EC2_2007 from "../components/200x/EC2_2007.astro";
-import EC2_2006 from "../components/200x/EC2_2006.astro";
-
-//Layouts
+import TimelineYear from "../components/TimelineYear.astro";
 import Main from "../layouts/Main.astro";
 
+const years = Array.from({ length: 2026 - 2006 + 1 }, (_, i) => 2026 - i);
 ---
 <Main>
 	<div class="bg-aws-100 mx-auto h-2 w-full"></div>
@@ -38,29 +13,9 @@ import Main from "../layouts/Main.astro";
 			<!-- TIMELINE -->
 			<div class="flow-root px-2 ml-6">
 				<ul class="-mb-8 mt-12">
-					<EC2_2026 />
-					<EC2_2025 />
-					<EC2_2024 />
-					<EC2_2023 />
-					<EC2_2022 />
-					<EC2_2021 />
-					<EC2_2020 />
-
-					<EC2_2019 />
-					<EC2_2018 />
-					<EC2_2017 />
-					<EC2_2016 />
-					<EC2_2015 />
-					<EC2_2014 />
-					<EC2_2013 />
-					<EC2_2012 />
-					<EC2_2011 />
-					<EC2_2010 />
-
-					<EC2_2009 />
-					<EC2_2008 />
-					<EC2_2007 />
-					<EC2_2006 />
+					{years.map((year) => (
+						<TimelineYear year={year} />
+					))}
 				</ul>
 			</div>
 		</div>
