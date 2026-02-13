@@ -1,7 +1,7 @@
 {
-    "release": "v2.2.3",
+    "release": "v2.2.4",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "February 5, 2026",
+    "published": "February 13, 2026",
     "instances": [
         {
             "_index": 1,
@@ -21421,6 +21421,168 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
                 "published": "Feb 4, 2026"
+            }
+        },
+        {
+            "_index": 1191,
+            "uid": "2a95641dcd830dae",
+            "instance_type": "m8azn.medium",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-m8azn-instances-generally-available/",
+                "published": "Feb 12, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1192,
+            "uid": "348bb50122f643ef",
+            "instance_type": "m8azn.large",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-m8azn-instances-generally-available/",
+                "published": "Feb 12, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1193,
+            "uid": "e23176c3082cf8b4",
+            "instance_type": "m8azn.xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-m8azn-instances-generally-available/",
+                "published": "Feb 12, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1194,
+            "uid": "6aeab603b5b97caf",
+            "instance_type": "m8azn.3xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-m8azn-instances-generally-available/",
+                "published": "Feb 12, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1195,
+            "uid": "8c870d76cf600811",
+            "instance_type": "m8azn.6xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-m8azn-instances-generally-available/",
+                "published": "Feb 12, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1196,
+            "uid": "4e8c53991afed745",
+            "instance_type": "m8azn.12xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-m8azn-instances-generally-available/",
+                "published": "Feb 12, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1197,
+            "uid": "e2c528365f1e9d78",
+            "instance_type": "m8azn.24xlarge",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-m8azn-instances-generally-available/",
+                "published": "Feb 12, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1198,
+            "uid": "ba6731452ce4a270",
+            "instance_type": "m8azn.metal-12xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-m8azn-instances-generally-available/",
+                "published": "Feb 12, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1199,
+            "uid": "0f4c90cee4c2ffcb",
+            "instance_type": "m8azn.metal-24xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-m8azn-instances-generally-available/",
+                "published": "Feb 12, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
