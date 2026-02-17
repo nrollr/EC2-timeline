@@ -1,7 +1,7 @@
 {
-    "release": "v2.2.4",
+    "release": "v2.2.5",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "February 13, 2026",
+    "published": "February 17, 2026",
     "instances": [
         {
             "_index": 1,
@@ -21583,6 +21583,24 @@
             "blog_post": {
                 "url": null,
                 "published": null
+            }
+        },
+        {
+            "_index": 1200,
+            "uid": "d5722a2b5a3a5873",
+            "instance_type": "hpc8a.96xlarge",
+            "instance_category": "HPC Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/hpc8a/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/announcing-amazon-ec2-hpc8a-instances/",
+                "published": "Feb 16, 2026"
+            },
+            "blog_post": {
+                "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
+                "published": "Feb 16, 2026"
             }
         }
     ]

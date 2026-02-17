@@ -1,5 +1,6 @@
 ---
-
+import timelineData from "../../public/timeline.json";
+const { release } = timelineData;
 ---
 <header>
 	<div class="w-full mx-auto content-center p-8">
@@ -24,7 +25,7 @@
 			<span class="inline-flex">
 				<span class="text-xs py-1 px-3 rounded-l text-gray-600 bg-gray-100">Release</span>
 				<span class="text-xs py-1 px-3 rounded-r text-white bg-aws-100">
-					<a href="https://github.com/nrollr/ec2-timeline/releases">v2.2.4</a>
+					<a href="https://github.com/nrollr/ec2-timeline/releases">{release}</a>
 				</span>
 			</span>
 		</div>
