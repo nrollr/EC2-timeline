@@ -1,7 +1,7 @@
 {
-    "release": "v2.2.5",
+    "release": "v2.2.6",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "February 17, 2026",
+    "published": "February 26, 2026",
     "instances": [
         {
             "_index": 1,
@@ -21601,6 +21601,96 @@
             "blog_post": {
                 "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
                 "published": "Feb 16, 2026"
+            }
+        },
+        {
+            "_index": 1201,
+            "uid": "ffe7e6a81d157257",
+            "instance_type": "m8gn.metal-24xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8gn-m8gb-new-metal-sizes/",
+                "published": "Feb 25, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1202,
+            "uid": "1a7671876871299b",
+            "instance_type": "m8gn.metal-48xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8gn-m8gb-new-metal-sizes/",
+                "published": "Feb 25, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1203,
+            "uid": "97ed5166e7c1084a",
+            "instance_type": "m8gb.metal-24xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8gn-m8gb-new-metal-sizes/",
+                "published": "Feb 25, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1204,
+            "uid": "37b74d534ed52802",
+            "instance_type": "m8gb.metal-48xl",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/m8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8gn-m8gb-new-metal-sizes/",
+                "published": "Feb 25, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1205,
+            "uid": "aaa4e040d3d0d5b2",
+            "instance_type": "i8g.metal-48xl",
+            "instance_category": "Storage Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "February",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/i8g/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/ec2-i8g-metal-48xl-generally-available/",
+                "published": "Feb 26, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
             }
         }
     ]
