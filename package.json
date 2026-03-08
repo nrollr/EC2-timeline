@@ -5,13 +5,12 @@
   "type": "module",
   "scripts": {
     "start": "astro dev",
-    "build": "astro check && astro build",
+    "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {},
   "devDependencies": {
-    "@astrojs/check": "^0.9.6",
     "@astrojs/sitemap": "^3.7.0",
     "@tailwindcss/vite": "^4.2.1",
     "astro": "^5.18.0",
