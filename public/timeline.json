@@ -1,7 +1,7 @@
 {
-    "release": "v2.2.6",
+    "release": "v2.2.7",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "February 26, 2026",
+    "published": "April 17, 2026",
     "instances": [
         {
             "_index": 1,
@@ -21687,6 +21687,474 @@
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/ec2-i8g-metal-48xl-generally-available/",
                 "published": "Feb 26, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1206,
+            "uid": "1cc3f8faefe89b4d",
+            "instance_type": "c8in.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1207,
+            "uid": "855b9cb142c4fd24",
+            "instance_type": "c8in.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1208,
+            "uid": "dfca5732d82d3ce9",
+            "instance_type": "c8in.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1209,
+            "uid": "e81e4c998484ecf9",
+            "instance_type": "c8in.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1210,
+            "uid": "474e8a0bcc76d970",
+            "instance_type": "c8in.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1211,
+            "uid": "2e5bea5af548fabb",
+            "instance_type": "c8in.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1212,
+            "uid": "6abd4af79694969f",
+            "instance_type": "c8in.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1213,
+            "uid": "48f8c123011167ba",
+            "instance_type": "c8in.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1214,
+            "uid": "81f97986e5f26a42",
+            "instance_type": "c8in.32xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1215,
+            "uid": "3eb981650b714c4f",
+            "instance_type": "c8in.48xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1216,
+            "uid": "11ce337852612f8e",
+            "instance_type": "c8in.96xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1217,
+            "uid": "c1624edec3323307",
+            "instance_type": "c8in.metal-48xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1218,
+            "uid": "bee1113e13ebd4c4",
+            "instance_type": "c8in.metal-96xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Compute Optimized",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1219,
+            "uid": "8e1a7f545c7a7196",
+            "instance_type": "c8ib.large",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1220,
+            "uid": "16aef4a3fcb4983b",
+            "instance_type": "c8ib.xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1221,
+            "uid": "c3338e606a88a2a5",
+            "instance_type": "c8ib.2xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1222,
+            "uid": "0a10ee23ed62d27b",
+            "instance_type": "c8ib.4xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1223,
+            "uid": "b184b960288c5972",
+            "instance_type": "c8ib.8xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1224,
+            "uid": "a2faa6b9fbe92dce",
+            "instance_type": "c8ib.12xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1225,
+            "uid": "8da794cffea08a5f",
+            "instance_type": "c8ib.16xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1226,
+            "uid": "ef7f376e6d5d8098",
+            "instance_type": "c8ib.24xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1227,
+            "uid": "ab32c37c9df1af95",
+            "instance_type": "c8ib.32xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1228,
+            "uid": "bcfc3c14ac3ed619",
+            "instance_type": "c8ib.48xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1229,
+            "uid": "0c5b5ff0b205b067",
+            "instance_type": "c8ib.96xlarge",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1230,
+            "uid": "478703d34bf3786a",
+            "instance_type": "c8ib.metal-48xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1231,
+            "uid": "860fe5836ee50719",
+            "instance_type": "c8ib.metal-96xl",
+            "instance_category": "Compute Optimized",
+            "instance_generation": "Current generation",
+            "release_month": "April",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/c8i/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/",
+                "published": "Apr 16, 2026"
             },
             "blog_post": {
                 "url": null,
