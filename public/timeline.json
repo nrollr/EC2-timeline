@@ -1,7 +1,7 @@
 {
-    "release": "v2.2.9",
+    "release": "v2.3.0",
     "origin": "https://instancetyp.es/timeline.json",
-    "published": "May 16, 2026",
+    "published": "May 17, 2026",
     "instances": [
         {
             "_index": 1,
@@ -23955,6 +23955,24 @@
             "announcement": {
                 "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8idn-m8idb/",
                 "published": "May 7, 2026"
+            },
+            "blog_post": {
+                "url": null,
+                "published": null
+            }
+        },
+        {
+            "_index": 1332,
+            "uid": "d7f4001a77090ad6",
+            "instance_type": "mac-m3ultra.metal",
+            "instance_category": "General Purpose",
+            "instance_generation": "Current generation",
+            "release_month": "May",
+            "release_year": 2026,
+            "product_page": "https://aws.amazon.com/ec2/instance-types/mac/",
+            "announcement": {
+                "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m3-ultra-mac-instances-generally-available/",
+                "published": "May 14, 2026"
             },
             "blog_post": {
                 "url": null,
